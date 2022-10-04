@@ -41,8 +41,14 @@ links:
       - title: CCA
         url: /holistic-education/cca/
   - title: Signature Programme
-    url: /signature-programme/
-    sublinks: []
+    url: /signature-programme/supporting-students-with-hearing-loss/
+    sublinks:
+      - title: Students w/ Hearing Loss
+        url: /signature-programme/supporting-students-with-hearing-loss/
+      - title: Applied Learning Programme
+        url: /signature-programme/alp/
+      - title: Learning for Life Programmes
+        url: /signature-programme/llp/
   - title: Achievements
     url: /achievements/
     sublinks: []
