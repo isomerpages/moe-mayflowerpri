@@ -1,8 +1,20 @@
 logo: /images/sch logo.jpg
 links:
   - title: About Us
-    url: /about-us/
-    sublinks: []
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: Vision,Mission,Motto & Values
+        url: /about-us/vision-mission-motto-values/
+      - title: Our School Song & School Crest
+        url: /about-us/school-song-and-school-crest/
+      - title: Our People
+        url: /about-us/our-people/
+      - title: Our Partners
+        url: /about-us/our-partners/
   - title: Holistic Education
     url: /holistic-education/
     sublinks: []
