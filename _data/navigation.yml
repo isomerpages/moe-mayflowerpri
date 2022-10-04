@@ -50,16 +50,32 @@ links:
       - title: Learning for Life Programmes
         url: /signature-programme/llp/
   - title: Achievements
-    url: /achievements/
+    url: /achievements/school-achievements/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: MFPS Alumnus
-        url: /achievements/mfps-alumnus/
+      - title: School Achievements
+        url: /achievements/school-achievements/
+      - title: Student Achievements
+        url: /achievements/student-achievements/
+      - title: MFPS in the news
+        url: /achievements/mfps-in-the-news/
   - title: School Information
-    url: /school-information/
-    sublinks: []
+    url: /school-information/school-operating-hours/
+    sublinks:
+      - title: Contact Us
+        url: /contact-us/
+      - title: School Operating Hours
+        url: /school-information/school-operating-hours/
+      - title: School Rules and Regulations
+        url: /school-information/school-rules-and-regulations/
+      - title: Personal Data Protection Act
+        url: /school-information/personal-data-protection-act/
+      - title: School Bookshop
+        url: /school-information/school-bookshop/
+      - title: School Bus Operator
+        url: /school-information/school-bus-operator/
+      - title: School Uniform Supplier
+        url: /school-information/school-uniform-supplier/
+      - title: Financial Assistance Scheme
+        url: /school-information/fas/
+      - title: MOE Kindergarten @ Mayflower
+        url: /school-information/moe-kindergarten/
