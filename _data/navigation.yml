@@ -1,6 +1,17 @@
 logo: /images/sch logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/
+    sublinks: []
+  - title: Holistic Education
+    url: /holistic-education/
+    sublinks: []
+  - title: Signature Programme
+    url: /signature-programme/
+    sublinks: []
+  - title: Achievements
+    url: /achievements/
+    sublinks: []
+  - title: School Information
+    url: /school-information/
+    sublinks: []
