@@ -43,7 +43,7 @@ links:
   - title: Signature Programme
     url: /signature-programme/supporting-students-with-hearing-loss/
     sublinks:
-      - title: Students w/ Hearing Loss
+      - title: Aid for Hearing Loss students
         url: /signature-programme/supporting-students-with-hearing-loss/
       - title: Applied Learning Programme
         url: /signature-programme/alp/
@@ -51,7 +51,15 @@ links:
         url: /signature-programme/llp/
   - title: Achievements
     url: /achievements/
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: MFPS Alumnus
+        url: /achievements/mfps-alumnus/
   - title: School Information
     url: /school-information/
     sublinks: []
