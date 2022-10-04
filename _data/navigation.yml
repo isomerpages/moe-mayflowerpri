@@ -16,8 +16,30 @@ links:
       - title: Our Partners
         url: /about-us/our-partners/
   - title: Holistic Education
-    url: /holistic-education/
-    sublinks: []
+    url: /holistic-education/traits-of-mfps-students/
+    sublinks:
+      - title: Traits of MFPS Students
+        url: /holistic-education/traits-of-mfps-students/
+      - title: English Language
+        url: /holistic-education/english-language/
+      - title: Mother Tongue Languages
+        url: /holistic-education/mother-tongue-languages/
+      - title: Mathematics
+        url: /holistic-education/mathematics/
+      - title: Science
+        url: /holistic-education/science/
+      - title: Character & Citizenship Edu
+        url: /holistic-education/cce/
+      - title: Physical Education
+        url: /holistic-education/physical-education/
+      - title: Visual Arts
+        url: /holistic-education/visual-arts/
+      - title: Music
+        url: /holistic-education/music/
+      - title: ICT
+        url: /holistic-education/ict/
+      - title: CCA
+        url: /holistic-education/cca/
   - title: Signature Programme
     url: /signature-programme/
     sublinks: []
