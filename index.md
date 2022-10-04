@@ -2,7 +2,7 @@
 layout: homepage
 title: Mayflower Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/sch logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -29,4 +29,5 @@ sections:
       button: click here for more info
       url: /hbl/
 ---
+
 
