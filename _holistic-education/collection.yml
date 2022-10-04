@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Character & Citizenship Edu/Cyber Wellness & Family Time.md
       - Character & Citizenship Edu/Student Leadership.md
       - Character & Citizenship Edu/Values In Action.md
       - Character & Citizenship Edu/Student Support Programmes in MFPS.md
