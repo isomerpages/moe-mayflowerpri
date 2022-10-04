@@ -2,7 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
-      - Character & Citizen Education/.keep
+      - Character & Citizenship Edu/.keep
       - Physical Education.md
       - Visual Arts.md
       - Music.md
