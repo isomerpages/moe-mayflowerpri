@@ -2,6 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
+      - Character & Citizenship Edu/Character & Citizenship Education Learning
+        Outcomes.md
       - Character & Citizenship Edu/National Education (NE).md
       - Character & Citizenship Edu/Character & Citizenship Education (MTL).md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
