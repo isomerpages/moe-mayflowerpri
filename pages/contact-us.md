@@ -27,4 +27,9 @@ contacts:
       - other: Due to limited parking facilities within the school compound, visitors
           are advised to use the public carparks near the school.
     title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Mixed School Single Session
+    title: More info
 ---
