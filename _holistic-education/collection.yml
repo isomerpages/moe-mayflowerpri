@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - ICT/SLS Support for Home Based Learning.md
       - ICT/Student ICON.md
       - ICT/Cyber Wellness.md
       - ICT/Cyber Bully.md
