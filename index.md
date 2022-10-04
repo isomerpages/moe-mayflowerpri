@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Mayflower Primary School
-      background: /images/hero-banner.png
+      background: /images/hero.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -29,5 +29,3 @@ sections:
       button: click here for more info
       url: /hbl/
 ---
-
-
