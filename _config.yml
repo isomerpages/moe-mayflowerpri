@@ -1,6 +1,6 @@
 title: Mayflower Primary School
 url: https://mayflowerpri.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/sch logo.jpg
 colors:
   primary-color: "#3385ff"
   secondary-color: "#3385ff"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dumgjq4ikmf5k.amplifyapp.com
 prod: https://master.dumgjq4ikmf5k.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/sch logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
