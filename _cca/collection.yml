@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
+      - Clubs/Infocomm Club.md
       - Clubs/.keep
       - Sports/Sports.md
       - Sports/Netball.md
