@@ -2,4 +2,5 @@ collections:
   signature-programme:
     output: true
     order:
+      - Applied Learning Programme (STEM @ MFPS).md
       - Learning for Life Programme @ MFPS.md
