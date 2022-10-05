@@ -58,12 +58,10 @@ Appreciation for the following students who participated in
 
 |  Internal Competition | Level |
 |---|---|
-|  **Literary Competition:** <br> P1: Singing  <br> P2: Singing<br> P3: Singing <br> P4: Advertisement<br> P5: Advertisement<br> P6: Advertisement  | **P1 to P6** |
+|  **Literary Competition:** <br> P1: Singing  <br> P2: Singing<br> P3: Singing <br> P4: Advertisement<br> P5: Advertisement<br> P6: Advertisement  | <br><br>**P1 to P6** |
 |
 
 |  External Competition | Level |
 |---|---|
 |  **Literary Competition:** <br> Singing Competition <br> Story Telling Competition<br> Creative Story Competition | <br>**Selected P1 to P2**<br>**Selected P3 to P4**<br>**Selected P5** |
 |
-
-
