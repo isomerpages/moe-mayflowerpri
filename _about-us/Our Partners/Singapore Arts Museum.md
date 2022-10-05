@@ -10,9 +10,9 @@ third_nav_title: Our Partners
 Through this programme, we hope to develop our students into self-directed learners who are responsible, resilient, and collaborative team players. Using authentic learning activities, students learn to co-create, share, and build knowledge with teachers and peers. They will also gain the skills and knowledge to communicate more effectively with an audience through various art forms and media. In addition, we aim to inculcate good values and character in our students, guiding them to become concerned and gracious citizens who are grounded in Singapore yet outward looking with a curiosity for global affairs.
 
 
-<img src="/images/sam1.png" style="width:65%">
-<img src="/images/sam2.png" style="width:65%">
-<img src="/images/sam3.png" style="width:65%">
-<img src="/images/sam4.png" style="width:65%">
-<img src="/images/sam5.png" style="width:65%">
-<img src="/images/sam6.png" style="width:65%">
+<img src="/images/sam1.png" style="width:75%">
+<img src="/images/sam2.png" style="width:75%">
+<img src="/images/sam3.png" style="width:75%">
+<img src="/images/sam4.png" style="width:75%">
+<img src="/images/sam5.png" style="width:75%">
+<img src="/images/sam6.png" style="width:75%">
