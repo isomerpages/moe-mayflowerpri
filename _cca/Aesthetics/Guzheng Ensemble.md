@@ -30,6 +30,8 @@ Guzheng CCA also provides an Elective Programme for Primary 1 and Primary 2 stud
 <img src="/images/guzheng1.jpg" style="width:51%" align=left>
 <img src="/images/guzheng2.jpg" style="width:47%" align=right>
 
+<br clear="left">
+
 ##### **We are putting in our best effort for the performance!**
 
 <img src="/images/guzheng3.jpg" style="width:75%">
@@ -42,6 +44,3 @@ Guzheng CCA also provides an Elective Programme for Primary 1 and Primary 2 stud
 
 <img src="/images/guzheng5.jpg" style="width:40%" align=left>
 <img src="/images/guzheng6.jpg" style="width:58%" align=right>
-
-
-
