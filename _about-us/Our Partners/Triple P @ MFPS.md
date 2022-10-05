@@ -11,3 +11,8 @@ The programme equips parents with simple and practical strategies to help them c
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/Fo8XE2yQStg" title="Positive Parenting Program (Singapore)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<img src="/images/triplep1.jpg" style="width:85%">
+
+<img src="/images/triplep2.jpg" style="width:85%">
+
+Parents at Triple P evening seminars demonstrated the heart and commitment of parents wanting to understand their children better and support them with more effective strategies.
