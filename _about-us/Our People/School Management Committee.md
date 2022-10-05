@@ -9,31 +9,31 @@ third_nav_title: Our People
 
 |  |  |
 |---|---|
-|  Principal |  Ms Cecilia Lim<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
-|  Vice-principal (EO) |  Mrs Winefrede Loo<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
-|  Vice-principal (EO) |  Mrs Chow - Kong Yuit Chan, Noelle Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
-|  Vice-principal (Admin) |  Mr Kwok Keng Lian<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
+|  **Principal** |  Ms Cecilia Lim<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
+|  **Vice-principal (EO)** |  Mrs Winefrede Loo<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
+|  **Vice-principal (EO)** |  Mrs Chow - Kong Yuit Chan, Noelle Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
+|  **Vice-principal (Admin)** |  Mr Kwok Keng Lian<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
 |
 
 #### **Head of Departments**
 
 |  |  |
 |---|---|
-|  English |  Miss Wong Shilei Charmaine [HOD EL (Internal)] <br> Email: [wong_shilei_charmaine@moe.edu.sg](mailto:wong_shilei_charmaine@moe.edu.sg) |
-|  Mathematics |  Mdm Ang Chieh Sin Jaselin<br> Email: [ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.sg) |
-|  Mother Tongue  Languages |  Ms Ng Yein Leng<br> Email: [ng_yein_leng@moe.edu.sg](mailto:ng_yein_leng@moe.edu.sg) |
-|  PAM and CCA |  Mr Sebastian Lau Kian Yong<br> Email: [sebastian_lau_kian_yong@moe.edu.sg](mailto:sebastian_lau_kian_yong@moe.edu.sg) |
-|  Character & Citizenship Education (CCE) |  Mdm Chua Yulin Eileen<br> Email: [chua_yulin_eileen@moe.edu.sg](mailto:chua_yulin_eileen@moe.edu.sg) |
-|  School Staff Developer |  Mdm Chen Yit Kai<br> Email: [chen_yit_kai@moe.edu.sg](mailto:chen_yit_kai@moe.edu.sg) |
+|  **English** |  Miss Wong Shilei Charmaine [HOD EL (Internal)] <br> Email: [wong_shilei_charmaine@moe.edu.sg](mailto:wong_shilei_charmaine@moe.edu.sg) |
+|  **Mathematics** |  Mdm Ang Chieh Sin Jaselin<br> Email: [ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.sg) |
+|  **Mother Tongue  Languages** |  Ms Ng Yein Leng<br> Email: [ng_yein_leng@moe.edu.sg](mailto:ng_yein_leng@moe.edu.sg) |
+|  **PAM and CCA** |  Mr Sebastian Lau Kian Yong<br> Email: [sebastian_lau_kian_yong@moe.edu.sg](mailto:sebastian_lau_kian_yong@moe.edu.sg) |
+|  **Character & Citizenship Education (CCE)** |  Mdm Chua Yulin Eileen<br> Email: [chua_yulin_eileen@moe.edu.sg](mailto:chua_yulin_eileen@moe.edu.sg) |
+|  **School Staff Developer** |  Mdm Chen Yit Kai<br> Email: [chen_yit_kai@moe.edu.sg](mailto:chen_yit_kai@moe.edu.sg) |
 |
 
 #### **Year Heads**
 
 |  |  |
 |---|---|
-|   P1 to P2 |  Mdm Lim Wen Chye Joey<br> Email: [lim_wen_chye@moe.edu.sg](mailto:lim_wen_chye@moe.edu.sg)<br><br>  Mdm Vinlee Toh (Assistant Year Head)-Internal<br>Email: [vinlee_toh@moe.edu.sg](mailto:vinlee_toh@moe.edu.sg) |
-|   P3 to P4 |  Mr Leong Wai Phang<br> Email: [leong_wai_phang@moe.edu.sg](mailto:leong_wai_phang@moe.edu.sg)<br><br> Mdm Chua Sok Huang (Assistant Year Head) <br> Email: [chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg)<br> |
-|   P5 to P6 |  Mdm Au Yard Wah <br> Email: [au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br><br> Mdm Ashini Prasad (Assistant Year Head) - Internal<br> Email: [ashini_prasad@moe.edu.sg](mailto:ashini_prasad@moe.edu.sg)  |
+| **P1 to P2** |  Mdm Lim Wen Chye Joey<br> Email: [lim_wen_chye@moe.edu.sg](mailto:lim_wen_chye@moe.edu.sg)<br><br>  Mdm Vinlee Toh (Assistant Year Head)-Internal<br>Email: [vinlee_toh@moe.edu.sg](mailto:vinlee_toh@moe.edu.sg) |
+|   **P3 to P4** |  Mr Leong Wai Phang<br> Email: [leong_wai_phang@moe.edu.sg](mailto:leong_wai_phang@moe.edu.sg)<br><br> Mdm Chua Sok Huang (Assistant Year Head) <br> Email: [chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg)<br> |
+|   **P5 to P6** |  Mdm Au Yard Wah <br> Email: [au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br><br> Mdm Ashini Prasad (Assistant Year Head) - Internal<br> Email: [ashini_prasad@moe.edu.sg](mailto:ashini_prasad@moe.edu.sg)  |
 |
 
 #### **Subject Head & Level Heads**
