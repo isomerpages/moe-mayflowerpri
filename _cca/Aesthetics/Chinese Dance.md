@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 ### **Chinese Dance**
-**The Chinese Dance Program**&nbsp;is committed to developing techniques and performance skills of our Chinese Dancers as well as understanding the historical, social and intellectual aspects of Chinese Dance. We also offer an enrichment Dance programme for P1 and P2 students who are keen to learn Chinese dance.
+**The Chinese Dance Program** is committed to developing techniques and performance skills of our Chinese Dancers as well as understanding the historical, social and intellectual aspects of Chinese Dance. We also offer an enrichment Dance programme for P1 and P2 students who are keen to learn Chinese dance.
 
 Our CCA aims to:
 
