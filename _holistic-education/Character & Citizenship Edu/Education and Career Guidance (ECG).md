@@ -30,3 +30,11 @@ Click the link below:<br>
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/i9fpBx9xeGU" title="MySkillsFuture for Students – Primary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### **Education Fair**
+Since 2016, an annual Education Fair has been organised for Upper Primary students and their parents to provide them with information on PSLE, Secondary School Options and available pathways \[including Direct School Admission (DSA)\]. 
+
+Selected secondary schools are invited to share their curriculum and any other special programmes, which could help our students and parents make informed choices on the selection of secondary schools after PSLE. 
+
+This year, due to the need for Safe Management Measures, our fair will be held online. Primary 6 students and parents will be notified via Parents Gateway on the relevant details.
+
+<img src="/images/cce%20ecg%201.jpg"  style="width:75%">
