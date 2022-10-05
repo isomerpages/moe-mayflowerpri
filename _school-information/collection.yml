@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Personal Data Protection Act.md
       - School Bookshop.md
       - School Bus Operator.md
       - School Uniform Supplier.md
