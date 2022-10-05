@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/Indian Dance.md
       - Aesthetics/Drama Club.md
       - Aesthetics/.keep
       - Clubs/Clubs.md
