@@ -18,11 +18,9 @@ The String Ensemble welcomes interested P3 students to join our CCA. We also off
 #### **Achievements/Participation**
 
 | Name of Event  | Award  | Year Awarded  |
-|:---:|:---:|:---:|
+|---|---|---|
 |  Preparation for School Awards Day  |  Participation  | 2020  |
 |  Performance for Lunch Time Concert  |  Participation  | 2019   |
 |  Singapore Youth Festival	  |  Certificate of Distinction  | 2018  |
 |  Teachers' Day Concert |  Participation | 2017 |
 |
-
-
