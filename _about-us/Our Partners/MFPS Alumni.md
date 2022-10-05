@@ -79,6 +79,5 @@ My name is Seow Rui Xuan and I am this year's Chairperson for the MFPS Alumni te
 
 For the past 6 years, I have been actively involved in leadership positions in my Secondary School and JC. These past few years I have honed my leadership skills and improved myself to become more responsible, intuitive and better at communicating with my peers - skills which are needed in my role as the Chairperson facilitating alumni activities and to be the bridge between the School and the Alumnus. I also have to make sure that we uphold the school values even after we have graduated. I look forward to working with the MFPS Alumni and the executive committee as the Chairperson in the coming years.
 
-**EXCO Members:**
-
+**EXCO Members:**<br>
 <img src="/images/icon.png" style="width:5%" align=left> Elaine Foo (Class of 2016), Liu Runlin (Class of 2012) and Sam Nicole Elizabeth (Class of 2015)
