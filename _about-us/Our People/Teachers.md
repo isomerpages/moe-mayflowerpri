@@ -9,12 +9,12 @@ third_nav_title: Our People
 
 | Class | Form Teacher |  Form Teacher(s) |
 |---|---|---|
-| 1 Commitment | Mdm Peh Kai Le<br>peh_kai_le@moe.edu.sg | Mr Lee Qin Yi<br>lee_qin_yi@moe.edu.sg |
-| 1 Excellence | Mdm Lim Wen Chye (Joey)<br>lim_wen_chye@moe.edu.sg | Ms Ngik Ting Ting<br> ngik_ting_ting@moe.edu.sg |
-| 1 Integrity | Ms Lim Jiing Qin (Alethea)<br>lim_jiing_qin@moe.edu.sg | Mr Sebastian Lau Kian Yong<br>sebastian_lau_kian_yong@moe.edu.sg |
-| 1 Resilience | Mdm Wong Tian Ai Clare Rosanne<br>wong_tian_ai_clare@moe.edu.sg | Mdm Zhang Lijuan <br>zhang_lijuan_a@moe.edu.sg<br>Mr Lee Zi An Amos<br><br>lee_zi_an_amos@moe.edu.sg |
-| 1 Respect | Mdm Nur Aizza Bte Zainal Abidin<br>nur_aizza_zainal_abidin@moe.edu.sg | Mdm Gao Xin<br>gao_xin@moe.edu.sg |
-| 1 Service | Ms Peu Soo Yong   <br>peu_soo_yong@moe.edu.sg | Ms Sezhiyan Nandhini <br>sezhiyan_nandhini@moe.edu.sg |
+| 1 Commitment | Mdm Peh Kai Le<br>[peh_kai_le@moe.edu.sg](mailto:peh_kai_le@moe.edu.sg) | Mr Lee Qin Yi<br>[lee_qin_yi@moe.edu.sg](mailto:lee_qin_yi@moe.edu.sg) |
+| 1 Excellence | Mdm Lim Wen Chye (Joey)<br>[lim_wen_chye@moe.edu.sg](mailto:lim_wen_chye@moe.edu.sg) | Ms Ngik Ting Ting<br> [ngik_ting_ting@moe.edu.sg](mailto:ngik_ting_ting@moe.edu.sg) |
+| 1 Integrity | Ms Lim Jiing Qin (Alethea)<br>[lim_jiing_qin@moe.edu.sg](mailto:lim_jiing_qin@moe.edu.sg) | Mr Sebastian Lau Kian Yong<br>[sebastian_lau_kian_yong@moe.edu.sg](mailto:sebastian_lau_kian_yong@moe.edu.sg) |
+| 1 Resilience | Mdm Wong Tian Ai Clare Rosanne<br>[wong_tian_ai_clare@moe.edu.sg](mailto:wong_tian_ai_clare@moe.edu.sg) | Mdm Zhang Lijuan <br>[zhang_lijuan_a@moe.edu.sg](mailto:zhang_lijuan_a@moe.edu.sg)<br>Mr Lee Zi An Amos<br><br>[lee_zi_an_amos@moe.edu.sg](mailto:lee_zi_an_amos@moe.edu.sg) |
+| 1 Respect | Mdm Nur Aizza Bte Zainal Abidin<br>[nur_aizza_zainal_abidin@moe.edu.sg](mailto:nur_aizza_zainal_abidin@moe.edu.sg) | Mdm Gao Xin<br>[gao_xin@moe.edu.sg](mailto:gao_xin@moe.edu.sg) |
+| 1 Service | Ms Peu Soo Yong   <br>[peu_soo_yong@moe.edu.sg](mailto:peu_soo_yong@moe.edu.sg) | Ms Sezhiyan Nandhini <br>[sezhiyan_nandhini@moe.edu.sg](mailto:sezhiyan_nandhini@moe.edu.sg) |
 |
 
 #### **Primary 2 Teachers 2022**
