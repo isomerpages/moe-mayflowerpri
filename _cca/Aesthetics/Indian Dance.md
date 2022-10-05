@@ -21,5 +21,16 @@ third_nav_title: Aesthetics
 |  Performance at Bishan Ang Mo Kio Park |  Participation |  2017 |
 |
 
+<figure>
+<img src="/images/indian%20dance%201.png" style="width:75%">
+<figcaption> Indian Dancers getting ready for SYF Arts Presentation 2018
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/indian%20dance%202.png" style="width:75%">
+<figcaption>  Indian Dancers Getting Ready for Fusion Dance performance 2019
+ </figcaption>
+</figure>
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgHBPcaaGfcJoijDISAtNkUg8TdCW6n2XIAWN8h7TjwxWN4NQloCmUkOUN2sZKLZLx1HLFP3jRHsz8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
