@@ -15,7 +15,9 @@ In line with the school’s Partnership Framework, the school adopts 3 principle
 
 ∗ Promoting a Collaborative Climate<br>
 ∗ Setting up Purposeful Collaboration <br>
-∗ Ensuring Sustainability<br>
+∗ Ensuring Sustainability
+
+<br clear="left">
 
 These are undergirded by the school’s vision and mission which emphasises the common goal of providing greater opportunities for the holistic development of students to maximise their fullest potential across the different domains.
 
