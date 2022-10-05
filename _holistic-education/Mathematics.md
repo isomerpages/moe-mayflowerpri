@@ -43,7 +43,7 @@ The following are also some other websites to aid in the learning of Mathematics
 | **Multiplication Tables** | [http://fun4thebrain.com/](http://fun4thebrain.com/) <br>[http://www.ictgames.com/](http://www.ictgames.com/)<br>[http://www.apples4theteacher.com/](http://www.apples4theteacher.com/) |
 | **Fractions** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/)  <br>(select Number & Operations – Fractions – Naming & Visualising) <br><br>[http://www.visualfractions.com/](http://www.visualfractions.com/) <br>(click Identify Fractions with Circles) <br><br>[http://www.ixl.com](http://www.ixl.com) |
 | **Time** | [http://www.softschools.com](http://www.softschools.com) <br><br>(go to Telling Time – What Time is it?)<br>[http://www.teachingtime.co.uk](http://www.teachingtime.co.uk) |
-| **Shapes and Patterns** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
+| **Shapes and Patterns** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br><br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
 | **Model Drawing** | [http://www.mathplayground.com/thinkingblocks.html](http://www.mathplayground.com/thinkingblocks.html) |
 | **MOE Math Syllabus** | [http://www.moe.gov.sg/education/syllabuses/sciences/](http://www.moe.gov.sg/education/syllabuses/sciences/) |
 |
