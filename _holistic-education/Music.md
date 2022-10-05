@@ -22,7 +22,7 @@ While the progressive development of musical techniques/skills (i.e. Accuracy, T
 We expose our students to other cultures and perspectives through our repertoire of music pieces and songs. We teach our students teamwork through the experience of instrumental ensemble work, allowing them to experience in a tactile manner as they **work in teams**. In the 6-year curriculum, besides singing, students will learn various instruments such as Cajon, Ukulele and Recorder. Students will experience the music before their learning of musical concepts and they will then apply these musical concepts in their creation and analysis of the music. Students can showcase their interests and talents through lunchtime concerts in the school. Through the MIP, students who are interested in the performing arts will be encouraged to join the relevant CCAs.
 
 #### **Music Instructional Programme at MFPS**
-<img src="/images/music.jpg" style="width:75%">
+![](/images/music.jpg)
 
 #### **Talent Identification and Development Education**
 MFPS Music Talent Identification and Development Education (**MTIDE**) aims to identify students who are interested and / or display high musical capability. 
