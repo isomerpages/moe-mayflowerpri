@@ -19,3 +19,12 @@ Our activities include devotion, drill, badge-work and recreation games that foc
 |  Junior Brigadier Brooch Award (highest national award for GB) | EDITH LOH <br>SHING YEE <br> OON PEY SHUEN | 202 |
 |
 
+<figure>
+<img src="/images/gb1.png" style="width:75%">
+<figcaption>  1JBB awardees receiving their awards (2021)
+ </figcaption>
+</figure>
+
+<img src="/images/gb2.png" style="width:75%">
+
+<img src="/images/gb3.png" style="width:75%">
