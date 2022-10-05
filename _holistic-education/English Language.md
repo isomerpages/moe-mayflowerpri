@@ -58,12 +58,12 @@ These programmes provide appropriate support / intervention for selected student
 
 |  |  |
 |---|---|
-| Oxford Learner’s Dictionaries |  [https://www.oxfordlearnersdictionaries.com/](mailto:https://www.oxfordlearnersdictionaries.com/) |
-| Mrs Perkins' Dolch Words |  [http://www.mrsperkins.com/](mailto:http://www.mrsperkins.com/) |
-| Starfall Education: Kids Games, Movies, & Books K-3 |  [https://www.starfall.com/h/](mailto:https://www.starfall.com/h/) |
-| British Council LearnEnglish Kids |  [https://learnenglishkids.britishcouncil.org/](mailto:https://learnenglishkids.britishcouncil.org/) |
-|  Games to Learn English |  [https://www.gamestolearnenglish.com/](mailto:https://www.gamestolearnenglish.com/) |
-|  GrammarBank: Learning English Online | [https://www.grammarbank.com/](mailto:https://www.grammarbank.com/) |
+| Oxford Learner’s Dictionaries |  [https://www.oxfordlearnersdictionaries.com/](https://www.oxfordlearnersdictionaries.com/) |
+| Mrs Perkins' Dolch Words |  [http://www.mrsperkins.com/](http://www.mrsperkins.com/) |
+| Starfall Education: Kids Games, Movies, & Books K-3 |  [https://www.starfall.com/h/](https://www.starfall.com/h/) |
+| British Council LearnEnglish Kids |  [https://learnenglishkids.britishcouncil.org/](https://learnenglishkids.britishcouncil.org/) |
+|  Games to Learn English |  [https://www.gamestolearnenglish.com/](https://www.gamestolearnenglish.com/) |
+|  GrammarBank: Learning English Online | [https://www.grammarbank.com/](https://www.grammarbank.com/) |
 |
 
 #### **P1 Learning Journey to the Singapore Zoo**
