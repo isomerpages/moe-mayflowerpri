@@ -4,6 +4,7 @@ collections:
     order:
       - Aesthetics/.keep
       - Clubs/.keep
+      - Sports/Volleyball.md
       - Sports/Tchoukball.md
       - Sports/.keep
       - Uniformed Group/The Boys' Brigade.md
