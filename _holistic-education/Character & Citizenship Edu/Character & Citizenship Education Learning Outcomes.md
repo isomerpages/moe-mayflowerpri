@@ -75,4 +75,13 @@ The ‘Caught Being Good’ Affirmation programme rewards good behaviour with st
 
 This programme not only encourages students to exhibit positive behaviour consistently but also helps teachers to be more conscious about watching out for positive behaviour in students. We believe that this visual affirmation reinforces good behavior and more importantly, increases students' self-esteem. In time to come, students will comprehend that good behaviour is reward unto itself.
 
+#### ‘Captain Empowered’ and ‘Captain Empathetic’ Awards
+<img src="/images/cce3.png" style="width:75%">
 
+The ‘Captain Empowered’ and ‘Captain Empathetic’ termly awards are a recognition given to students who live up to our school vision of “Our Pupils, Exemplary Citizens of Tomorrow”. These students role model the traits of an Empowered Learner or Empathetic Leader, the school values or good learning dispositions by exemplifying observable character traits in their daily practices.
+
+Form teachers will nominate deserving students at the end of each term according to the selection criteria. 
+
+Selected students will receive a certificate as an acknowledgement of their positive behaviour and a write-up of their character traits with input from their form teachers and peers will be displayed for their schoolmates to read and emulate.
+
+<img src="/images/cce4.png" style="width:75%">
