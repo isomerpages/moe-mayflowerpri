@@ -2,5 +2,6 @@ collections:
   signature-programme:
     output: true
     order:
+      - Aid for Hearing Loss Students.md
       - Applied Learning Programme (STEM @ MFPS).md
       - Learning for Life Programme @ MFPS.md
