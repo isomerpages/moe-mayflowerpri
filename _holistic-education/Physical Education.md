@@ -11,7 +11,7 @@ The goals of PE serve as a guide in the development of an individual who is able
 
 | Goals | Outcomes |
 |---|---|
-| **Goal 1:** | <br>  Acquire a range of movement skills to participate in a variety of physical activities. |
+| **Goal 1:** | Acquire a range of movement skills to participate in a variety of physical activities. |
 | **Goal 2:** |   Understand and apply movement concepts, principles and strategies in a range of physical activities |
 | **Goal 3:** |   Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment |
 | **Goal 4:** |   Display positive personal and social behaviour across different experiences. |
