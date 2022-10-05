@@ -35,22 +35,40 @@ In a bid to encourage our learners to be empowered and self-directed, the school
 
 The following are also some other websites to aid in the learning of Mathematics.
 
-|  |  |
-|---|---|
 | Topic | Websites |
-| Whole Numbers | [http://www.numbernut.com/](http://www.numbernut.com/) <br>[http://www.learningplanet.com/](http://www.learningplanet.com/) |
-| Number Bonds | [https://mathsnoproblem.com/en/mastery/number-bonds](https://mathsnoproblem.com/en/mastery/number-bonds) |
-| Addition & Subtraction | [http://www.kidsnumbers.com/](http://www.kidsnumbers.com/)<br> [http://www.aaamath.com/](http://www.aaamath.com/) |
-| Multiplication Tables | [http://fun4thebrain.com/](http://fun4thebrain.com/) <br><br>[http://www.ictgames.com/](http://www.ictgames.com/)<br>[http://www.apples4theteacher.com/](http://www.apples4theteacher.com/) |
-| Fractions | [http://nlvm.usu.edu/](http://nlvm.usu.edu/)  <br>(select Number & Operations – Fractions – Naming & Visualising) <br><br>[http://www.visualfractions.com/](http://www.visualfractions.com/) <br>(click Identify Fractions with Circles) <br><br>[http://www.ixl.com](http://www.ixl.com) |
-| Time | [http://www.softschools.com](http://www.softschools.com) <br>(go to Telling Time – What Time is it?)<br>[http://www.teachingtime.co.uk](http://www.teachingtime.co.uk) |
-| Shapes and Patterns | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
-| Model Drawing | [http://www.mathplayground.com/thinkingblocks.html](http://www.mathplayground.com/thinkingblocks.html) |
-| MOE Math Syllabus | [http://www.moe.gov.sg/education/syllabuses/sciences/](http://www.moe.gov.sg/education/syllabuses/sciences/) |
+|---|---|
+| **Whole Numbers** | [http://www.numbernut.com/](http://www.numbernut.com/) <br>[http://www.learningplanet.com/](http://www.learningplanet.com/) |
+| **Number Bonds** | [https://mathsnoproblem.com/en/mastery/number-bonds](https://mathsnoproblem.com/en/mastery/number-bonds) |
+| **Addition & Subtraction** | [http://www.kidsnumbers.com/](http://www.kidsnumbers.com/)<br> [http://www.aaamath.com/](http://www.aaamath.com/) |
+| **Multiplication Tables** | [http://fun4thebrain.com/](http://fun4thebrain.com/) <br><br>[http://www.ictgames.com/](http://www.ictgames.com/)<br>[http://www.apples4theteacher.com/](http://www.apples4theteacher.com/) |
+| **Fractions** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/)  <br>(select Number & Operations – Fractions – Naming & Visualising) <br><br>[http://www.visualfractions.com/](http://www.visualfractions.com/) <br>(click Identify Fractions with Circles) <br><br>[http://www.ixl.com](http://www.ixl.com) |
+| **Time** | [http://www.softschools.com](http://www.softschools.com) <br>(go to Telling Time – What Time is it?)<br>[http://www.teachingtime.co.uk](http://www.teachingtime.co.uk) |
+| **Shapes and Patterns** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
+| **Model Drawing** | [http://www.mathplayground.com/thinkingblocks.html](http://www.mathplayground.com/thinkingblocks.html) |
+| **MOE Math Syllabus** | [http://www.moe.gov.sg/education/syllabuses/sciences/](http://www.moe.gov.sg/education/syllabuses/sciences/) |
 |
 
+#### **Teaching Through the Arts (Primary 3 Fractions)**
 
+<figure>
+<img src="/images/math1.jpg" 
+     style="width:85%">
+<figcaption> Primary 3 students learning the topic on Equivalent Fractions through drama and play
+ </figcaption>
+</figure>
 
+#### **Learning Experiences and Performance Tasks**
 
+<figure>
+<img src="/images/math2.jpg" 
+     style="width:85%">
+<figcaption> Primary 1 students learning the topic on Number Bonds through the use of manipulatives
+ </figcaption>
+</figure>
 
-
+<figure>
+<img src="/images/math3.jpg" 
+     style="width:85%">
+<figcaption> Primary 5 and 6 students experiencing rich learning through performance tasks
+ </figcaption>
+</figure>
