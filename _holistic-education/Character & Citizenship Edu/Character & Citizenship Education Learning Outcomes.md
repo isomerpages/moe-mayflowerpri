@@ -84,4 +84,4 @@ Form teachers will nominate deserving students at the end of each term according
 
 Selected students will receive a certificate as an acknowledgement of their positive behaviour and a write-up of their character traits with input from their form teachers and peers will be displayed for their schoolmates to read and emulate.
 
-<img src="/images/cce4.png" style="width:75%">
+<img src="/images/cce4.png" style="width:65%">
