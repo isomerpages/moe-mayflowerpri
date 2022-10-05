@@ -43,6 +43,23 @@ Students are given a variety of platforms to display their potential to their fu
 |  **Literary Competition:** <br>P1: Poetry Recitation <br>P2: Impersonation of Book Characters <br>P3: Story Telling on Animals <br>P4: Story Telling Folk Tales <br>P5: Poem (Sajak/Syair) <br>P6: Speech Presenter (Pidato) |<br><br> Selected P1 to P6 students |
 | 
 
+**Participants in Internal Competition**
+
+|  |  |
+|---|---|
+|  **External Competition** | **Level** |
+| Singing Competition<br>Writing Competition <br>Drama Competition<br>Newsmaker Competition<br>Pintar Bahasa Competition  | Selected P1 to P2<br>Selected P3 to P6<br>Selected P4 to P5<br>Selected P5<br>Selected P5 |
+|
+
 #### **National Malay Language Ambassadors 'Rakan Bahasa' 2022**
 
+Two of our students, Muhammad Nuh bin Johari of 5 Respect and Ambika Suseela Nair of 5 Excellence have been appointed as National Malay Language Ambassadors, ‘Rakan Bahasa’ 2022, by the Malay Language Council Singapore.
+
+
+
+As Rakan Bahasa or Malay Language Ambassador, their roles are to encourage the use and appreciation of the Malay Language and culture amongst family and friends. As Malay Language Ambassadors, they are actively involved in the activities/competitions and national events to promote the use of the Malay Language and culture.
+
 #### **Supporting Your Child in Learning**
+**Student Learning Space Portal** - [https://learning.moe.edu.sg/](https://learning.moe.edu.sg/)
+
+SLS is a platform which promotes self-directed and collaborative learning amongst students through allowing students to complete home-based assignments, share journals, tell stories and exchange views on topics of interest and so on.
