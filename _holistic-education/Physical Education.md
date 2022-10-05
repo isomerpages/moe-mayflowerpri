@@ -40,3 +40,18 @@ The department organises the annual P4 outdoor adventure camp to provide student
 a) allow students to develop the qualities of teamwork and cooperation by interacting and working with their peers; and <br>
 b) experience adventure learning through challenging outdoor activities where they will build self-confidence and develop their character to become an Empowered Learner and Empathetic Leader.
 
+<img src="/images/pe3.png" style="width:35%;margin-right:15px;" align = "left">**Games Day**<br>The department organizes Games Day with a carnival-like atmosphere to promote a healthy lifestyle among staff and students through fun-filled healthy activities specially designed by our PE Department. The PE teachers will prepare the students prior to the actual day. To promote maximum participation, a challenge shield will be presented to the lower and upper primary respectively at the end of the Games Day. 
+
+An overall Challenge Shield will also be presented to the ‘Values’ house which the students represent. It is also a good platform for students to practise the school core values and exhibit the traits of an Empowered Learner and Empathetic Leader.
+
+<img src="/images/pe4.png" style="width:45%;margin-right:15px;" align = "left">**Healthy Me Programme**<br>
+This programme allows identified students to learn about healthy eating habits and the importance of exercise. During the sessions, these students are taught skills like tracking their healthy lifestyle and performing simple workouts as well as desired values such as resilience and discipline. These skills and values are essential building blocks for them to lead a healthier lifestyle that would benefit their mind and body.
+
+<img src="/images/pe5.png" style="width:45%;margin-right:15px;" align = "left">**Sports CCA Leaders Camp**<br>The Sports Camp is an annual camp conducted for our sports leaders in the sports-related CCAs which consist of floorball, netball, tchoukball, volleyball and track and field. The objectives of the camp are to engage students in their sporting experience as well as enhance their role as a leader. The camp also provides former sports CCA leaders who have graduated, the opportunities to serve the school by sharing their experience and facilitating the camp which is in alignment with our school motto of Service before Self.
+
+<img src="/images/pe6.png" style="width:65%" align = "left">
+
+<br clear="left">
+
+**Holistic Sports Programme**<br>
+As part of our effort to promote the Joy of Learning through a robust and holistic school curriculum, the school collaborated with ActiveSG to map out a series of programmes/activities such as tennis, floorball, air badminton and gymnastics under this holistic curriculum. These programmes/activities will be held in Term 1 and Term 4 in place of the usual Supplementary /Remedial lessons held every Tuesdays and Thursdays
