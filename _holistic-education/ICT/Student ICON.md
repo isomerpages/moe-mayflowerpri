@@ -57,7 +57,7 @@ Please follow the password requirements below:
 *   Website keeps refreshing itself without loading the page
 
 **What should I do?**<br>
-a)  Check that the browser is supported by Student iCON by referring to the Operating System /Browser table above.
+a)  Check that the browser is supported by Student iCON by referring to the Operating System Browser table above.
 
 *   On your computer, open **Chrome or MS Edge browser**.
 *   At the top right, **click** **More** .
