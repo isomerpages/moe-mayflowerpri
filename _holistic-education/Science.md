@@ -68,7 +68,7 @@ The IvP provides a unique opportunity for students to develop their problem solv
 | S/N |  Resources |
 |:---:|---|
 | 1. |  Making Thinking Visible (Core Thinking Routines)<br> [http://www.pz.harvard.edu/thinking-routines#CoreThinkingRoutines](http://www.pz.harvard.edu/thinking-routines#CoreThinkingRoutines) |
-| 2. |  Connect Extend Challenge<br>[here](/files/Connect%20Extend%20Challenge.pdf)  |
-| 3. |  What Makes You Say That<br>[here](/files/What%20Makes%20You%20Say%20That.pdf) |
+| 2. |  Connect Extend Challenge<br>[https://staging.dumgjq4ikmf5k.amplifyapp.com/files/Connect%20Extend%20Challenge.pdf](/files/Connect%20Extend%20Challenge.pdf)  |
+| 3. |  What Makes You Say That<br>[https://staging.dumgjq4ikmf5k.amplifyapp.com/files/What%20Makes%20You%20Say%20That.pdf](/files/What%20Makes%20You%20Say%20That.pdf) |
 | 4 |  Science Syllabus (2014)<br> [https://www.moe.gov.sg/-/media/files/primary/science-primary-2014](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014)  |
 |
