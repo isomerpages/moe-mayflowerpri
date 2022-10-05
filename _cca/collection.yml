@@ -4,6 +4,7 @@ collections:
     order:
       - Aesthetics/.keep
       - Clubs/.keep
+      - Sports/Netball.md
       - Sports/Track and Field.md
       - Sports/Taekwando.md
       - Sports/Volleyball.md
