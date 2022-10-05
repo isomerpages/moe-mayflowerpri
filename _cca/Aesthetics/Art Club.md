@@ -23,8 +23,7 @@ Besides teaching knowledge and skills in Art, we also aspire to kindle the flame
 |
 
 <figure>
-<img src="/images/art%20club%201.jpg" 
-     style="width:75%">
+<img src="/images/art%20club%201.jpg" style="width:75%">
 <figcaption>  In this draft, students captured their shared experiences of celebrating cultural festivals of the different races together in MFPS
  </figcaption>
 </figure>
