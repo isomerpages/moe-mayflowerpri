@@ -25,7 +25,7 @@ It is with hope that these programmes will provide students with a wider exposur
 
 <figure>
 <img src="/images/nlb1.png" 
-     style="width:85%">
+     style="width:75%">
 <figcaption>  Story Telling session during Assembly by NLB officer
  </figcaption>
 </figure>
