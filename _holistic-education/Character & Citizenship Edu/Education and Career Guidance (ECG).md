@@ -4,4 +4,29 @@ permalink: /holistic-education/cce/ecg/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
+### **Education and Career Guidance (ECG)**
+#### **Learning Outcomes**
+The Education and Career Guidance (ECG) curriculum aims to equip our students with the necessary knowledge, skills and values to make informed decisions at each key education or career stage, and to develop a lifelong learning disposition. Through ECG lessons in our ExCitE! (FTGP) curriculum, students will:
+
+* Learn about and develop their interests, abilities, and passions; 
+* Learn about the world of work, education, and career pathways that they can choose; 
+* Learn how to make considered decisions about their education and career plans, and take steps to embark on them; and
+* Develop 21st century competencies, values, and skills to be adaptable and resilient.
+
+#### **Useful links**
+* [MFPS ECG portal](https://sites.google.com/moe.edu.sg/mfps-ecg-2021/home?authuser=0) – A one-stop portal to pull together all relevant information on PSLE, Secondary School Pathways, and tips on how to choose a secondary school
+
+* [Singapore Education Landscape](https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html) – A fun, interactive webpage to explore the Singapore Education Landscape and various pathways
+
+* [My Skills Future Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) – A one-stop portal that enables Singaporeans of all ages to make informed education and career choices, and empowers them for lifelong learning
+
+The portal is currently available for Primary 5 & 6 students.
+
+![](/images/cce%20ecg.jpg)
+
+#### **A glimpse into the My Skills Future Portal - Primary**
+Click the link below:<br>
+[https://youtu.be/i9fpBx9xeGU](https://youtu.be/i9fpBx9xeGU)
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/i9fpBx9xeGU" title="MySkillsFuture for Students – Primary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
