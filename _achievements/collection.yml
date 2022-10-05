@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Achievements/NAEA Blaze Award (2015 to 2018).md
       - School Achievements/Silver CHERISH Award (2012).md
       - School Achievements/Funding for Niche Scheme in Singapore Schools (2013
         to 2018).md
