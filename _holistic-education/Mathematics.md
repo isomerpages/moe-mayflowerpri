@@ -40,7 +40,7 @@ The following are also some other websites to aid in the learning of Mathematics
 | **Whole Numbers** | [http://www.numbernut.com/](http://www.numbernut.com/) <br>[http://www.learningplanet.com/](http://www.learningplanet.com/) |
 | **Number Bonds** | [https://mathsnoproblem.com/en/mastery/number-bonds](https://mathsnoproblem.com/en/mastery/number-bonds) |
 | **Addition & Subtraction** | [http://www.kidsnumbers.com/](http://www.kidsnumbers.com/)<br> [http://www.aaamath.com/](http://www.aaamath.com/) |
-| **Multiplication Tables** | [http://fun4thebrain.com/](http://fun4thebrain.com/) <br><br>[http://www.ictgames.com/](http://www.ictgames.com/)<br>[http://www.apples4theteacher.com/](http://www.apples4theteacher.com/) |
+| **Multiplication Tables** | [http://fun4thebrain.com/](http://fun4thebrain.com/) <br>[http://www.ictgames.com/](http://www.ictgames.com/)<br>[http://www.apples4theteacher.com/](http://www.apples4theteacher.com/) |
 | **Fractions** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/)  <br>(select Number & Operations – Fractions – Naming & Visualising) <br><br>[http://www.visualfractions.com/](http://www.visualfractions.com/) <br>(click Identify Fractions with Circles) <br><br>[http://www.ixl.com](http://www.ixl.com) |
 | **Time** | [http://www.softschools.com](http://www.softschools.com) <br>(go to Telling Time – What Time is it?)<br>[http://www.teachingtime.co.uk](http://www.teachingtime.co.uk) |
 | **Shapes and Patterns** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
