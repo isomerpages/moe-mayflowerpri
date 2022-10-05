@@ -17,6 +17,6 @@ The school and PSG work together thus complementing each other’s strengths and
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXFOAtW2Scc1ZdQq2KjO-IgwHDtmaxYldxHAw3fQYOVrXoABPK0Xoz0RfCUzrnXv2-Q2ZMNsgIGoDh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-Please contact the school at&nbsp;**mayflower\_ps@moe.edu.sg**&nbsp;if you wish to join the Parent Support Group.
+Please contact the school at [**mayflower\_ps@moe.edu.sg**](mailto:mayflower\_ps@moe.edu.sg) if you wish to join the Parent Support Group.
 
 Parents in Education website:&nbsp;[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
