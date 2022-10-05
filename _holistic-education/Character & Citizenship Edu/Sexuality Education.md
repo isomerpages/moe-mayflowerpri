@@ -66,3 +66,10 @@ c. Character and Citizenship Education (CCE)
 |  | Is It All Safe?<br>(30 min) | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet |
 |  | Main Task<br> (30 min) | Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. |
 |
+
+#### **Information for Parents**
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Opt-out_Form.pdf). The completed opt-out form is to be submitted by **Thursday, 27 January 2022.**<br>
+10\. Parents can contact the school at **6452 0849** or [mayflower\_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.<br>
+11\. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
