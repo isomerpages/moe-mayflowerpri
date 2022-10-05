@@ -21,4 +21,30 @@ Apart from the Singapore Youth Festival Arts Presentation, the choir also active
 |  Singapore Youth Festival  | Certificate of Distinction   |  2016 |
 |
 
+<figure>
+<figcaption> Choir practices continue as usual with COVID-19 safety measures in place
+ </figcaption>	
+<img src="/images/choir1.jpg" 
+     style="width:75%">
+</figure>
 
+<figure>
+<img src="/images/choir2.png"
+     style="width:75%">
+<figcaption>  The Choir singing their hearts out at Sing Lah! 2019
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/choir3.png"
+     style="width:75%">
+<figcaption>  The Choir before their performance for Voices in Harmony
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/choir4.png"
+     style="width:75%">
+<figcaption>  The "ferocious" Choir performing the Lion King Medley at the Voices in Harmony Concert
+ </figcaption>
+</figure>
