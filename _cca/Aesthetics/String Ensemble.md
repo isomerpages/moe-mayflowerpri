@@ -24,3 +24,11 @@ The String Ensemble welcomes interested P3 students to join our CCA. We also off
 |  Singapore Youth Festival	  |  Certificate of Distinction  | 2018  |
 |  Teachers' Day Concert |  Participation | 2017 |
 |
+
+<img src="/images/string1.png" style="width:75%">
+
+<img src="/images/string2.png" style="width:75%">
+
+<img src="/images/string3.png" style="width:75%">
+
+<img src="/images/string4.png" style="width:75%">
