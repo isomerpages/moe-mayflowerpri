@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - School Achievements/School Achievements Overview.md
+      - School Achievements/School Achievements.md
       - School Achievements/MOE School Distinction Award.md
       - School Achievements/Singapore Quality Class Certification.md
       - School Achievements/People Developer Certification.md
