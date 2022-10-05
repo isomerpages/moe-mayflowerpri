@@ -40,4 +40,4 @@ We also aim to provide our students with opportunities to express creativity as 
 
 <br>
 	
-<img src="/images/infocomm4.jpg" style="width:75%">	
+<img src="/images/infocomm4.jpg" style="width:75%">
