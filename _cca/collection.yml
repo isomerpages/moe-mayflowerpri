@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/Choir.md
       - Aesthetics/Guzheng Ensemble.md
       - Aesthetics/String Ensemble.md
       - Aesthetics/Chinese Dance.md
