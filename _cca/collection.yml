@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
+      - Clubs/Clubs.md
       - Clubs/Eco Rangers.md
       - Clubs/Infocomm Club.md
       - Clubs/.keep
