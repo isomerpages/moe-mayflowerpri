@@ -8,7 +8,7 @@ third_nav_title: ICT
 
 | Student ICON Onboarding Step by Step Guide | Student ICON-Onboarding Introduction Video |
 |:---:|:---:|
-| [Student_ICON_Onboarding_Guide.pdf](/files/Student_ICON_Onboarding_Guide.pdf) | Onboarding Video |
+| [Student_ICON_Onboarding_Guide.pdf](/files/Student_ICON_Onboarding_Guide.pdf) | [Onboarding Video](https://youtu.be/MGCFbntjhIc) |
 |
 
 #### **Frequently Asked Questions**
