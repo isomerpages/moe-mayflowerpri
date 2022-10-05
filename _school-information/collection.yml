@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - MOE Kindergarten @ Mayflower/MOE Kindergarten @ Mayflower.md
       - MOE Kindergarten @ Mayflower/MK Programmes.md
       - MOE Kindergarten @ Mayflower/.keep
