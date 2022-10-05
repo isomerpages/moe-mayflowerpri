@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/Chinese Dance.md
       - Aesthetics/Malay Dance.md
       - Aesthetics/Indian Dance.md
       - Aesthetics/Drama Club.md
