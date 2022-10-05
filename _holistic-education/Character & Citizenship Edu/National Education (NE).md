@@ -30,7 +30,7 @@ To provide our Primary 4 to 6 students with opportunities to experience, underst
 The National Education (NE) Show instills a sense of patriotism in our students and highlights the significance of National Day. Every year, the National Day Parade (NDP) full dress rehearsal provides an opportunity to inculcate NE values in our Primary 5 students. Through this NE show, we hope our students will be able to identify ways to show love, care and respect for Singapore
 
 <img src="/images/ne4.png" style="width:95%">
-<img src="/images/ne5.jpg" style="width:65%">
+<img src="/images/ne5.jpg" style="width:55%">
 
 #### **National Education Commemorative Days**
 **National Education Commemorative Days are one of the key student development experiences that reinforce the knowledge, skills, and values taught in our CCE curriculum.**
