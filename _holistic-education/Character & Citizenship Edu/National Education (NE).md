@@ -19,3 +19,9 @@ The Social Studies curriculum helps students to grow in knowledge, develop skill
 The curriculum prepares students to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in and appreciate the complexities of the human experience. 
 
 Through an inquiry-based approach, students explore real-world issues that concern their lives, develop critical and reflective thinking skills, and appreciate multiple perspectives.
+
+##### **Cohort Learning Journeys** 
+**Heritage Trail to Chinatown, Kampong Glam and Little India**<br>
+To provide our Primary 4 to 6 students with opportunities to experience, understand and appreciate Singapore’s socio-cultural, geo-political, historical and economic contexts, learning journeys to heritage sites such as Chinatown, Kampong Glam and Little India are organized for them.
+
+<img src="/images/ne3.jpg" style="width:95%">
