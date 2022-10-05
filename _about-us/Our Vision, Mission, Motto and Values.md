@@ -37,4 +37,4 @@ The school instills in the students the commitment to be of service to the schoo
 **School Strategic Thrusts**
 
 <img src="/images/core%20values.png" 
-     style="width:85%">
+     style="width:95%">
