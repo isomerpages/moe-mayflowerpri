@@ -19,3 +19,4 @@ The SAC members grew in strength from year to year under the leadership of Mr La
 |  **Committee Members** |  Mr Balaji Pandugaram<br> Ms V Vyjayanthimala<br> Mr Steve Tay Soo Hoe |
 |  **School Representatives**  |  Mr Kwok Keng Lian<br> Mrs Noelle Chow<br> Mrs Winefrede Loo |
 |
+
