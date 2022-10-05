@@ -38,3 +38,16 @@ The National Education (NE) Show instills a sense of patriotism in our students 
 Students commemorate key events related to the formation of our Singaporean identity, building a sense of belonging, reality, and hope; which culminate in a will to act.
 
 <img src="/images/ne6.png" style="width:95%">
+<img src="/images/ne6b.jpg" style="width:49%" align=left>
+<img src="/images/ne7.jpg" style="width:49%" align=left>
+<img src="/images/ne8.jpg" style="width:49%" align=left>
+<img src="/images/ne9.jpg" style="width:49%" align=left>
+
+<br clear="left">
+
+The four National Education Commemorative Days are:
+
+* Total Defence Day
+* International Friendship Day
+* Racial Harmony Day
+* National Day
