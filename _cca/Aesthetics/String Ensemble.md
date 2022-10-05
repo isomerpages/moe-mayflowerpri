@@ -15,4 +15,14 @@ We seek to provide various platforms for our members to perform and showcase the
 
 The String Ensemble welcomes interested P3 students to join our CCA. We also offer Violin / Cello Enrichment Classes for P1 and P2 students who are interested to learn to play a string instrument.
 
+#### **Achievements/Participation**
+
+| Name of Event  | Award  | Year Awarded  |
+|:---:|:---:|:---:|
+|  Preparation for School Awards Day  |  Participation  | 2020  |
+|  Performance for Lunch Time Concert  |  Participation  | 2019   |
+|  Singapore Youth Festival	  |  Certificate of Distinction  | 2018  |
+|  Teachers' Day Concert |  Participation | 2017 |
+|
+
 
