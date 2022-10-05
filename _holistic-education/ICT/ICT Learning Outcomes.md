@@ -38,6 +38,37 @@ All teachers will deliver the baseline ICT cum new media literacy course from Te
 | <br>ICT Application: | **Primary 1:**  SLS, Zoom, Touch-typing, Internet web-browsing <br>**Primary 2:**  SLS, Zoom, Microsoft Word and PowerPoint <br>**Primary 3:**  SLS, Microsoft PowerPoint and Microsoft Excel <br>**Primary 4:**  SLS, Microsoft Excel and Student ICON for Education Apps |
 |
 
+| Specific Learning Outcomes |
+|---|
+| 1. Perform basic ICT operations |
+| 2. Use digital resources from specified sources (learning with searches) |
+| 3. Type, edit and format short sentences (learning with text) |
+| 4. Produce and manipulate multimedia content (learning with multimedia) |
+| 5. Communicate ideas confidently and present information accurately with the use of technology (21st Century Competency) |
+|
 
+#### **Cyberwellness**
+**Cyber Wellness lessons are conducted during Form Teacher Guidance Periods (FTGPs) for all Primary One to Primary Six classes. The themes covered include:**
+* Cyber Citizenship
+* Cyber Identity
+* Cyber Relationship
+* Cyber Use
 
+#### **Leadership Development: ICT Captains**
+Since 2010, two ICT Captains from each class are nominated by their Form Teachers. The role of an ICT Captain is to be an ICT assistant to the teacher and to be an ICT role model and buddy to their peers. 
 
+**The roles played by an ICT Captain includes:**
+
+*   Assisting subject teachers with the necessary ICT equipment such as iPads collection, distribution and transportation for online lessons in class.
+*   Assisting their classmates with SLS log-in, internet search and basic troubleshooting for log-in issues 
+*   Modelling, handling and cleaning of ICT mobile devices with care.
+*   In the Computer Room, ICT Captains will assist to maintain discipline and ensure that the class observes Computer Room rules
+
+#### **Photos of students in Coding Programme**
+
+<img src="/images/ict%20learning%20outcome%201.jpg" 
+     style="width:85%">
+<img src="/images/ict%20learning%20outcome%202.jpg" 
+     style="width:85%">
+		 
+		 
