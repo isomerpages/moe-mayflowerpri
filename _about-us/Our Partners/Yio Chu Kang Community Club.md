@@ -18,7 +18,7 @@ Students below working diligently and collaboratively on a life-sized human port
 
 **CCA Art Club members at work with Yio Chu Kang residents @ YCKCC Multipurpose Hall during a community art event.**
 
-<img src="/images/yck3.png" style="width:100%">
+<img src="/images/yck3.png" style="width:75%">
 
 **CCA Art Club members observing a live demonstration by a community artist on how to transform a frottage into a stencil.**
 
@@ -29,5 +29,4 @@ Students below working diligently and collaboratively on a life-sized human port
 
 **CCA Art Club members springing into action in stencilling patterns with their handmade frottage stencils on the larger-than-life wooden boards.**
 
-<img src="/images/yck6.png" style="width:100%">
-
+<img src="/images/yck6.png" style="width:75%">
