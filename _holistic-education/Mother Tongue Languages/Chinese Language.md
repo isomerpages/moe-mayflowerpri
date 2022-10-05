@@ -65,7 +65,7 @@ This customised programme focuses on building a stronger foundation in students�
 #### **Learning Resources**
 
 **Huanle Huoban Web Portal (Xue Le 学乐网)**<br>
-**[https://www.mtl.moe.edu.sg/xuele/MOE\_web/main.html](https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html)**
+**[https://www.mtl.moe.edu.sg/xuele/MOE\_web/main.html](https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html)** **broken link**
 
 Huanle Huoban is a web portal hosting digital resources for the 2015 Primary School Chinese Language Curriculum. It focuses on the development of the various language skills (listening, speaking, interaction, reading and writing skills). These teaching and learning resources support student development and cater to students’ varied learning needs. The content is set in localised contexts, making it highly relevant to our students’ lives. There are also a series of activities such as language games, designed to reinforce students’ learning and to make learning fun and meaningful for students, both in and out of the classrooms.
 
@@ -78,4 +78,4 @@ The learning magazine of 《**新朋友**》、《**新天地**》、《**新�
 
 Students have to pay a yearly subscription for the learning magazine and online learning portal.
 
-<img src="/images/chi13.png" style="width:85%">	
+<img src="/images/chi13.png" style="width:85%">
