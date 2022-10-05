@@ -22,3 +22,8 @@ Here are some suggested activities to build stronger bonds with your child!
      style="width:75%">
 
 ![](/images/cyberwellness5.jpg)
+
+#### **Useful Links**
+
+MOE Parent Kit: [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)<br>
+MOE’s parenting-focused Instagram account: [@parentingwith.moesg](https://www.instagram.com/parentingwith.moesg/)
