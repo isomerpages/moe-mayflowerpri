@@ -23,7 +23,7 @@ Keeping the objective of stimulating and sustaining our students’ interest in 
 |  Mother Tongue Fortnight Activities: <br><br>-  Appreciation of Traditional Bunga Rampai <br>-  Appreciation of Traditional Bunga Manggar<br>-  Appreciation of Traditional Kite<br>-  Appreciation of Tradisional Bunga Telur<br>-  Appreciation of Traditional Batik<br>-  Appreciation of Traditional Weaving | <br>P1 <br><br>P2<br>P3 <br>P4<br>P5 <br>P6  |
 |  Malay Language Cultural Camp | P4 |
 |  SLS Portal        | P1-P6 |
-|  Remedial Programme          | P3 to P5 |
+|  Remedial Programme | P3 to P5 |
 |  Supplementary Programme  | P6 |
 |  Reading Programme  | P1 to P6 |
 |
