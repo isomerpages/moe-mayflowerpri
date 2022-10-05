@@ -22,12 +22,12 @@ third_nav_title: Our People
 
 | Class | Form Teacher |  Form Teacher(s) |
 |---|---|---|
-| 2 Commitment | Mdm Poh Ai Min (Mrs Ang)<br>poh_ai_min@moe.edu.sg | Ms Chua Lean Woon<br>chua_lean_woon@moe.edu.sg |
-| 2 Excellence | Ms Vinlee Toh <br>vinlee_toh@moe.edu.sg | Mdm Chen Yit Kai<br>chen_yit_kai@moe.edu.sg |
-| 2 Integrity | Ms Suhaila Bte Bidin<br> suhaila_bidin@moe.edu.sg | Mr Chai Jia Yang<br><br>chai_jia_yang@moe.edu.sg |
-| 2 Resilience | Mdm Suriana Binte Suhaini<br>suriana_suhaini@moe.edu.sg | Ms Ng Yein Leng<br>ng_yein_leng@moe.edu.sg |
-| 2 Respect | Mdm Elaine Lai Pek Ling <br>(Mrs Elaine Lim)<br>elaine_lai_pek_ling@moe.edu.sg | Mdm Catherine Low Yoke Peng <br><br>(Mrs Catherine Koh) <br>catherine_koh@moe.edu.sg |
-| 2 Service | <br>Mrs Wong-Ang Puay Leng<br><br>ang_puay_leng@moe.edu.sg | Mdm Xiao Junjie<br>xiao_junjie@moe.edu.sg |
+| 2 Commitment | Mdm Poh Ai Min (Mrs Ang)<br>[poh_ai_min@moe.edu.sg](mailto:poh_ai_min@moe.edu.sg) | Ms Chua Lean Woon<br>[chua_lean_woon@moe.edu.sg](mailto:chua_lean_woon@moe.edu.sg) |
+| 2 Excellence | Ms Vinlee Toh <br>[vinlee_toh@moe.edu.sg](mailto:vinlee_toh@moe.edu.sg) | Mdm Chen Yit Kai<br>[chen_yit_kai@moe.edu.sg](mailto:chen_yit_kai@moe.edu.sg) |
+| 2 Integrity | Ms Suhaila Bte Bidin<br> [suhaila_bidin@moe.edu.sg](mailto:suhaila_bidin@moe.edu.sg) | Mr Chai Jia Yang<br><br>[chai_jia_yang@moe.edu.sg](mailto:chai_jia_yang@moe.edu.sg) |
+| 2 Resilience | Mdm Suriana Binte Suhaini<br>[suriana_suhaini@moe.edu.sg](mailto:suriana_suhaini@moe.edu.sg) | Ms Ng Yein Leng<br>[ng_yein_leng@moe.edu.sg](mailto:ng_yein_leng@moe.edu.sg) |
+| 2 Respect | Mdm Elaine Lai Pek Ling <br>(Mrs Elaine Lim)<br>[elaine_lai_pek_ling@moe.edu.sg](mailto:elaine_lai_pek_ling@moe.edu.sg) | Mdm Catherine Low Yoke Peng <br><br>(Mrs Catherine Koh) <br>[catherine_koh@moe.edu.sg](mailto:catherine_koh@moe.edu.sg) |
+| 2 Service | <br>Mrs Wong-Ang Puay Leng<br><br>[ang_puay_leng@moe.edu.sg](mailto:ang_puay_leng@moe.edu.sg) | Mdm Xiao Junjie<br>[xiao_junjie@moe.edu.sg](mailto:xiao_junjie@moe.edu.sg) |
 |
 
 #### **Primary 3 Teachers 2022**
