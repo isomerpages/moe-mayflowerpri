@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Achievements/National Arts Education Award (Glow, 2011).md
       - School Achievements/PSE Funding (2008).md
       - School Achievements/National Arts Education Award (Bronze,2007).md
       - School Achievements/Sustained Achievement Award (Aesthetics,2007).md
