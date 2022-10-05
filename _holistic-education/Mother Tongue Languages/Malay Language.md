@@ -30,6 +30,7 @@ Keeping the objective of stimulating and sustaining our students’ interest in 
 
 #### **Mother Tongue Fortnight Activities**
 
+<img src="/images/malay1.png" style="width:75%">
 
 #### **Reading Programme**
 We believe in the Joy of Reading and we want our students to be hooked on reading. We create opportunities for students to read in class and beyond the classroom. We ring-fence specific periods for Sustained Silent Reading (SSR) during curriculum where students spend quiet moments reading age-appropriate books from a selection of books recommended by teachers based on reading competency. Teachers can assign titles for individual students as well as monitor students’ reading through SLS.
@@ -45,6 +46,9 @@ Students are given a variety of platforms to display their potential to their fu
 
 **Participants in Internal Competition**
 
+<img src="/images/malay2.png" style="width:75%">
+
+
 |  |  |
 |---|---|
 |  **External Competition** | **Level** |
@@ -55,7 +59,7 @@ Students are given a variety of platforms to display their potential to their fu
 
 Two of our students, Muhammad Nuh bin Johari of 5 Respect and Ambika Suseela Nair of 5 Excellence have been appointed as National Malay Language Ambassadors, ‘Rakan Bahasa’ 2022, by the Malay Language Council Singapore.
 
-
+<img src="/images/malay3.jpg" style="width:75%">
 
 As Rakan Bahasa or Malay Language Ambassador, their roles are to encourage the use and appreciation of the Malay Language and culture amongst family and friends. As Malay Language Ambassadors, they are actively involved in the activities/competitions and national events to promote the use of the Malay Language and culture.
 
