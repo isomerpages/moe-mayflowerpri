@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/Other Awards.md
       - Student Achievements/.keep
       - MFPS in the news/MFPS In The News Overview.md
       - MFPS in the news/MFPS Alumnus, Jerome Lim Jit How, Recipent of 2015 MOE
