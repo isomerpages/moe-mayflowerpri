@@ -43,11 +43,11 @@ This year, due to the need for Safe Management Measures, our fair will be held o
 ![](/images/cce%20ecg%202.jpg)
 [ECG Parents' Brochure (English).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG%20Parents'%20Brochure%20(English).pdf) **broken link**
 
-[ECG Brochure (CHINESE).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG%20Brochure%20(CHINESE).pdf)
+[ECG Brochure (CHINESE).pdf](/files/ECG%20Brochure%20(CHINESE).pdf)
 ![](/images/cce%20ecg%203.jpg)
 
-[ECG Brochure (MALAY).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG%20Brochure%20(MALAY).pdf)
+[ECG Brochure (MALAY).pdf](/files/ECG%20Brochure%20(MALAY).pdf)
 ![](/images/cce%20ecg%204.jpg)
 
-[ECG Brochure (TAMIL).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG%20Brochure%20(TAMIL).pdf)
+[ECG Brochure (TAMIL).pdf](/files/ECG%20Brochure%20(TAMIL).pdf)
 ![](/images/cce%20ecg%205.jpg)
