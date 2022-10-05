@@ -7,9 +7,8 @@ third_nav_title: Our People
 ### **Teachers**
 #### **Primary 1 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
 | Class | Form Teacher |  Form Teacher(s) |
+|---|---|---|
 | 1 Commitment | Mdm Peh Kai Le<br>peh_kai_le@moe.edu.sg | Mr Lee Qin Yi<br>lee_qin_yi@moe.edu.sg |
 | 1 Excellence | Mdm Lim Wen Chye (Joey)<br>lim_wen_chye@moe.edu.sg | Ms Ngik Ting Ting<br> ngik_ting_ting@moe.edu.sg |
 | 1 Integrity | Ms Lim Jiing Qin (Alethea)<br>lim_jiing_qin@moe.edu.sg | Mr Sebastian Lau Kian Yong<br>sebastian_lau_kian_yong@moe.edu.sg |
@@ -20,9 +19,9 @@ third_nav_title: Our People
 
 #### **Primary 2 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
+
 | Class | Form Teacher |  Form Teacher(s) |
+|---|---|---|
 | 2 Commitment | Mdm Poh Ai Min (Mrs Ang)<br>poh_ai_min@moe.edu.sg | Ms Chua Lean Woon<br>chua_lean_woon@moe.edu.sg |
 | 2 Excellence | Ms Vinlee Toh <br>vinlee_toh@moe.edu.sg | Mdm Chen Yit Kai<br>chen_yit_kai@moe.edu.sg |
 | 2 Integrity | Ms Suhaila Bte Bidin<br> suhaila_bidin@moe.edu.sg | Mr Chai Jia Yang<br><br>chai_jia_yang@moe.edu.sg |
@@ -33,9 +32,8 @@ third_nav_title: Our People
 
 #### **Primary 3 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
 | Class | Form Teacher | Form Teacher(s) |
+|---|---|---|
 | 3 Excellence | Ms Yuen Lei Teng Cheryl<br>yuen_lei_teng_cheryl@moe.edu.sg | Ms Esther Chia Kah Min<br>chia_kah_min_esther@moe.edu.sg |
 | 3 Integrity | Mdm Chua Sok Huang<br>chua_sok_huang@moe.edu.sg | Ms Tan Woei Yng <br>tan_woei_yng@moe.edu.sg |
 | 3 Resilience | Mdm Annamary d/o Segaran<br>annamary_segaran@moe.edu.sg | Ms Nurhuda Bte Housman<br>nurhuda_housman@moe.edu.sg<br> |
@@ -45,9 +43,8 @@ third_nav_title: Our People
 
 #### **Primary 4 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
 | Class | Form Teacher | Form Teacher(s) |
+|---|---|---|
 | 4 Commitment | Ms R Sudhisha Pillay <br>r_sudhisha_pillay@moe.edu.sg<br> | Mr Leong Wai Phang<br>leong_wai_phang@moe.edu.sg<br> |
 | 4 Excellence | Ms Ho Wai Wai Angela<br>ho_wai_wai_angela@moe.edu.sg<br> | Mdm Ong Chong Fen<br>ong_chong_fen@moe.edu.sg<br> |
 | 4 Integrity  | Mdm Nordiana Bte Sani <br>nordiana_sani@moe.edu.sg<br> | Mdm Amy Chua Jia Xi<br>amy_chua_jia_xi@moe.edu.sg<br> |
@@ -58,9 +55,8 @@ third_nav_title: Our People
 
 #### **Primary 5 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
 | Class | Form Teacher | Form Teacher(s) |
+|---|---|---|
 | 5 Excellence | Ms Wong Shilei Charmaine <br><br>wong_shilei_charmaine@moe.edu.sg<br> | Mr Tang Kong Gin (Mr Benedict Tang)<br>tang_kong_gin_benedict@moe.edu.sg<br> |
 | 5 Integrity | Mdm Idma Hanita Mohamed<br><br>Idma_hanita_mohamed@moe.edu.sg  | Mdm Au Yard Wah <br>au_yard_wah@moe.edu.sg<br><br>Mdm Ong Wee Hun Lynne<br>ong_wee_hun_lynne@moe.edu.sg<br> |
 | 5 Resilience | Ms Beatrice Lim Shu-Yi<br><br>beatrice_lim_shuyi@moe.edu.sg | Mdm Leau Wan Hwee<br>leau_wan_hwee@moe.edu.sg<br><br>Mr Fan Wen Qi<br>fan_wen_qi@moe.edu.sg<br> |
@@ -70,18 +66,11 @@ third_nav_title: Our People
 
 #### **Primary 6 Teachers 2022**
 
-|  |  |  |
-|---|---|---|
 | Class | Form Teacher | Form Teacher(s) |
+|---|---|---|
 | 6 Excellence | Mdm Loy Shunyu Angeline<br><br>loy_shunyu_angeline@moe.edu.sg<br> | Mdm Sivakami d/o Sellakumaran    (Mrs Raj)<br>sivakami_sellakumaran@moe.edu.sg<br> |
 | 6 Integrity | Mr Fong Kheng Leong<br>fong_kheng_leong@moe.edu.sg<br> | Mdm Kok Nyok Lan<br>kok_nyok_lan@moe.edu.sg<br> |
 | 6 Resilience | Mdm Ashini Prasad<br>ashini_prasad@moe.edu.sg<br> | Mdm Ang Chieh Sin Jaselin<br>ang_chieh_sin_jaselin@moe.edu.sg<br> |
 | 6 Respect | Mdm Szetoh Wei Wei<br><br> szetoh_wei_wei@moe.edu.sg<br> | Mdm Noor Aidah Adam<br>noor_aidah_adam@moe.edu.sg<br> |
 | 6 Service | Mr Leong Jing Xiong Merrill<br>leong_jing_xiong_merrill@moe.edu.sg<br> | Mr Kelvin Cher Kiat Min<br>cher_kiat_min_kelvin@moe.edu.sg |
 |
-
-
-
-
-
-
