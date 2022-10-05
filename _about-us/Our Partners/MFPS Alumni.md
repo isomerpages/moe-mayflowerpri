@@ -12,7 +12,7 @@ Our 1979 alumni contributed to the school for our 40th anniversary celebrations 
 
 <figure>
 <img src="/images/mfps%20alumni%201.png" 
-     style="width:75%">
+     style="width:85%">
 <figcaption>  Our Alumni members with Mr Low Kim Suan presenting the bursary award to our student during our 41st Award Presentation and Partners’ Appreciation Ceremony. 
  </figcaption>
 </figure>
