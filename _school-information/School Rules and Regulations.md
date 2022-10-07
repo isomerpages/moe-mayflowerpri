@@ -71,4 +71,29 @@ description: ""
 * No jewellery or any item of personal adornment is allowed.
 
 <img src="/images/attire6.jpg" 
-     style="width:90%">	
+     style="width:90%">
+		 
+#### **(V) Littering / Vandalism**
+*   Students must treat school property and environment with care and respect.
+*   Students must not litter the school premises.
+*   Students must not willfully or maliciously destroy school or personal property or write graffiti.
+
+#### **(VI) Mobile Phones, Smart Watches and Electronic Devices**
+*   Students are not allowed to bring items which may disrupt or distract them from their learning in school (e.g. mobile phones and other electronic gadgets)  
+    
+*   It is mandatory for all parents to complete the “Permission Letter for Mobile Phone and Smart Watch” form if students need to bring their mobile phones or smart watch to school. Mobile phones are to be switched off at all times. Students are allowed to use mobile phones to make calls only outside the school building after dismissal.
+*   If students are caught using their mobile phones in the school premises, the mobile phones will be confiscated and parents will be required to collect them personally from the teacher.
+*   The school will not be responsible for any loss or damage of mobile phones / smart watches.
+
+#### **(VII) Prohibited Items**
+*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used, is used or intended to cause harm to oneself or others.
+
+#### **(VII) Responsible Use of Technology**
+*   Students should use media and technology in a responsible and sensible manner.
+*   Students should exercise care when using online media and technology and should not engage in any form of abuse of technology and/or cyber theft.
+*   Examples of abuse of technology include improper, unlawful or incorrect use of information e.g. posting inappropriate photos of themselves or others, making inappropriate comments that intentionally or unintentionally hurt others and using of vulgarities online
+*   Examples of cyber theft include unauthorized access, use or interception of computer services e.g. using another person’s ID and password without proper authority to access; alter, delete, copy or move a programme or data; hacking of computer systems to gain free internet services or Wi-Fi.
+
+
+
+		 
