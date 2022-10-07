@@ -25,6 +25,8 @@ During lessons, the mainstream EO and the SpT of students with HL support their 
 <img src="/images/aid1.jpg" style="width:45%;margin-right:15px;" align = "left">
 Students who share the same classroom environment as students with HL pick up Sign Language on their own and through incidental learning of being together.
 
+<br clear="left">
+
 This is beneficial to all students as acquiring a third language enables them to develop mental dexterity. Learning sign language requires both sides of the brain and gives their memory a good workout in the brain gym.
 
 School is an exciting place to be when siblings attend school together. Alya (Pr 4) and Ayra  (Pr 1)  as well as Qyairah (Pr 4) and Qusyairi (P1) are siblings who are enrolled in the programme for students with HL. They are together in each other’s company and provide social-emotional support to one another in the daily rigour of life in school.
@@ -32,6 +34,8 @@ School is an exciting place to be when siblings attend school together. Alya (Pr
 <img src="/images/aid2.jpg" style="width:45%;margin-right:15px;" align = "left">
 Seven-year-old Qusyairi says, “My sister keeps a watch over me especially when I am at play during recess. She showed me around the school on the first week of lessons. I felt confident and assured knowing that my sister is always here for
 me!”
+
+<br clear="left">
 
 Ten-year-old Alya has a younger sister in Primary One too. She is proud to have her sister joining her in school.
 
