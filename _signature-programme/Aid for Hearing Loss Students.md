@@ -22,14 +22,14 @@ During lessons, the mainstream EO and the SpT of students with HL support their 
 
 ### **Social and Emotional Learning for All**
 
-<img src="/images/aid1.jpg" style="width:65%;margin-right:15px;" align = "left">
+<img src="/images/aid1.jpg" style="width:45%;margin-right:15px;" align = "left">
 Students who share the same classroom environment as students with HL pick up Sign Language on their own and through incidental learning of being together.
 
 This is beneficial to all students as acquiring a third language enables them to develop mental dexterity. Learning sign language requires both sides of the brain and gives their memory a good workout in the brain gym.
 
 School is an exciting place to be when siblings attend school together. Alya (Pr 4) and Ayra  (Pr 1)  as well as Qyairah (Pr 4) and Qusyairi (P1) are siblings who are enrolled in the programme for students with HL. They are together in each other’s company and provide social-emotional support to one another in the daily rigour of life in school.
 
-<img src="/images/aid2.jpg" style="width:65%;margin-right:15px;" align = "left">
+<img src="/images/aid2.jpg" style="width:45%;margin-right:15px;" align = "left">
 Seven-year-old Qusyairi says, “My sister keeps a watch over me especially when I am at play during recess. She showed me around the school on the first week of lessons. I felt confident and assured knowing that my sister is always here for
 me!”
 
@@ -104,14 +104,5 @@ To ensure that the specialised supports at MFPS will meet the learning needs of 
 ##### **Do I need to participate in the P1 registration?**
 If the application is successful, your child will be directly enrolled into MFPS. Parents then need not participate in the MOE P1 registration exercise.
 
-**When will I know the outcome of the application?**<br>
+##### **When will I know the outcome of the application?**<br>
 Parents will be notified of the outcome of their application by 31 May each year, for admission to P1 in MFPS in the following year.
-
-
-
-
-
-
-
-
-
