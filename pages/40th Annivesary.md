@@ -17,7 +17,7 @@ The following is a summary of the key celebratory activities planned by the orga
 | Calendar of Events  |  |
 |:---:|---|
 | Term 1 | Launch of the 40th anniversary celebrations. . <br>InfoHunt by students. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/infohunt/) for more details. |
-| Term 2 | Walk down memory lane. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/walk-down-memory-lane) for more details.<br>School Community Fabric Art. Click [here]https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-community-art/) for more details. |
+| Term 2 | Walk down memory lane. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/walk-down-memory-lane/) for more details.<br>School Community Fabric Art. Click [here]https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-community-art/) for more details. |
 | Term 3 | School Games Day. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-games-day/) for more details. |
 |  Term 4 | School Carnival. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-carnival/) for more details. |
 |
