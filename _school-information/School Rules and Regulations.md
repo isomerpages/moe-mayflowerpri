@@ -46,7 +46,7 @@ description: ""
      style="width:60%">
 
 ##### **Boys**
-<img src="/images/attire3.jpg" style="width:15%;margin-right:25px;" align = "left">		 
+<img src="/images/attire3.jpg" style="width:25%;margin-right:25px;" align = "left">		 
 
 * Hair must be kept short and neat.
 * Hair must not cover the forehead, touch the eyebrows, ears or collar. 
