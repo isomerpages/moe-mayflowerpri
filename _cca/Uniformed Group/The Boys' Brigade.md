@@ -14,7 +14,7 @@ Sir William Alexander Smith conceived the Boys’ Brigade (BB) in 1883. Incepted
 
 | Event Name | Achievement Level  | Year of participation |
 |:---:|---|:---:|
-|<br><br><br><br><br> **BB Gold Award (highest award for the junior program)**   | ASTON KHONG KAI CHENG (6EC)<br> WONG YIWEI ADEN (6EC)<br> CHUA YI RENG ROYDEN (6RT)<br> DENNIS WONG KANG (6SV) <br>JAYDEN SIM YU TENG (6IN) <br>LOH KAI MING RYAN (6CT)<br> LOOI XIN ZHI, CEDRIC (6CT)  | <br><br><br><br><br>2021 |
+|<br><br><br><br> **BB Gold Award (highest award for the junior program)**   | ASTON KHONG KAI CHENG (6EC)<br> WONG YIWEI ADEN (6EC)<br> CHUA YI RENG ROYDEN (6RT)<br> DENNIS WONG KANG (6SV) <br>JAYDEN SIM YU TENG (6IN) <br>LOH KAI MING RYAN (6CT)<br> LOOI XIN ZHI, CEDRIC (6CT)  | <br><br><br><br>2021 |
 |
 
 |  Name of Event |  Award |  Year   |
