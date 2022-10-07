@@ -16,7 +16,7 @@ Our activities include devotion, drill, badge-work and recreation games that foc
 | Name of Event | Award /Participation | Year |
 |---|---|---|
 | Junior Brigadier Brooch Award (highest national award for GB) | ABRIL LOW ZHI TING<br> CHEN RUOHAN<br> FAITH WONG YUEN MUN <br>LIM RU YU  | 2021 |
-|  Junior Brigadier Brooch Award (highest national award for GB) | EDITH LOH <br>SHING YEE <br> OON PEY SHUEN | 202 |
+|  Junior Brigadier Brooch Award (highest national award for GB) | EDITH LOH <br>SHING YEE <br> OON PEY SHUEN | 2020 |
 |
 
 <figure>
