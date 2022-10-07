@@ -14,5 +14,6 @@ MOE’s latest issue of Parent Kit (attached) provides tips on how you can help 
 #### **Parent Kit - Transitioning Back to School**
 MOE’s latest issue of Parent Kit (attached) provides tips on how you can help your child make friends, develop resilience, set goals and work towards them.
 
-[Resource Kit - Parent Kit - Transitioning Back to School](/files/back%20to%20school.pdf)
+**pdf viewer**
 
+[Resource Kit - Parent Kit - Transitioning Back to School](/files/back%20to%20school.pdf)
