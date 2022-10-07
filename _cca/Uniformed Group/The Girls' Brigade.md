@@ -27,4 +27,4 @@ Our activities include devotion, drill, badge-work and recreation games that foc
 
 <img src="/images/gb2.png" style="width:75%">
 
-<img src="/images/gb3.png" style="width:75%">
+<img src="/images/gb3.png" style="width:95%">
