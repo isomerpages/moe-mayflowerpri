@@ -19,5 +19,4 @@ Tchoukball is a team sport that focuses on Respect, Excellence and Friendship. T
 |  SPH SOUTH ZONE TCHOUKBALL TOURNAMENT (SENIOR BOYS)    | 3RD  | 2017 |
 |
 
-<img src="/images/tchoukball1.jpg" style="width:75%">
-
+<img src="/images/tchoukball1.jpg" style="width:65%">
