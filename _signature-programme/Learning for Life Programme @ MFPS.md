@@ -65,7 +65,7 @@ Below is an overview of the various programmes using the MBL approach for the fo
 
 <figure>
 <img src="/images/llp%20visual%20arts%205.png" style="width:85%">
-<figcaption>  A captivated audience member listening to an interview and observing the portrait of a student artist’s grandmother. <br> This exhibit presented pieces of personal stories revolving around the major milestones and events in the history of Singapore.
+<figcaption>  A captivated audience member listening to an interview and observing the portrait of a student artist’s grandmother.This exhibit presented pieces of personal stories revolving around the major milestones and events in the history of Singapore.
  </figcaption>
 </figure>
 
