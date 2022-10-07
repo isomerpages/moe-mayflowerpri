@@ -73,7 +73,7 @@ third_nav_title: MFPS in the news
 
 *   Mr Heng Swee Keat, Minister for Education, commending our MFPS Alumni, including Ms Yeo Jing Ying, on their service to their alma mater  _**(Source:  [Mr Heng Swee Keat's Facebook](https://www.facebook.com/hengsweekeat/posts/683806384991223)  , March 27 2014)**_
 
-*   National Arts Council feature on Teaching Through the Arts Project (TTAP) schools  _**(Source:  **website unavailable** [National Arts Council](https://aep.nac.gov.sg/nacaep/nacaep/programmes-and-schemes/Teaching-Through-the-Arts-Programme.html)  )**_
+*   National Arts Council feature on Teaching Through the Arts Project (TTAP) schools  _**(Source:   [National Arts Council](https://aep.nac.gov.sg/nacaep/nacaep/programmes-and-schemes/Teaching-Through-the-Arts-Programme.html)  )** **website unavailable**_
 
 **2013**
 *   Guest of Honour, Mr Seng Han Thong, Member of Parliament and grassroots adviser for Ang Mo Kio GRC, at the 2013 Aesthetics Milestone heARTs in the Community Event  _**(Source:  [Mr Sean Han Thong's](https://www.facebook.com/Hanthong/videos/10151452791986821/)  Facebook &  [Yio Chu Kang CC Facebook](https://www.facebook.com/yck.ccc/posts/520168068042579)  , May 19 2013)**_
