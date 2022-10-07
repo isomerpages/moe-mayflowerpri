@@ -32,4 +32,3 @@ Click in the photo album to look at more photos taken during our Fiesta's celebr
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRICZizb0dw7YNTYp7_7eXSS_CBTT0NLXcZ6PiFjzO6PGcn8INLZcMpLijaBPFlKjMHKO7yeuWuahbn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 [Back to the 40th Celebrations page](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/)
-		 
