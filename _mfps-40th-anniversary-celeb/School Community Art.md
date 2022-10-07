@@ -22,4 +22,8 @@ Click the photo album below to view more art pieces done by the staff and other 
 
 <img src="/images/sca4.jpg" style="width:75%">
 
+Click the photo album below to view more art pieces done by the staff and other stakeholders..
+
+
+
 [Back to the 40th Celebrations page](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/)
