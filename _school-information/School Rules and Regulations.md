@@ -57,7 +57,7 @@ description: ""
 * Must be neat in appearance, clean-shaven and no facial hair is allowed. 
 
 <img src="/images/attire4.jpg" 
-     style="width:90%">		 
+     style="width:70%">		 
 
 ##### **Girls**
 <img src="/images/attire5.jpg" style="width:20%;margin-right:25px;" align = "left">		 
@@ -71,7 +71,7 @@ description: ""
 * No jewellery or any item of personal adornment is allowed.
 
 <img src="/images/attire6.jpg" 
-     style="width:90%">
+     style="width:70%">
 		 
 #### **(V) Littering / Vandalism**
 *   Students must treat school property and environment with care and respect.
