@@ -51,5 +51,12 @@ Students making sense of the parts and learning together!
 <img src="/images/alp3.jpg" style="width:38%" align=left>
 <img src="/images/alp4.png" style="width:59%" align=right>
 
+<br clear="left">
 
+Students collaborating and trying out their prototypes!
 
+![](/images/alp5.png)
+
+Some of their finished products!
+
+![](/images/alp6.png)
