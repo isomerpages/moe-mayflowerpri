@@ -1,5 +1,5 @@
 collections:
-  events:
+  mfps-40th-anniversary-celeb:
     output: true
     order:
       - 40th Annivesary.md
