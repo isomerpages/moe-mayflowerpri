@@ -40,9 +40,55 @@ Below is an overview of the various programmes using the MBL approach for the fo
 
 #### **LLP - Visual Arts**
 <figure>
-<img src="/images/principal.jpg" style="width:85%">
-<figcaption>  
+<img src="/images/llp%20visual%20arts%201.png" style="width:85%">
+<figcaption>  Taking a trip down the “Singapore River” to experience 3D-artworks of famous icons and landmarks fashioned in unusual materials
  </figcaption>
 </figure>
 
+<figure>
+<img src="/images/llp%20visual%20arts%202.png" style="width:85%">
+<figcaption>  A close up on the interesting and unique games created by our students. <br> These games feature the Singapore culture and were designed to promote interaction amongst friends, family and our community.
+ </figcaption>
+</figure>
 
+<figure>
+<img src="/images/llp%20visual%20arts%203.png" style="width:85%">
+<figcaption>  An art ambassador guides an audience on how to interact with this art installation piece that features items used by our forefathers
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%204.png" style="width:85%">
+<figcaption>  Our confident budding artist cum art ambassador explaining the concept to an audience behind the Watashiwa Hachibitto (I am 8-bit) character design for avatars, which represent themselves, for a futuristic online game set in the 22nd Century.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%205.png" style="width:85%">
+<figcaption>  A captivated audience member listening to an interview and observing the portrait of a student artist’s grandmother. <br> This exhibit presented pieces of personal stories revolving around the major milestones and events in the history of Singapore.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%206.png" style="width:85%">
+<figcaption>  An art installation piece that advocates environmental awareness to the audience.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%207.png" style="width:85%">
+<figcaption>  Material Selection (aluminum wires): Chosen for its flexibility, students are reminded to understand that Resilience is important in accomplishing/achieving a common goal.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%208.png" style="width:85%">
+<figcaption>  The project was to design a shoe that allows students to explore and discover their aspiration(s), develop their research and writing skills and art-making process.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/llp%20visual%20arts%209.png" style="width:85%">
+<figcaption>  The series of drawing from the cohort were collated and selected. The selected pieces were curated in a way  that different perspectives were linked into a visual narrative.
+ </figcaption>
+</figure>
