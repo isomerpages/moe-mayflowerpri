@@ -17,6 +17,7 @@ We also aim to provide our students with opportunities to express creativity as 
 | N6 Cluster Media Design Festival –<br>Aeronautics & Robotics (Drone Flying) | 1st place | 2019 |
 | N6 Cluster Media Design Festival –<br>Short Film Production | 1st place | 2019 |
 | N6 Cluster Media Design Festival –<br>Digital Animation | 2nd Runner-up | 2019 |
+|
 
 <figure>
 <figcaption> Creating a prototype with Microbits 
