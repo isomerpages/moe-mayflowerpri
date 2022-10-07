@@ -15,7 +15,7 @@ description: ""
 * [006 Parenting Support Programmes](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Parenting_Support_Programmes.pdf)
 * [007 Holistic Assessment Matters](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Holistic%20Assessment%20Matters.pdf)
 * [008 School-Based Assessment Matters P3-P6](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/School-Based_Assessment_Matters-P3-P6.pdf)
-* [009 Students' Enrichment Programmes for Year 2022 - P1 to P6](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Students_Enrichment_Programmes.zip)
+* [009 Students' Enrichment Programmes for Year 2022 - P1 to P6](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Students_Enrichment_Programmes.zip) **zip folder**
 * [010 Year 2022 MK Registration Exercise (Sibling Reg letter)](https://mayflowerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u517/2022_Notifications/2022_MK-Registration_Exercise-Sibling_Reg_letter.pdf)
 * [011 COVID-19 Vaccination status update for student safety](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/COVID-19_Vaccination_status_update.pdf)
 * [012 Notification to Parents 20 Jan 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Notification_to_Parents_20Jan2022.pdf)
