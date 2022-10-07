@@ -58,7 +58,7 @@ third_nav_title: MFPS in the news
 **2015**
 *   Mayflower Primary 6 pupil was the top speller at the inaugural RHB Spelling Masters 2015 in Kuala Lumpur     _**(Source:  [The Straits Times](http://www.straitstimes.com/singapore/p6-pupil-is-top-speller-in-spore-malaysia-contest)  , November 23 2015)**_                                                               
     
-*   _[MFPS Alumnus, Jerome Lim Jit Hor, recipient of MOE Teaching Scholarship (Overseas)](https://mayflowerpri.moe.edu.sg/accolades/mfps-in-the-news/mfps-alumnus-jerome-lim-jit-how-recipient-of-2015-moe-teaching-scholarship-overseas)_   
+*   _[MFPS Alumnus, Jerome Lim Jit Hor, recipient of MOE Teaching Scholarship (Overseas)](https://staging.dumgjq4ikmf5k.amplifyapp.com/achievements/mfps-in-the-news/alumnus/)_   
     
 *   Global Art Project, Frequencies with London-Based Artist, Oscar Murillo, to be featured at the 2015 edition of Venice Biennale _**(Source:  [Singapore MCCY Facebook](https://www.facebook.com/SingaporeMCCY/posts/962100750514727)  )**_
 
