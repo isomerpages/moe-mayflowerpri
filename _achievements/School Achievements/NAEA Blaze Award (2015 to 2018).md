@@ -7,7 +7,7 @@ third_nav_title: School Achievements
 ### **NAEA Blaze Award (2015-2018)**
 
 <img src="/images/NAEA%20logo%20blaze%202015.jpg" 
-     style="width:35%">
+     style="width:25%">
 
 Mayflower Primary School has achieved the National Arts Education Award (NAEA) 2015 – Blaze. The Blaze category of the NAEA is the highest level of attainment, in recognition of the school’s efforts in building a vibrant arts culture, advocates and champions the arts, contributes to the community, and provides assistance to other schools in their arts education development.
 
