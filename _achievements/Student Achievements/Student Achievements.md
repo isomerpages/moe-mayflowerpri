@@ -29,3 +29,44 @@ third_nav_title: Student Achievements
 |   AURELIA AURORA | 5IN | White 9 (1st Gold) |   |
 | **Overall Senior Boys (3rd)**  |  |  |  |
 |
+
+#### **Our 2021 National School Games Taekwondo Championship Senior Team**
+
+<img src="/images/student%20achievement%204.jpg" 
+     style="width:75%">
+
+#### **2020 Awards**
+<img src="/images/student%20achievement%205.jpg" 
+     style="width:75%">
+
+**SMTU Education Award 2019 (PSLE)**<br>
+The Singapore Malay Teachers’ Union (SMTU) awarded the following students from our school with SMTU Education Award (PSLE) for 2019<br>
+NUR YASMIN HUDA BINTE SAMRI                    P6-EC<br>
+NUR YUSRINA AIN BINTE SAMRI                      P6-SV
+
+**Singapore Primary School Sports Council (SPSSC) National School Games – Sportsmanship Award**<br>
+MURUGANANDAM DEEPTHI                            P5-RT<br>
+KIMAYA VIJAY WARRIER                                    P6-EC
+
+**National Story Writing Competition 2019**<br>
+PRIMARY SCHOOL GROUP ( 1st )<br>
+CHEN TIANYNG                                                  P6-SV
+
+**25th National Primary School On-The-Spot Chinese Creative Essay Writing Competition**<br>
+GROUP A ( Consolation )<br>
+FENG YILIN                                                          P6-EC<br>
+LIM JUN MING                                                    P6-EC<br>
+NON-CHINESE GROUP ( 3rd )<br>
+KENNETH RENALD GUNAWAN                      P4-RT
+
+**National Malay Writing Competition 2019**<br>
+RIN ARDINI BTE JOHAN                                P6-IN  (Gold)<br>
+NUR YASMIN HUDA BTE SAMRI                  P6-EC (Gold-Finalist)<br>
+MUHAMMAD Dizvan Bin Roslan                  P2-CT (Bronze)<br>
+KEJORA BINTE MOKHZANI                          P2-RS (Bronze)<br>
+SABRI BOULEFKHAD                                     P3-IN (Bronze)<br>
+NAYLI ATHILAH BINTE MD SALLIHIN         P3-IN (Bronze)<br>
+ALYSHA NADYA BINTE MUHAMMAD         P6-IN (Bronze)
+
+
+**Click here for more ( [2019 Student Awards](/files/2019%20awards.pdf))**
