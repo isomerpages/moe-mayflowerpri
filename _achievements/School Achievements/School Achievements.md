@@ -7,8 +7,6 @@ third_nav_title: School Achievements
 ### **School Achievements**
 <img src="/images/sch%20achievement%201.jpg" style="width:25%;margin-right:15px;" align = "left"> **Introduction**<br>The vision and mission of Mayflower Primary School reflect its commitment to developing the whole child through quality holistic education that prepares pupils for the 21st century. The school’s core values of Integrity, Respect, Resilience, Commitment to Excellence and Willingness to Lead and Serve drive its culture of care which is anchored on quality relationships and excellence.
 
-<br clear="left">
-
 To achieve its vision and mission, the school’s key directions and focus are guided by five strategic thrusts, namely Academic Excellence, Sports Excellence, Aesthetics Excellence, Excellence in Character and Staff Competency and Well-Being.
 
 **D** istinctive/ **S** ignificant **F** eatures
@@ -43,6 +41,3 @@ MFPS leverages cluster, zone, national and international platforms to share best
 With its diverse pupil profile, MFPS always seeks to improve its capacity to meet the needs of its pupil segments. Strategic partnerships are forged to expand programme and resource provisions across domains. Key partners include Seagate Technology for Science and environment programmes, TOUCH Community Services, Mendaki and SINDA for learning support programmes and National Arts Council and Yong Siew Toh Conservatory of Music for arts programmes. 
 
 The School Distinction Award (SDA) recognises the high level of achievement in schools with exemplary processes and practices. Schools that achieve the SDA have put in place well-defined processes that lead to sustained achievement in student outcomes.
-
-
-
