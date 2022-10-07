@@ -5,11 +5,11 @@ description: ""
 ---
 ### **Notifications to Parents 2022**
 
-* [Racial\_Harmony\_Day\_Commemoration\_2022.pdf](/files/ntp1.pdf)
-* [001 Principal Welcome Letter 2022](/files/ntp2.pdf)
-* [Annex C - Amended School Calendar](/files/ntp3.pdf)
-* [002 Form Teachers' Sharing cum Interaction Session for P2 to P6](/files/ntp4.pdf)
-* [003 MOE Sexuality Education in Schools - The Growing Years Programme](/files/ntp5.pdf)
+* [Racial\_Harmony\_Day\_Commemoration\_2022.pdf]
+* [001 Principal Welcome Letter 2022]
+* [Annex C - Amended School Calendar]
+* [002 Form Teachers' Sharing cum Interaction Session for P2 to P6]
+* [003 MOE Sexuality Education in Schools - The Growing Years Programme]
 * [004 Student Particulars Form-Annual Updating Exercise](
 * [005 The Straits Times School Pocket Money Fund (STSPMF) 2022 (For Pri One only)](
 * [006 Parenting Support Programmes](
