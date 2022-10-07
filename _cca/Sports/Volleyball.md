@@ -27,7 +27,7 @@ Our current training structure is as follows:
 | Mentoring Session by Anderson Secondary Volleyball Team  |  Participation  |  2018 |
 | 
 
-<img src="/images/volleyball1.jpg" style="width:75%">
+<img src="/images/volleyball1.jpg" style="width:95%">
 
 
 <figure>
