@@ -25,3 +25,24 @@ The Development through Drama Programme enables all primary 1 and 2 students to 
 The school also partners SOTA to provide MFPS students with opportunities for authentic learning of Drama skills to further develop interested and talented students in this art form. Through this partnership, SOTA will also look out for potential students to articulate into the institution via SOTA’s Junior Academy Programme.
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRlF3eZkSvyYg25K4yLAQvIiE5fE2Fk_c7vS3bE4oYaPU3i4-UwUb6pfCZxHFDa2RiVA8k4bqlnAmR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Visual Arts -** The overall approach to engage our students in Visual Arts is through Museum-Based Learning (MBL). MBL is a pedagogical approach that uses places and their resources as a foundation for learning across subject disciplines. MBL connects learning to places and communities in and beyond school, in authentic and meaningful ways.
+
+Below is an overview of the various programmes using the MBL approach for the following levels:
+
+| Level | Programme | Activities |
+|---|---|---|
+| Primary 2 | The Traveling Museum | Performances and Exhibitions - School -based |
+| Primary 3 | Singapore Philatelic Museum (SPM) | Visit SPM – onsite |
+| Primary 4 | Singapore Art Museum (SAM) | Visit MBL@SAM – onsite<br>Integrated learning with English and Social Studies, culminating to an exhibition at SAM |
+| Primary 6 | Singapore Art Museum | Visit MBL@SAM - onsite |
+|
+
+#### **LLP - Visual Arts**
+<figure>
+<img src="/images/principal.jpg" style="width:85%">
+<figcaption>  
+ </figcaption>
+</figure>
+
+
