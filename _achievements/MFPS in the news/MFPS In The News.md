@@ -49,7 +49,7 @@ third_nav_title: MFPS in the news
  **2017**
  *   Mayflower Primary School Institutes Snack Breaks during Curriculum Hours  **_(Source:   [The Straits Times](http://www.straitstimes.com/singapore/education/parents-fret-over-pupils-late-lunches-despite-snack-breaks)  , January 17 2017)_**
 *   Mayflower Primary School's New Approach to Education Fair  **_(Source:   [The Straits Times](http://www.straitstimes.com/singapore/education/do-more-to-raise-awareness-of-programme-observers)  , March 12 2017)_**
-*   Redefining DSA at Mayflower Primary School  **_(Source:   [Channel 8 News](http://www.channel8news.sg/news8/singapore/20170407-wld-dsa/3661180.html) **website unavailable** , April 7 2017)_**
+*   Redefining DSA at Mayflower Primary School  **_(Source:   [Channel 8 News](http://www.channel8news.sg/news8/singapore/20170407-wld-dsa/3661180.html) website unavailable , April 7 2017)_**
 
  **2016**
  *   Using drama to teach pupils maths concepts  **_(Source:  [The Straits Times](http://www.straitstimes.com/singapore/education/using-drama-to-teach-pupils-maths-concepts)  , March 14 2016)_**
