@@ -58,4 +58,3 @@ Monday, 11 July, will be a public holiday.<br>
 Monday, 26 December, will be a public holiday.
 
 Following the announcement by the Majlis Ugama Islam Singapura (Muis) on 21 October 2021 on the revised dates for Hari Raya Puasa and Hari Raya Haji in 2022, the Ministry of Manpower (MOM) has gazetted 3 May 2022 and 10 July 2022 as the new public holidays for Hari Raya Puasa and Hari Raya Haji respectively.
-
