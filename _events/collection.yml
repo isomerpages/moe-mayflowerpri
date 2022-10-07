@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 40th Anniversary/School Community Art.md
       - 40th Anniversary/School Games Day.md
       - 40th Anniversary/School Carnival.md
       - 40th Anniversary/.keep
