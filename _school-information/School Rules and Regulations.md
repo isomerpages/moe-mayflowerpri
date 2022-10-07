@@ -93,7 +93,3 @@ description: ""
 *   Students should exercise care when using online media and technology and should not engage in any form of abuse of technology and/or cyber theft.
 *   Examples of abuse of technology include improper, unlawful or incorrect use of information e.g. posting inappropriate photos of themselves or others, making inappropriate comments that intentionally or unintentionally hurt others and using of vulgarities online
 *   Examples of cyber theft include unauthorized access, use or interception of computer services e.g. using another person’s ID and password without proper authority to access; alter, delete, copy or move a programme or data; hacking of computer systems to gain free internet services or Wi-Fi.
-
-
-
-		 
