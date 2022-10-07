@@ -17,23 +17,23 @@ description: ""
 * [008 School-Based Assessment Matters P3-P6](/files/ntp8.pdf)
 * 009 Students' Enrichment Programmes for Year 2022 - P1 to P6
 * * 009 Students' Enrichment Programmes for Year 2022 - P1
-* - [009 Students' Enrichment Programmes for Year 2022 - P1]
-* - [009 Students' Enrichment Programmes for Year 2022 - P1]
+* - [009 Students' Enrichment Programmes for Year 2022 - P1](/files/npt9a.pdf)
+* - [009 Students' Enrichment Programmes for Year 2022 - P1](/files/npt9b.pdf)
 * * 009 Students' Enrichment Programmes for Year 2022 - P2
-* - [009 Students' Enrichment Programmes for Year 2022 - P2]
-* - [009 Students' Enrichment Programmes for Year 2022 - P2]
+* - [009 Students' Enrichment Programmes for Year 2022 - P2](/files/ntp9(/files/ntp9.pdf).pdf)
+* - [009 Students' Enrichment Programmes for Year 2022 - P2](/files/ntp9d.pdf)
 * * 009 Students' Enrichment Programmes for Year 2022 - P3
-* - [009 Students' Enrichment Programmes for Year 2022 - P3]
-* - [Enrichment Programmes By Level (Annex 1) - P3]
+* - [009 Students' Enrichment Programmes for Year 2022 - P3](/files/ntp9e.pdf)
+* - [Enrichment Programmes By Level (Annex 1) - P3](/files/ntp9f.pdf)
 * * 009 Students' Enrichment Programmes for Year 2022 - P4
-* - [009 Students' Enrichment Programmes for Year 2022 - P4]
-* - [Enrichment Programmes By Level (Annex 1) - P4]
+* - [009 Students' Enrichment Programmes for Year 2022 - P4](/files/ntp9g.pdf)
+* - [Enrichment Programmes By Level (Annex 1) - P4](/files/ntp9h.pdf)
 * * 009 Students' Enrichment Programmes for Year 2022 - P5
-* - [009 Students' Enrichment Programmes for Year 2022 - P5]
-* - [Enrichment Programmes By Level (Annex 1) - P5]
+* - [009 Students' Enrichment Programmes for Year 2022 - P5](/files/ntp9i.pdf)
+* - [Enrichment Programmes By Level (Annex 1) - P5](/files/ntp9j.pdf)
 * * 009 Students' Enrichment Programmes for Year 2022 - P6 
-* - [009 Students' Enrichment Programmes for Year 2022 - P6]
-* - [Enrichment Programmes By Level (Annex 1) - P6]
+* - [009 Students' Enrichment Programmes for Year 2022 - P6](/files/ntp9k.pdf)
+* - [Enrichment Programmes By Level (Annex 1) - P6](/files/ntp9l.pdf)
 * [010 Year 2022 MK Registration Exercise (Sibling Reg letter)](/files/ntp10.pdf)
 * [011 COVID-19 Vaccination status update for student safety](/files/ntp11.pdf)
 * [012 Notification to Parents 20 Jan 2022](/files/ntp12.pdf)
