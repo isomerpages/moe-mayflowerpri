@@ -10,7 +10,7 @@ The income limits and benefits for the MOE Financial Assistance Scheme for citiz
 
 | Income Criterion | Benefits |
 |---|---|
-|<br>- Gross Household Income (GHI) of $2,750 or below<br><br><br>- Per Capita Income (PCI) of $690 or below  | - Full waiver of standard miscellaneous fee<br><br>- Free textbooks & school attire<br><br>- 60% of school bus fare for students taking school bus service; or $180 transport credits per annum for students taking public transport|
+|- Gross Household Income (GHI) of $2,750 or below<br><br><br>- Per Capita Income (PCI) of $690 or below  | - Full waiver of standard miscellaneous fee<br><br>- Free textbooks & school attire<br><br>- 60% of school bus fare for students taking school bus service; or $180 transport credits per annum for students taking public transport|
 |
 
 For more information and application for MOE FAS, please contact our admin staff in the General office at **6452 0849** or via school email.
