@@ -44,7 +44,7 @@ Sir William Alexander Smith conceived the Boys’ Brigade (BB) in 1883. Incepted
 <img src="/images/bb2.png" style="width:75%">
 </figure>
 
-The Boys’ Brigade in Singapore: **www.bb.org.sg**
+The Boys’ Brigade in Singapore: [**www.bb.org.sg**](www.bb.org.sg)
 
 <figure>
 <figcaption> Boys’ Brigade members learning how to dress and bandage wounds
