@@ -5,52 +5,69 @@ description: ""
 ---
 ### **Notifications to Parents 2022**
 
-* [Racial\_Harmony\_Day\_Commemoration\_2022.pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Racial_Harmony_Day_Commemoration_2022.pdf)
-* [001 Principal Welcome Letter 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Principal_Welcome_Letter_2022.pdf) 
-* [Annex C - Amended School Calendar](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Amended_School_Calendar.pdf)
-* [002 Form Teachers' Sharing cum Interaction Session for P2 to P6](https://mayflowerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u517/2022_Notifications/Form_Teachers_Sharing_Interaction_Session_P2-P6.pdf)
-* [003 MOE Sexuality Education in Schools - The Growing Years Programme](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/MOE_Sexuality_Education_in_Schools-The_Growing_Years_Programme.pdf)
-* [004 Student Particulars Form-Annual Updating Exercise](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Student_Particulars_Form-Annual_Updating_Exercise.pdf)
-* [005 The Straits Times School Pocket Money Fund (STSPMF) 2022 (For Pri One only)](https://mayflowerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u517/2022_Notifications/The_Straits_Times_School_Pocket_Money_Fund_2022-Pri-One_Only.pdf)
-* [006 Parenting Support Programmes](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Parenting_Support_Programmes.pdf)
-* [007 Holistic Assessment Matters](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Holistic%20Assessment%20Matters.pdf)
-* [008 School-Based Assessment Matters P3-P6](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/School-Based_Assessment_Matters-P3-P6.pdf)
-* [009 Students' Enrichment Programmes for Year 2022 - P1 to P6](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Students_Enrichment_Programmes.zip) **zip folder**
-* [010 Year 2022 MK Registration Exercise (Sibling Reg letter)](https://mayflowerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u517/2022_Notifications/2022_MK-Registration_Exercise-Sibling_Reg_letter.pdf)
-* [011 COVID-19 Vaccination status update for student safety](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/COVID-19_Vaccination_status_update.pdf)
-* [012 Notification to Parents 20 Jan 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Notification_to_Parents_20Jan2022.pdf)
-* [013 Photo-Taking for P1 and P6 Students for The School Smart Cards 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Photo-Taking_P1_P6_Students-2022.pdf)
-* [014 Form Teachers' Sharing cum Interaction Session for Primary 1 on 17 Feb 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Form_Teachers_Sharing_Interaction_Session_P2-P6.pdf)
-* [015 Online Mathematics Portal - Koobits 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Online_Mathematics_Portal-Koobits2022.pdf)
-* [016 Primary 4 Cohort Leadership Training](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Pri-4_Cohort_Leadership_Training.pdf)
-* [017 Notification to Parents 10 Mar 2022 (PERI Upgrades, New Additions to MFPS etc.)](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Notification_Parents_PERI%20Upgrades_New_Additions_MFPS.pdf)
-* [018 Financial Literacy Workshop for Primary 6 Students](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Financial_Literacy_Workshop_P6_Students.pdf)
-* [019 P6 Supplementary Programme for Terms 2 to 4, 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P6_Supplementary_Programme_Terms%202-4.pdf)
-* [021 Notification on Use of School Smart Cards (SSC) For Concessionary Travel - Pri 1 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Use_of_School_Smart_Cards_For_Concessionary_Travel-Pri-1_2022.pdf)
-* [023 P4 SA1 Oral Examination ](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P4-SA1_Oral_Exam.pdf)
-* [024 P6 SA1 Oral and E-Oral Examinations](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P6-SA1_Oral_and_E-Oral_Exam.pdf)
-* [025 2022 P1 Reg Ex Phase 1 ](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/2022_MK-Registration_Exercise-Sibling_Reg_letter.pdf)
-* [026 P1 to P6 Parent-Teacher Meeting (PTM)](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P1-P6_Parent-Teacher-PTM.pdf)
-* [027 P6 Term Break Supplementary Classes and Suspension of CCA in Semester 2](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P6_Term-Break_Classes_Suspension_CCA_Semester2.pdf)
-* [028 Parents Letter May 2022 Arrival Dismissal Arrangements T3 PG](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Parents_Letter_Arrival_Dismissal-T3.pdf)
-* [029 Book Character Dress Up Day 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Book_Character_Dress-Up_Day_2022.pdf)
-* [030 Elective Programme for Primary 1 and Primary 2 Students 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Elective_Programme-Primary-1_Primary-2_Students2022.pdf)
-* [031 NE Show P5 (For PG)](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/NE_Show-P5_For_PG.pdf)
-* [032 P6 Timed Practice Schedule 2022](https://mayflowerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u517/2022_Notifications/P6_Timed_Practice_Schedule_2022.pdf)
-* [033 Sem 2 School Programmes from 27 June 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/School_Programmes_from_27%20June_2022.pdf)
-* [034 P5 NE Show 2nd Notification](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P5_NE_Show_2nd-Notification.pdf)
-* [035 Consent Form MOE Centalized ICT Systems](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Consent_Form_MOE_Centalized_ICT_Systems.pdf)
-* [036 Racial Harmony Day Commemoration 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Racial_Harmony_Day_Commemoration_2022.pdf)
-* [037 P6 Prelim Oral and E-Oral Examinations](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P6_Prelim_Oral_E-Oral_Examinations.pdf)  
-* [038 The Straits Times School Pocket Money Fund (STSPMF) 2023 (For Pri 1 to 5 Only)](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/The_Straits_Times_School_Pocket_Money_Fund-2023.pdf)  
-* [039 Primary 4-Introduction of 3D Pen as New Media for Museum-based Learning Art Lessons](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Pri-4_Intro_3D-Pen_New_Media_Museum_Learning_Art_Lessons.pdf)  
-* [040 Teachers' Day Celebrations and Sch Holidays 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Teachers_Day_Sch_Holidays_2022.pdf)  
-* [041 September Term Break Remedial 2022](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Sept_Term_Break_Remedial-2022.pdf)  
-* [042 Annual Parents' Survey](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/042-Annual_Parents_Survey.pdf)  
-* [043 P2 Learning Journey to Supermarket](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P2_Learning_Journey_Supermarket.pdf)  
-* [044 Term 4 School Matters](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/Term4_School_Matters.pdf)  
-* [045 P6 Pre-PSLE Study Break](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P6_Pre-PSLE_Study_Break.pdf)  
-* [046 P5 SA2 Oral Examination](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P5_SA2_Oral_Examination.pdf)  
-* [048 P5 Outdoor Experience Camp](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P5_Outdoor_Experience_Camp.pdf)  
-* [049 P3 SA2 Oral Examination](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P3-SA2_Oral_Examination.pdf)  
-* [050 P4-SA2 Oral Examination](https://mayflowerpri.moe.edu.sg/qql/slot/u517/2022_Notifications/P4-SA2_Oral_Examination.pdf)
+* [Racial\_Harmony\_Day\_Commemoration\_2022.pdf](
+* [001 Principal Welcome Letter 2022](
+* [Annex C - Amended School Calendar](
+* [002 Form Teachers' Sharing cum Interaction Session for P2 to P6](
+* [003 MOE Sexuality Education in Schools - The Growing Years Programme](
+* [004 Student Particulars Form-Annual Updating Exercise](
+* [005 The Straits Times School Pocket Money Fund (STSPMF) 2022 (For Pri One only)](
+* [006 Parenting Support Programmes](
+* [007 Holistic Assessment Matters](
+* [008 School-Based Assessment Matters P3-P6](
+* 009 Students' Enrichment Programmes for Year 2022 - P1 to P6
+* * 009 Students' Enrichment Programmes for Year 2022 - P1
+* - [009 Students' Enrichment Programmes for Year 2022 - P1]
+* - [009 Students' Enrichment Programmes for Year 2022 - P1]
+* * 009 Students' Enrichment Programmes for Year 2022 - P2
+* - [009 Students' Enrichment Programmes for Year 2022 - P2]
+* - [009 Students' Enrichment Programmes for Year 2022 - P2]
+* * 009 Students' Enrichment Programmes for Year 2022 - P3
+* - [009 Students' Enrichment Programmes for Year 2022 - P3]
+* - [Enrichment Programmes By Level (Annex 1) - P3]
+* * 009 Students' Enrichment Programmes for Year 2022 - P4
+* - [009 Students' Enrichment Programmes for Year 2022 - P4]
+* - [Enrichment Programmes By Level (Annex 1) - P4]
+* * 009 Students' Enrichment Programmes for Year 2022 - P5
+* - [009 Students' Enrichment Programmes for Year 2022 - P5]
+* - [Enrichment Programmes By Level (Annex 1) - P5]
+* * 009 Students' Enrichment Programmes for Year 2022 - P6 
+* - [009 Students' Enrichment Programmes for Year 2022 - P6]
+* - [Enrichment Programmes By Level (Annex 1) - P6]
+* [010 Year 2022 MK Registration Exercise (Sibling Reg letter)](
+* [011 COVID-19 Vaccination status update for student safety](
+* [012 Notification to Parents 20 Jan 2022](
+* [013 Photo-Taking for P1 and P6 Students for The School Smart Cards 2022](
+* [014 Form Teachers' Sharing cum Interaction Session for Primary 1 on 17 Feb 2022](
+* [015 Online Mathematics Portal - Koobits 2022](
+* [016 Primary 4 Cohort Leadership Training](
+* [017 Notification to Parents 10 Mar 2022 (PERI Upgrades, New Additions to MFPS etc.)](
+* [018 Financial Literacy Workshop for Primary 6 Students](
+* [019 P6 Supplementary Programme for Terms 2 to 4, 2022](
+* [021 Notification on Use of School Smart Cards (SSC) For Concessionary Travel - Pri 1 2022](
+* [023 P4 SA1 Oral Examination ](
+* [024 P6 SA1 Oral and E-Oral Examinations](
+* [025 2022 P1 Reg Ex Phase 1 ](
+* [026 P1 to P6 Parent-Teacher Meeting (PTM)](
+* [027 P6 Term Break Supplementary Classes and Suspension of CCA in Semester 2](
+* [028 Parents Letter May 2022 Arrival Dismissal Arrangements T3 PG](
+* [029 Book Character Dress Up Day 2022](
+* [030 Elective Programme for Primary 1 and Primary 2 Students 2022](
+* [031 NE Show P5 (For PG)](
+* [032 P6 Timed Practice Schedule 2022](
+* [033 Sem 2 School Programmes from 27 June 2022](
+* [034 P5 NE Show 2nd Notification](
+* [035 Consent Form MOE Centalized ICT Systems](
+* [036 Racial Harmony Day Commemoration 2022](
+* [037 P6 Prelim Oral and E-Oral Examinations](
+* [038 The Straits Times School Pocket Money Fund (STSPMF) 2023 (For Pri 1 to 5 Only)](
+* [039 Primary 4-Introduction of 3D Pen as New Media for Museum-based Learning Art Lessons](
+* [040 Teachers' Day Celebrations and Sch Holidays 2022](
+* [041 September Term Break Remedial 2022](
+* [042 Annual Parents' Survey](
+* [043 P2 Learning Journey to Supermarket](
+* [044 Term 4 School Matters](
+* [045 P6 Pre-PSLE Study Break](
+* [046 P5 SA2 Oral Examination](
+* [048 P5 Outdoor Experience Camp](
+* [049 P3 SA2 Oral Examination](
