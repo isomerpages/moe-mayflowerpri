@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 40th Anniversary/.keep
       - 40th Annivesary.md
       - Infohunt.md
       - Walk Down Memory Lane.md
