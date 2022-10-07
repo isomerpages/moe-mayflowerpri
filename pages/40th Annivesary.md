@@ -21,3 +21,5 @@ The following is a summary of the key celebratory activities planned by the orga
 | Term 3 | School Games Day. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-games-day/) for more details. |
 |  Term 4 | School Carnival. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-carnival/) for more details. |
 |
+
+Click [here](https://mayflowerpri.moe.edu.sg/others/40th-anniversary-celebrations/40th-anniversary-celebrations) **website unavailable** to view some photos of the past and present.
