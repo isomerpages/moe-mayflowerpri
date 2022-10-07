@@ -80,4 +80,3 @@ third_nav_title: MFPS in the news
 
 **2012**
 *   Visit by Dr Yaacob Ibrahim, then Minister for Information, Communications and the Arts to Mayflower Primary School on 25 July 2012  **_(Source:  [Mr Yaacob Ibrahim's Facebook](https://www.facebook.com/yaacobibrahim/posts/350003391741253)  , July 25 2012)_**
- 
