@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School Games Day.md
       - School Carnival.md
       - 40th Anniversary/40th Annivesary.md
       - 40th Anniversary/Infohunt.md
