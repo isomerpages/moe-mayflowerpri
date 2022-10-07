@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - School Community Art.md
       - School Games Day.md
       - School Carnival.md
