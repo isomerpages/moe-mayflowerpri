@@ -46,7 +46,7 @@ description: ""
      style="width:60%">
 
 ##### **Boys**
-<img src="/images/attire3.jpg" style="width:35%;margin-right:25px;" align = "left">		 
+<img src="/images/attire3.jpg" style="width:15%;margin-right:25px;" align = "left">		 
 
 * Hair must be kept short and neat.
 * Hair must not cover the forehead, touch the eyebrows, ears or collar. 
@@ -60,7 +60,7 @@ description: ""
      style="width:90%">		 
 
 ##### **Girls**
-<img src="/images/attire5.jpg" style="width:35%;margin-right:25px;" align = "left">		 
+<img src="/images/attire5.jpg" style="width:25%;margin-right:25px;" align = "left">		 
 
 * Fringe must not be touching the eyebrows, 
 * Hair beyond shoulder length must be plaited or tied up
