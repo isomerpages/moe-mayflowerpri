@@ -24,4 +24,3 @@ description: ""
 *  [2014 2nd issue August](/files/perfect15-min.pdf)
 *  [2014 1st issue February]
 *  [2013 final issue Sept](/files/perfect17-min.pdf)
-
