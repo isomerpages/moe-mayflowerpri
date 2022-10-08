@@ -42,3 +42,5 @@ Click on pdf file link below as it provides instructions for downloading the mob
 
 **4.  How to read Parent Gateway attachment PDF file on mobile**<br>
 [Read PDFs easily on mobile.pdf](/files/Read_PDFs_on_mobile.pdf)
+
+**5.  More [FAQs](https://staging.dumgjq4ikmf5k.amplifyapp.com/student-notifications/parent-gateway/faq/) (For Parents)**
