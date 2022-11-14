@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Mayflower Primary School
       background: /images/hero.gif
       key_highlights:
         - title: Announcements
