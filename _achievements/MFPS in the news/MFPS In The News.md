@@ -32,7 +32,7 @@ third_nav_title: MFPS in the news
 <img style="width:75%" src="/images/mfps%20in%20the%20news%203a.jpg">
 </a></p>
 
-<iframe width="700" height="350" src=https://www.youtube.com/embed/bUNoB-Uh8-s" title="Mayflower Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/_hiveFa0AG8" title="Mayflower Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **< MFPS Sing Together NDP 2020 >**
 
