@@ -17,9 +17,9 @@ third_nav_title: MFPS in the news
 <iframe width="700" height="350" src="https://www.youtube.com/embed/FgPyYRL0HHY" title="MFPS in the news" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figure>
-<a href="https://staging.dumgjq4ikmf5k.amplifyapp.com/achievements/mfps-in-the-news/">
+<p><a href="https://staging.dumgjq4ikmf5k.amplifyapp.com/achievements/mfps-in-the-news/">
 <img src="/images/mfps%20in%20the%20news%201.png" 
-     style="width:85%">
+		 style="width:85%"></a></p>
 <figcaption><strong>  MFPS students benefiting from goodwill of the Community
  </strong></figcaption>
 </figure>
