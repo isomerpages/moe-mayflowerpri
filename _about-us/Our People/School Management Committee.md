@@ -11,7 +11,7 @@ third_nav_title: Our People
 |---|---|
 |  **Principal** |  Ms Cecilia Lim<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
 |  **Vice-principal (EO)** |  Mrs Winefrede Loo<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
-|  **Vice-principal (EO)** |  Mrs Chow - Kong Yuit Chan, Noelle Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
+|  **Vice-principal (EO)** |  Mrs Chow - Kong Yuit Chan, Noelle<br> Email:[mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
 |  **Vice-principal (Admin)** |  Mr Kwok Keng Lian<br> Email: [mayflower_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) |
 |
 
