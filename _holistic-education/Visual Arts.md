@@ -28,17 +28,6 @@ With the above approaches, students acquire knowledge, skills and values through
 
 Our art teachers strive to train students in artful thinking routines through the spiral approach. The design of our visual arts curriculum emphasizes the various artful thinking routines across all levels. As our students progress up the levels, new routines will be introduced while previous routines are revisited at a deeper level.
 
-#### **Talent Identification and Development Education**
-MFPS Visual Arts Talent Identification and Development Education (**VATIDE**) aims to identify students who are interested and / or talented in visual arts. Talent identification is mainly through our interaction with students during curriculum time (Art Lessons), CCA Art Club and teacher / parent recommendations. Development education for identified students is carried out via a few platforms:
-
-* Individual/small group coaching sessions after school;
-* Specialized art-making clinics;
-* Portfolio building sessions;
-* Project-based art-making sessions and
-* Training sessions for competitions.
-
-**VATIDE** serves as a specialized platform to guide and develop students with knowledge, skills and studio practices at intermediate/advance levels. This selected group of students are either aspiring budding artists who wish to pursue art in their secondary and tertiary education or are highly motivated and passionate in developing their artistic skills and talents.
-
 #### **Department Programmes**
 
 | S/N | Programme | Level |
