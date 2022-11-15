@@ -46,7 +46,7 @@ third_nav_title: Our People
 |  Mr Cher Kiat Min Kelvin (LH /Science) -Internal<br> Email: [cher_kiat_min_kelvin@moe.edu.sg](mailto:cher_kiat_min_kelvin@moe.edu.sg) |
 |  Mdm Noor Aidah Bte Adam (SH /ML & TL)<br> Email: [noor_aidah_adam@moe.edu.sg](mailto:noor_aidah_adam@moe.edu.sg) |
 |  Ms Nurhuda Housman (SH /CCE)<br> Email: [nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg)  |
-|  Mrs Seah -Amy Chua Jia Xi (SH /Student Management) Email: [amy_chua_jia_xi@moe.edu.sg](mailto:amy_chua_jia_xi@moe.edu.sg) |
+|  Mrs Seah -Amy Chua Jia Xi (SH /Student Management)<br> Email: [amy_chua_jia_xi@moe.edu.sg](mailto:amy_chua_jia_xi@moe.edu.sg) |
 |  Mr Mohammad Shaifudin (SH /ICT) <br> Email: [mohammad_shaifudin@moe.edu.sg](mailto:mohammad_shaifudin@moe.edu.sg) |
 | Mr Leong Jing Xiong Merrill (SH /PE & CCA) - Internal <br> Email: [leong_jing_xiong_merrill@moe.edu.sg](mailto:leong_jing_xiong_merrill@moe.edu.sg)  |
 |
