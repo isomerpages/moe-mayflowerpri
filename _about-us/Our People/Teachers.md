@@ -37,7 +37,7 @@ third_nav_title: Our People
 | 3 Excellence | Ms Yuen Lei Teng Cheryl<br>[yuen_lei_teng_cheryl@moe.edu.sg](mailto:yuen_lei_teng_cheryl@moe.edu.sg) | Ms Esther Chia Kah Min<br>[chia_kah_min_esther@moe.edu.sg](mailto:chia_kah_min_esther@moe.edu.sg) |
 | 3 Integrity | Mdm Chua Sok Huang<br>[chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg) | Ms Tan Woei Yng <br>[tan_woei_yng@moe.edu.sg](mailto:tan_woei_yng@moe.edu.sg) |
 | 3 Resilience | Mdm Annamary d/o Segaran<br>[annamary_segaran@moe.edu.sg](mailto:annamary_segaran@moe.edu.sg) | Ms Nurhuda Bte Housman<br>[nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg)<br> |
-| 3 Respect  | Mdm Yip Jee Cheng (Mrs Jessie Ching)<br>[yip_jee_cheng@moe.edu.sg](mailto:yip_jee_cheng@moe.edu.sg)<br> | Mdm Nurliyana Bte Ismail <br>nurliyana_ismail@moe.edu.sg<br><br>Mdm Jiang Chao Juan<br>[jiang_chao_juan@moe.edu.sg](mailto:jiang_chao_juan@moe.edu.sg) |
+| 3 Respect  | Mdm Yip Jee Cheng (Mrs Jessie Ching)<br>[yip_jee_cheng@moe.edu.sg](mailto:yip_jee_cheng@moe.edu.sg)<br> | Mdm Nurliyana Bte Ismail <br>[nurliyana_ismail@moe.edu.sg](mailto:nurliyana_ismail@moe.edu.sg)<br><br>Mdm Jiang Chao Juan<br>[jiang_chao_juan@moe.edu.sg](mailto:jiang_chao_juan@moe.edu.sg) |
 | 3 Service | Ms Fonseka Halena Nimali<br>[fonseka_halena_nimali@moe.edu.sg](mailto:fonseka_halena_nimali@moe.edu.sg)<br> | Mdm Tan Sze Hooi<br> [tan_sze_hooi@moe.edu.sg](mailto:tan_sze_hooi@moe.edu.sg)
 |
 
