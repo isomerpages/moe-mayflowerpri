@@ -13,7 +13,7 @@ The **InspiREAD Programme** is a school-wide reading programme initiated to pr
 To achieve these objectives, the school’s Media Resource Library (MRL) committee collaborates closely with the National Library Board (NLB) through their Read@School initiative to promote reading among students in school. Through this initiative, students can enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.
 
 | NLB Read@School Programme | Programme Description | Levels |
-|---|---|---|
+|:---:|---|:---:|
 | **Storytelling** | These assembly sessions can feature folktales, draw-and-tell stories, storigami and sing-alongs. | P1 – P3 |
 | **Book Buzz** | These assembly talks will introduce students to current reading trends and good reads. | P4 – P6 |
 | **Books2Go** | This is NLB’s mobile library where a wide variety of books is brought to schools for students to browse and borrow on the spot. Students can also approach the NLB librarians for book recommendations. | All levels |
