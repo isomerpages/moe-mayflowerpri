@@ -31,20 +31,14 @@ Our art teachers strive to train students in artful thinking routines through th
 #### **Department Programmes**
 
 | S/N | Programme | Level |
-|:---:|---|:---:|
-|   1 | InnoMakerz Joy via Art | P2 |
-|   2 | Museum-based Learning @ Mobile Museums – The World of Shadow Puppets  | P2 |
-|   3 | Museum-based Learning @ Singapore Philatelic  Museum – Draw My Stamp Story Art Competition | P3  |
-|   4 | Place-based Learning @ Singapore Art Museum | P4 & P6 |
-|   5  | InnoMakerz @ Recess – Tinkering STEAM Activities  | All Levels  |
+|---|---|---|
+| 1 | InnoMakerz Joy via Art | P1 & P2 |
+| 2 | Museum-based Learning @ The Traveling Museum – Shadow Play Theatre and Artefacts Exhibition  | P2 |
+| 3 |  Museum-based Learning @ Singapore  Philatelic Museum – Draw My Stamp Story Art Competition   | P3  |
+| 4 | Place-based Learning @ SAM | P4 |
 |
 
-<figure>
-<img src="/images/art1.jpg" 
-     style="width:85%">
-<figcaption> Budding student artist and her personal artworks at Student Artist Spotlight art exhibition.
- </figcaption>
-</figure>
+
 
 <figure>
 <img src="/images/art2.jpg" 
@@ -54,9 +48,23 @@ Our art teachers strive to train students in artful thinking routines through th
 </figure>
 
 <figure>
+<img src="/images/newart1.jpg" 
+     style="width:85%">
+<figcaption> P5 students creating a parachute model during one of the InnoMakerz lessons. 
+ </figcaption>
+</figure>
+
+<figure>
 <img src="/images/art3.jpg" 
      style="width:85%">
 <figcaption> Primary 2 students trying out traditional shadow puppets replicas in class to understand the use of light source and shadows in theatre.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/newart2.jpg" 
+     style="width:85%">
+<figcaption> Shadow puppets from various cultures in South-east Asia on display for students to interact with. 
  </figcaption>
 </figure>
 
@@ -78,6 +86,45 @@ Our art teachers strive to train students in artful thinking routines through th
 <img src="/images/art6.png" 
      style="width:85%">
 <figcaption> Students’ Artworks on display at the Place-based Learning @ SAM Think! Contemporary Art Exhibition 
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/newart3.jpg" 
+     style="width:85%">
+<figcaption> Students’ Artworks from our Art curriculum featured during our Termly Art Exhibition
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/newart4.jpg" 
+     style="width:85%">
+<figcaption> Teachers’ Artworks on display during the Teacher’s Day Edition Spotlight Art Exhibition
+ </figcaption>
+</figure>
+
+#### **Talent Identification and Development Education**
+MFPS Visual Arts Talent Identification and Development Education (**VATIDE**) aims to identify students who are interested and / or talented in visual arts. Talent identification is mainly through our interaction with students during curriculum time (Art Lessons), CCA Art Club and teacher / parent recommendations. Development education for identified students is carried out via a few platforms:
+
+* Individual/small group coaching sessions after school;
+* Specialized art-making clinics;
+* Portfolio building sessions;
+* Project-based art-making sessions and
+* Training sessions for competitions.
+
+**VATIDE** serves as a specialized platform to guide and develop students with knowledge, skills and studio practices at intermediate/advance levels. This selected group of students are either aspiring budding artists who wish to pursue art in their secondary and tertiary education or are highly motivated and passionate in developing their artistic skills and talents.
+
+<figure>
+<img src="/images/art1.jpg" 
+     style="width:85%">
+<figcaption> Budding student artist and her personal artworks at Student Artist Spotlight art exhibition.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/newart5.jpg" 
+     style="width:85%">
+<figcaption>3D Sculptures of Singapore iconic buildings and landmarks created by our selected P4 students during one of the 3D Pen art-making clinics
  </figcaption>
 </figure>
 
