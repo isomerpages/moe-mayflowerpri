@@ -10,6 +10,7 @@ third_nav_title: Our People
 |---|---|
 |  Administration Manager |  Ms Choong Mei Chyi<br>Email: [choong_mei_chyi@moe.edu.sg](mailto:choong_mei_chyi@moe.edu.sg) |
 |  Administrative Executive |  Mdm Lazer Subha<br>Email: [lazer_subha@moe.edu.sg](mailto:lazer_subha@moe.edu.sg) |
+|  Administrative Executive | Mdm Ang Bee Lee <br> Email: [ang_bee_lee_b@moe.edu.sg](mailto:ang_bee_lee_b@moe.edu.sg) |
 |  Operations Manager |  Mr Patrick Mariadass<br>Email: [patrick_mariadass@moe.edu.sg](mailto:patrick_mariadass@moe.edu.sg) |
 |  ICT Manager |  Mr Adrian Tan <br>Email: [Tan_Buck_Khoon_Adrian@moe.edu.sg](mailto:Tan_Buck_Khoon_Adrian@moe.edu.sg) |
 |  Desktop Engineer |  Ms Amalia Bte Meswan |
