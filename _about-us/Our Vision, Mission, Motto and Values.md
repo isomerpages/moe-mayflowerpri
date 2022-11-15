@@ -14,16 +14,16 @@ description: ""
 |
 
 #### **Our School Mission**
-##### **Touching Hearts**
+**Touching Hearts**<br>
 We care for our students and lead them to believe in themselves.
 
-##### **Engaging Minds**
+**Engaging Minds**<br>
 As lead learners, we inspire our students to think creatively and have inquiring minds.
 
-##### **Nurturing Talents**
+**Nurturing Talents**<br>
 We seek to uncover our students’ talents and lead them to maximise their potential.
 
-#### **School Core Values**
+**School Core Values**<br>
  Integrity<br>
  Respect<br>
  Resilience<br>
