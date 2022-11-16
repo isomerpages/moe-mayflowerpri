@@ -16,8 +16,6 @@ Email: [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)
 9.30 am – 12.00 pm<br>
 2.00 pm – 3.00 pm
 
-Please refer to this [link](https://go.gov.sg/yeq9ea) **website unavailable** to download the Mayflower Primary Booklist 2022
+Please refer to this [link](/files/mayflower%20booklist%202023.pdf) to download the Mayflower Primary Booklist 2022
 
-<p><a href="https://go.gov.sg/yeq9ea">
-<img style="width:75%" src="/images/bookshop.jpg">
-</a></p>
+<img style="width:75%" src="/images/Booklist2023.png">
