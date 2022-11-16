@@ -93,20 +93,20 @@ In 2020 when Singapore celebrated her first virtual National Day, Mayflower Prim
 <img src="/images/aid7.jpg" style="width:75%">
 
 #### **Enrolment process**
-##### **How can I enroll my child with moderate to profound hearing loss in Mayflower Primary School?**
+**How can I enroll my child with moderate to profound hearing loss in Mayflower Primary School?**<br>
 To ensure that the specialised supports at MFPS will meet the learning needs of the students with HL, parents would still be required to seek a consultation with KKH or NUH on their child’s suitability for the support. Parents should bring along all relevant medical/professional reports from your child’s previous assessments. Parents should, however, be prepared for further evaluation or re-evaluation of their child by KKH or NUH to ensure that the child’s learning needs can be met in MFPS.
 
-##### **What if my child is currently seeing a doctor/therapist who is not at KKH or NUH?**
+**What if my child is currently seeing a doctor/therapist who is not at KKH or NUH?**<br>
 A referral from KKH’s Department of Child Development (DCD) or NUH’s Child Development Unit (CDU) is required. MOE has worked with KKH and NUH to provide educational placement advice to parents of children with hearing loss. If, however, the child is not currently or actively being seen at KKH or NUH, parents will still need to obtain a referral from KKH or NUH. As the referral process may require an evaluation to determine the child’s suitability for specialised supports at MFPS, parents are advised to take this step early, preferably when the child is in K1, to allow sufficient time for the evaluation. Parents can access the developmental services at KKH or NUH by obtaining a referral from any polyclinic/family doctor / GP, or by calling KKH or NUH directly.
 
-##### **Would it be possible for me to register my child with hearing loss who signs directly into MFPS and receive the specialised supports offered?**
+**Would it be possible for me to register my child with hearing loss who signs directly into MFPS and receive the specialised supports offered?**<br>
 To ensure that the specialised supports at MFPS will meet the learning needs of the students with HL, parents are required to obtain a referral from KKH’s Department of Child Development (CDC) or NUH’s Child Development Unit (CDU) to ensure that the child’s learning needs can be met in MFPS. Parents are advised to take this step early, preferably when the child is in K1, to allow sufficient time for the evaluation.
 
-##### **What if my private doctor has assessed my child with hearing loss to be suitable to receive the specialised supports at MFPS?**
+**What if my private doctor has assessed my child with hearing loss to be suitable to receive the specialised supports at MFPS?**<br>
 To ensure that the specialised supports at MFPS will meet the learning needs of the students with HL, parents would still be required to seek a consultation with KKH or NUH on their child’s suitability for the support. Parents should bring along all relevant medical/professional reports from their child’s previous assessment. Parents should, however, be prepared for further evaluation or re-evaluation of their child by KKH or NUH to ensure that the child’s learning needs can be met in MFPS.
 
-##### **Do I need to participate in the P1 registration?**
+**Do I need to participate in the P1 registration?**<br>
 If the application is successful, your child will be directly enrolled into MFPS. Parents then need not participate in the MOE P1 registration exercise.
 
-##### **When will I know the outcome of the application?**<br>
+**When will I know the outcome of the application?**<br>
 Parents will be notified of the outcome of their application by 31 May each year, for admission to P1 in MFPS in the following year.
