@@ -19,5 +19,5 @@ While we encourage all students to continue in their chosen CCA from Primary 4 o
 </a></p>
 
 <p><a href="https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/">  
-<img style="width:35%" src="/images/backtocca.jpg">  
+<img style="width:25%" src="/images/backtocca.jpg">  
 </a></p>
