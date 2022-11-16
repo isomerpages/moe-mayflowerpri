@@ -22,9 +22,17 @@ The vision for Arts Education in MFPS is that every student has the opportunity
 
 The school also partners SOTA to provide MFPS students with opportunities for authentic learning of Drama skills to further develop interested and talented students in this art form. Through this partnership, SOTA will also look out for potential students to articulate into the institution via SOTA’s Junior Academy Programme.
 
--image w caption-
+<figure>  
+<img src="/images/llpmfps1.jpg" style="width:90%">  
+<figcaption>  
+ </figcaption>  
+</figure>
 
--image w caption-
+<figure>  
+<img src="/images/llpmfps2.jpg" style="width:90%">  
+<figcaption>  
+ </figcaption>  
+</figure>
 
 #### **LLP - Visual Arts**
 
@@ -39,4 +47,3 @@ Below is an overview of the various programmes using the MBL approach for the fo
 | Primary 4 | Place-based Learning @ Singapore Art Museum | Museum Tour - Onsite |
 | Primary 6 | Singapore Art Museum | Think! Contemporary Art Exhibition - Onsite |
 |
-
