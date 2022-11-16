@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - CCA Registration & Transfers.md
       - CCA.md
+      - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art Club.md
       - Aesthetics/Choir.md
@@ -13,20 +13,20 @@ collections:
       - Aesthetics/Malay Dance.md
       - Aesthetics/Indian Dance.md
       - Aesthetics/Drama Club.md
-      - Aesthetics/.keep
+      - Clubs/.keep
       - Clubs/Clubs.md
       - Clubs/Eco Rangers.md
       - Clubs/Infocomm Club.md
-      - Clubs/.keep
+      - Sports/.keep
       - Sports/Sports.md
       - Sports/Netball.md
       - Sports/Track and Field.md
       - Sports/Taekwando.md
       - Sports/Volleyball.md
       - Sports/Tchoukball.md
-      - Sports/.keep
+      - Uniformed Group/.keep
       - Uniformed Group/Uniformed Group.md
       - Uniformed Group/The Boys' Brigade.md
       - Uniformed Group/The Girls' Brigade.md
       - Uniformed Group/Scouts.md
-      - Uniformed Group/.keep
+      - CCA Registration & Transfers.md
