@@ -24,22 +24,78 @@ We expose our students to other cultures and perspectives through our repertoire
 #### **Department Programmes**
 
 <figure>  
-<img src="/images/.jpg" style="width:90%">  
-<figcaption>  
+<img src="/images/music1.png" style="width:90%">  
+<figcaption> Students learning how to play the Ukulele during music lessons
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/music2a.jpg" style="width:90%">  
+<figcaption> Students learning how to play the Cajon during music lessons
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/music3.jpg" style="width:90%">  
+<figcaption> Music and Movement
  </figcaption>  
 </figure>
 
 #### **Talent Identification and Development Education**
-MFPS Music Talent Identification and Development Education (**MTIDE**) aims to identify students who are interested and / or display high musical capability. 
+MFPS Music Talent Identification and Development Education (MTIDE) aims to identify students who are interested and/or display high musical capability. 
 
-Talent identification is mainly through our interaction with students during curriculum time (music Lessons), Performing Arts CCA (Choir, Guzheng and String Ensemble) and teacher / parent recommendations. 
+Talent identification is mainly through our interaction with students during curriculum time (music Lessons), Performing Arts CCA (Choir, Guzheng and String Ensemble) and teacher/parent recommendations.
 
 Development programmes for identified students are carried out via a few platforms:
 
-*   Individual / small group song writing workshops sessions after school for competitions. E.g. SYF Youth Station, school-based competitions.
+*   Individual / small group songwriting workshops sessions after school for competitions. E.g. SYF Youth Station, school-based competitions.
 
-<img src="/images/music2.jpg" style="width:75%">
+<img src="/images/music2.jpg" style="width:85%">
 
-*   Individual / small group training sessions for external performance e.g. SYFgoesonline and internal performance e.g. National Day Concert and Chinese New Year Concert. 
+<figure>  
+<img src="/images/music4.jpg" style="width:90%">  
+<figcaption> Our proud songwriters having their musical talents recognized in the 2022 SYF Youth Station Project
+ </figcaption>  
+</figure>
 
-*   Performance opportunities with established institutions such as School of the Arts (SOTA) e.g. Play with SOTA Programme.
+<figure>  
+<img src="/images/music5.jpg" style="width:90%">  
+<figcaption> Our proud songwriters having their musical talents recognized in the 2022 SYF Youth Station Project.
+ </figcaption>  
+</figure>
+
+* Individual/small group training sessions for internal and external performance<br>
+e.g. SYF goes online and internal performance e.g. National Day Concert and Chinese New Year Concert 
+
+<figure>  
+<img src="/images/music6.jpg" style="width:90%">  
+<figcaption> Aspiring singers from our Lower Primary Category
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/music7.jpg" style="width:90%">  
+<figcaption> Aspiring singers from our Middle Primary Category
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/music8.jpg" style="width:90%">  
+<figcaption> Aspiring singers from our Upper Primary Category
+ </figcaption>  
+</figure>
+
+* Individual/small group training sessions for internal performance via MFPS Artistes Spotlight @ Recess
+
+<figure>  
+<img src="/images/music9.jpg" style="width:90%">  
+<figcaption> Jonas Yao Rui Ze, 6EC performing during one of the MFPS Artistes Spotlight @ Recess to showcase his talent and passion for Music.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/music10.jpg" style="width:90%">  
+<figcaption> Yasunaga Ryusei Lois, 4IN, performing on the Violin during our Artistes Spotlight @ Recess
+ </figcaption>  
+</figure>
+
