@@ -47,3 +47,52 @@ Below is an overview of the various programmes using the MBL approach for the fo
 | Primary 4 | Place-based Learning @ Singapore Art Museum | Museum Tour - Onsite |
 | Primary 6 | Singapore Art Museum | Think! Contemporary Art Exhibition - Onsite |
 |
+
+<figure>  
+<img src="/images/llpmfps3.png" style="width:90%">  
+<figcaption> Taking a trip down the “Singapore River” to experience 3D-artworks of famous icons and landmarks fashioned in unusual materials
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps4.png" style="width:70%">  
+<figcaption> An art ambassador guides an audience on how to interact with this art installation piece that features items used by our forefathers
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps5.png" style="width:90%">  
+<figcaption> Our confident budding artist cum art ambassador explaining the concept to an audience behind the Watashiwa Hachibitto<br>(I am 8-bit) character design for avatars, which represent themselves, for a futuristic online game set in the 22nd Century.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps6.png" style="width:90%">  
+<figcaption> A captivated audience member listening to an interview and observing the portrait of a student artist’s grandmother. <br>This exhibit presented pieces of personal stories revolving around the major milestones and events in Singapore's history.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps7.png" style="width:90%">  
+<figcaption> An art installation piece that advocates environmental awareness to the audience.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps8.png" style="width:90%">  
+<figcaption> Material Selection (aluminum wires): Chosen for its flexibility, students are reminded to understand that Resilience is important in accomplishing/achieving a common goal.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps9.png" style="width:90%">  
+<figcaption> The project was to design a shoe that allows students to explore and discover their aspiration(s), develop their research and writing skills and art-making process.
+ </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/llpmfps10.png" style="width:90%">  
+<figcaption> The series of drawings from the cohort were collated and selected. The selected pieces were curated in a way that enables different perspectives to be linked into a visual narrative.
+ </figcaption>  
+</figure>
+
