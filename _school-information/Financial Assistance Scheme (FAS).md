@@ -4,16 +4,31 @@ permalink: /school-information/fas/
 description: ""
 ---
 ### **Financial Assistance Scheme (FAS)**
-The Financial Assistance Scheme aims to reduce the financial burden of needy students so that they can benefit from the best opportunities in education. Students who have difficulty in meeting their schooling needs may apply for MOE financial assistance scheme.
+The MOE Financial Assistance Scheme (FAS) provides financial assistance to Singaporean students who need financial assistance for their studies. Students who are eligible for the MOE FAS should apply and those currently under this scheme would not be automatically considered unless a fresh application is submitted. 
 
-The income limits and benefits for the MOE Financial Assistance Scheme for citizen students are as follows.
+Applications forms are available from the School's General Office and school website. The closing date for the submission of MOE FAS 2023 application is 31 October 2022. 
 
-| Income Criterion | Benefits |
-|---|---|
-|- Gross Household Income (GHI) of $2,750 or below<br><br><br>- Per Capita Income (PCI) of $690 or below  | - Full waiver of standard miscellaneous fee<br><br>- Free textbooks & school attire<br><br>- 60% of school bus fare for students taking school bus service; or $180 transport credits per annum for students taking public transport|
+From 2023, the income eligibility criteria for the above scheme will be revised as follows:
+
+| Scheme |  Current Income Eligibility Criteria |  Revised Income Eligibility Criteria |
+|---|---|---|
+|  MOE FAS (From 1 Jan 2023) |  GHI ≤ $2,750 or PCI ≤ $690 |  GHI ≤ $3,000 or PCI ≤ $750 |
 |
 
-For more information and application for MOE FAS, please contact our admin staff in the General office at **6452 0849** or via school email.
+MOE has rolled out e-FAS for the 2023 MOE FAS application. Parents have the option to submit either a hardcopy or softcopy FAS application.  
+
+The new e-FAS link /QR code is attached below:<br>
+[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+<img src="/images/fasqr.png" style="width:25%" align=left>
+
+<br clear="left">
+
+Click link below to download:<br>
+[MOE FAS Pamphlet EL for Schools](/files/fas1.pdf)<br>
+[MOE FAS Application Form Oct 2022](/files/fas2.pdf)
+
+For further enquiries, please contact Mrs Goh Ling Ling or Mdm Maggie Choong at **64520849**. Thank you.
 
 #### **NEU PC Plus Program (NPP)**
 ##### **About**
