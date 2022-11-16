@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Registration & Transfers.md
       - CCA.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art Club.md
