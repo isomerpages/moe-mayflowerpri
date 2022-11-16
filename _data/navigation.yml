@@ -59,10 +59,10 @@ links:
       - title: MFPS in the news
         url: /achievements/mfps-in-the-news/
   - title: School Information
-    url: /school-information/school-operating-hours/
+    url: /school-information/
     sublinks:
       - title: Contact Us
-        url: /contact-us/
+        url: /school-information/
       - title: School Operating Hours
         url: /school-information/school-operating-hours/
       - title: School Rules and Regulations
