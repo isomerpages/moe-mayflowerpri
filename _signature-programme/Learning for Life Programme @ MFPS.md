@@ -24,13 +24,13 @@ The school also partners SOTA to provide MFPS students with opportunities for au
 
 <figure>  
 <img src="/images/llpmfps1.jpg" style="width:90%">  
-<figcaption>  
+<figcaption>  Warm up session using the Actor’s Tool Box to help students focus on their learning in Drama.
  </figcaption>  
 </figure>
 
 <figure>  
 <img src="/images/llpmfps2.jpg" style="width:90%">  
-<figcaption>  
+<figcaption>  Students acting out a scene in a story using the freeze frame in one of the process drama approaches.
  </figcaption>  
 </figure>
 
