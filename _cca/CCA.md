@@ -16,10 +16,10 @@ Experiential Learning is the main mode of delivery in CCAs and this provides rea
 
 In Mayflower Primary School, we have diverse CCA options for students to explore as our CCAs cover four broad groups:
 
-* [Aesthetics (Performing and Visual arts)](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/aesthetics/)
-* [Clubs](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/clubs/)
-* [Sports](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/sports/)
-* [Uniformed Groups](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/uniform-group/)
+* **[Aesthetics (Performing and Visual arts)](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/aesthetics/)**
+* **[Clubs](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/clubs/)**
+* **[Sports](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/sports/)**
+* **[Uniformed Groups](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/uniform-group/)**
 
 Please click on the links above to find out more about each CCA. 
 
