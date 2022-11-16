@@ -24,7 +24,7 @@ Start Time: 7.30 am
 
 \* **Change in recess timing**
 
-#### School Dental Clinic
+#### **School Dental Clinic**
 Mayflower Primary School Dental Clinic will be closed from **20.11.2018 to 31.07.2022**.
 
 Pupils who require urgent dental treatment, please contact **6435 3782** on Mondays to Fridays between 8.00 am and 5.30 pm or send an email to [HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg) for appointments at the School Dental Centre in Health Promotion Board.
