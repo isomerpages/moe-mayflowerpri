@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 ### **Art Club**
-##### **Principles for the Development of a Complete Mind: Study the science of art. Study the art of science. Develop your senses – especially learn how to see. Realise that everything connects to everything else. — Leonardo da Vinci**
+**Principles for the Development of a Complete Mind: Study the science of art. Study the art of science. Develop your senses – especially learn how to see. Realise that everything connects to everything else. — Leonardo da Vinci**
 
 **MFPS Art Club** strives to develop our members to become empowered learners and empathetic leaders via learning in and through visual arts. We aim to cultivate empowered learners through our termly art modules that are choice-based and inquiry-based in nature. These interesting and fun modules require members to exercise active decision-making to express their voice with teacher guidance. These art projects are designed around the 3 fundamental learning domains in learning visual arts: see, express and appreciate, undergirded by 3 core big ideas in Art. These projects not only train members in acquiring art appreciation, art-making and art exhibition knowledge and skills, they also nurture members to see things with new perspectives, tell stories and make informed decisions in life through the study and exploration of art. Thus teaching our members to observe, analyze, explore, interact and make sense of the world around them.
 
