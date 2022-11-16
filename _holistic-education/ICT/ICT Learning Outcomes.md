@@ -31,7 +31,9 @@ All teachers will deliver the baseline ICT cum new media literacy course from Te
 
 #### **Primary One to Primary Four**
 
-| Media Literacy (Term 1 to Term 4, Y2023) |  |
+**Media Literacy (Term 1 to Term 4, Y2023)**
+
+|  |  |
 |:---:|---|
 | Target Group: | All P1 to P4 students |
 | ICT Learning Objectives: | Students will perform basic ICT operations, access digital resources and develop 21st Century Competencies (CC), design thinking skills and computational thinking skills. |
