@@ -11,20 +11,6 @@ Our talented members show great keenness in acting and have put up a number of e
 
 Drama Club also contributes to talent development by ensuring that students who have potential in Theatre for DSA will be nominated for the yearly SOTA’s DSA platform : Talent Academy (Theatre). Through the various activities that the nominees take part in via Talent Academy, successful nominees will then be shortlisted for DSA.
 
-#### **Achievements/Participation**
-
-| Name of Event  | Award  | Year Awarded  |
-|---|---|---|
-| Collaboration with SOTA (Scriptwriting Workshop)  | Participation  | 2021  |
-|  Collaboration with SOTA (Voice and Characterisation) |  Participation |  2021 |
-|  Performance of ‘Faculty 2814’ for a fundraising event; ‘KidsConnect 2019’ at Playeum |  Participation |  2019 |
-| Performance of ‘We, The Citizens’ for Total Defence Day at MFPS  | Participation  | 2019  |
-| Collaboration with SOTA  for the performance  of ‘Diary of a MFPS Kid’ for P6 Graduation at MFPS  | Participation  | 2019  |
-| SYF Celebrations Performance of 'The Beans of Life' at Jurong Regional Library   | Participation  | 2018  |
-| Performance of skit " Batu Avenue" at Ang Mo Kio Library |   Participation | 2017 |
-| Performance of ' The Great Forest of Naesa' for International Friendship Day |  Participation | 2017 |
-|
-
 #### **Drama performance at MFPS’ Total Defence Day**
 
 <img src="/images/drama%201.png" style="width:75%">
