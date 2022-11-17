@@ -16,7 +16,3 @@ For further more information, you may copy the link https://ictconnection.moe.e
 [Parent Kit - Cyber Wellness for your Child](/files/Parent-Kit-Cyber_Wellness_for_your_Child.pdf)<br>
 [Internet Use among students amid Covic-19 pandemic](/files/Internet_Use_amid_Covic-19_pandemic.pdf)
 
-#### **Cyber Wellness for your Child**
-Parent Kit - Cyber Wellness for your Child Internet Use among students amid Covid-19 pandemic
-
-**PDF viewer**
