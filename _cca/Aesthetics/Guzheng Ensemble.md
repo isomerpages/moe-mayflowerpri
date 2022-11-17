@@ -12,3 +12,6 @@ Our instructors help our students to acquire a variety of skills specific to pla
 Guzheng emphasises teamwork and collaboration with teammates. Our students are encouraged to work with teammates to achieve perfection in their performances. 
   
 Our Guzheng Ensemble also participates in numerous school and public performances. Through these performances, we create learning platforms to hone our students’ musical talents and 21st century competencies, while developing a deeper understanding and appreciation for Chinese culture.
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/1pwDpqOCB-A" title="MFPS Guzheng Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
