@@ -23,6 +23,8 @@ We also aim to provide our students with opportunities to express creativity as 
 <figure>
 <figcaption><strong> Receiving Trophies: 1st Place at the Media Design Festival 2019
 	</strong></figcaption>	
+	
+<br clear="left">	
 
 <img src="/images/infocomm1.jpg" style="width:49%" align=left>
 <img src="/images/infocomm2.jpg" style="width:49%" align=right>
@@ -40,4 +42,4 @@ We also aim to provide our students with opportunities to express creativity as 
 	
 <figure>
 <figcaption> Create 3D design
-	</figcaption>	
+	</figcaption>
