@@ -22,9 +22,8 @@ sections:
           description: ""
           url: /student-notifications/
   - infobar:
-      title: Home-Based Learning
+      title: Parent Kit - MOE Latest Issue 2022
       subtitle: Mayflower primary school
-      description: Parent Kit - MOE Latest Issue 2022
       button: click here for more info
       url: /hbl/
 ---
