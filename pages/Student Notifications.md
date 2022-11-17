@@ -14,4 +14,5 @@ description: ""
 *   [Zoom Startup Guide for Students](https://mayflowerpri.moe.edu.sg/qql/slot/u517/Zoom_Quick%20Startup%20Guide.mp4)
 *   [Student ICON Guide](https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/ict/student-icon/)
 *   [Introducing Google Classroom 3 ways to join Google classroom](/files/Introduction_Google_Classroom.pdf) 
+*   [Student's Guide on how to Submit Work in Google Classroom](/files/google%20classroom.pdf)
 *   [Parent Guide on how to clear Browsers cache & cookies](/files/ways%20to%20clear%20your%20web%20browsers.pdf) (New)
