@@ -4,7 +4,7 @@ permalink: /holistic-education/ict/
 description: ""
 third_nav_title: ICT
 ---
-### **ICT**
+[here](https://mayflowerpri.moe.edu.sg/holistic-education/ict/student-icon)### **ICT**
 #### **Learning Outcomes**
 The ICT department seeks to actualise the nation’s call towards a SMART NATION by operationalising MOE’s 4th Masterplan (mp4) for ICT in Education and aligning them with the school’s Strategic Thrust (ST1): **Future-Ready Students**, Our Focus. 
 
