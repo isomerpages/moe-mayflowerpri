@@ -41,7 +41,7 @@ This year, due to the need for Safe Management Measures, our fair will be held o
 
 #### **ECG Brochures for Parents**
 ![](/images/cce%20ecg%202.jpg)
-[ECG Parents' Brochure (English).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG%20Parents'%20Brochure%20(English).pdf) **broken link**
+[ECG Parents' Brochure (English).pdf](https://mayflowerpri.moe.edu.sg/qql/slot/u517/MFPS%20Education/Our%20Co-Curriculum/Character%20&%20Citizenship%20Education/ECG-Brochure-ENGLISH.pdf) 
 
 [ECG Brochure (CHINESE).pdf](/files/ECG%20Brochure%20(CHINESE).pdf)
 ![](/images/cce%20ecg%203.jpg)
