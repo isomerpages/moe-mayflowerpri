@@ -10,28 +10,6 @@ Sir William Alexander Smith conceived the Boys’ Brigade (BB) in 1883. Incepted
 
 **The BB motto is “Sure and Steadfast”.** Within the BB emblem, lies an anchor that reminds the boys of the need to stay grounded in whichever task they perform. BB aims to promote in our members the habits of obedience, reverence, discipline and self-respect.
 
-#### **Achievements/Participation**
-
-| Event Name | Achievement Level  | Year of participation |
-|:---:|---|:---:|
-|<br><br><br><br> **BB Gold Award (highest award for the junior program)**   | ASTON KHONG KAI CHENG (6EC)<br> WONG YIWEI ADEN (6EC)<br> CHUA YI RENG ROYDEN (6RT)<br> DENNIS WONG KANG (6SV) <br>JAYDEN SIM YU TENG (6IN) <br>LOH KAI MING RYAN (6CT)<br> LOOI XIN ZHI, CEDRIC (6CT)  | <br><br><br><br>2021 |
-|
-
-|  Name of Event |  Award |  Year   |
-|:---:|:---:|:---:|
-| Best Boy Award | Oon Jed Han (6 Resilience)   | 2020 |
-| JM Fraser Award | Gold  |  2019   |
-| Best Boy Award | Primus Tan Sheng Peng (6 Service) |  2019   |
-| Character Quest Competition | Silver Honour Roll | 2019 |
-| Adventure Quest Competition | Bronze Honour Roll   | 2019 |
-| JM Fraser Award | Gold | 2018 |
-| Character Quest Competition | Bronze Honour Roll | 2018 |
-| Adventure Quest Competition | Gold Honour Roll | 2018 |
-| JM Fraser Award | Gold | 2017 |
-| Character Quest Competition | Silver Honour Roll | 2017 |
-| Adventure Quest Competition | Silver Honour Roll | 2017 |
-|
-
 <figure>
 <figcaption> Primary 6 Boys’ Brigade members building a tent to prepare for the Adventure Quest competition
  </figcaption>	
@@ -44,7 +22,7 @@ Sir William Alexander Smith conceived the Boys’ Brigade (BB) in 1883. Incepted
 <img src="/images/bb2.png" style="width:75%">
 </figure>
 
-The Boys’ Brigade in Singapore: [**www.bb.org.sg**](www.bb.org.sg)
+The Boys’ Brigade in Singapore: **[www.bb.org.sg](www.bb.org.sg)**
 
 <figure>
 <figcaption> Boys’ Brigade members learning how to dress and bandage wounds
