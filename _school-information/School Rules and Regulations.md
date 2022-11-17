@@ -88,7 +88,7 @@ description: ""
 #### **(VII) Prohibited Items**
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used, is used or intended to cause harm to oneself or others.
 
-#### **(VII) Responsible Use of Technology**
+#### **(VIII) Responsible Use of Technology**
 *   Students should use media and technology in a responsible and sensible manner.
 *   Students should exercise care when using online media and technology and should not engage in any form of abuse of technology and/or cyber theft.
 *   Examples of abuse of technology include improper, unlawful or incorrect use of information e.g. posting inappropriate photos of themselves or others, making inappropriate comments that intentionally or unintentionally hurt others and using of vulgarities online
