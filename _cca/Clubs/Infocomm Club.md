@@ -9,36 +9,35 @@ The Infocomm Club aims to excite students about technology in a fun and meaningf
 
 We also aim to provide our students with opportunities to express creativity as well as promote community spirit.
 
-#### **Achievements/Participation**
+<iframe width="700" height="350" src="https://www.youtube.com/embed/jGQGgBXGkgE" title="MFPS infocomm P2 recruitment video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Name of Event | Award / Participation | Year |
-|---|---|---|
-| N6 Cluster Media Design Festival | Overall Champion | 2019 |
-| N6 Cluster Media Design Festival –<br>Aeronautics & Robotics (Drone Flying) | 1st place | 2019 |
-| N6 Cluster Media Design Festival –<br>Short Film Production | 1st place | 2019 |
-| N6 Cluster Media Design Festival –<br>Digital Animation | 2nd Runner-up | 2019 |
-|
-
-<figure>
-<figcaption> Creating a prototype with Microbits 
- </figcaption>	
-<img src="/images/infocomm1.jpg" style="width:75%">
-</figure>
-
-<figure>
-<figcaption> Learning coding with Microbits
- </figcaption>	
-<img src="/images/infocomm2.jpg" style="width:75%">
-</figure>
+<img src="/images/infocomm5.jpg" style="width:55%">
 
 ##### **Overall champion in N6 Cluster Media Design Festival 2019**
 
-<img src="/images/infocomm3.jpg" style="width:75%">
+<img src="/images/infocomm3.jpg" style="width:49%" align=left>
+<img src="/images/infocomm4.jpg" style="width:49%" align=right>
+
+<br clear="left">
 
 <figure>
-<figcaption> Receiving Trophies: 1st Place at the Media Design Festival 2019
- </figcaption>	
+<figcaption><strong> Receiving Trophies: 1st Place at the Media Design Festival 2019
+	</strong></figcaption>	
 
-<br>
+<img src="/images/infocomm1.jpg" style="width:49%" align=left>
+<img src="/images/infocomm2.jpg" style="width:49%" align=right>
+
+<br clear="left">
 	
-<img src="/images/infocomm4.jpg" style="width:75%">
+|  |  |
+|:---:|:---:|
+| Creating a prototype with Microbits | Learning coding with Microbits |
+	
+<img src="/images/infocomm6.jpg" style="width:49%" align=left>
+<img src="/images/infocomm7.jpg" style="width:49%" align=right>
+
+<br clear="left">	
+	
+<figure>
+<figcaption> Create 3D design
+	</figcaption>	
