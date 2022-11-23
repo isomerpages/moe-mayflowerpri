@@ -20,8 +20,9 @@ At the end of the CCE programme, students would be able to:
 * develop good habits as a result of consistently doing what is right and good
 * promote harmony and social cohesion in a multiracial and multi-religious society
 
+These outcomes are aligned to our Traits of an MFPS Student.
+
 #### **Teaching Approaches**
 Learning values is more authentic for students as daily life experiences and current, real-world affairs are used as learning contexts to make learning more meaningful and relevant. Aligned to the three overarching CCE ideas of Identity, Relationships and Choices, students find familiarity in the six domains, starting with the self and extending to the family, school, community, nation and the world. 
 
 The CCE (MTL) curriculum also complements the National Education Commemorative Days, with activities that extend students’ learning experiences of Total Defence Day, International Friendship Day, and Racial Harmony Day.
-
