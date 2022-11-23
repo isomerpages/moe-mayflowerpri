@@ -50,6 +50,10 @@ Development programmes for identified students are carried out via a few platfor
 
 *   Individual / small group songwriting workshops sessions after school for competitions. E.g. SYF Youth Station, school-based competitions.
 
+<img src="/images/Mu5.jpeg" style="width:85%">
+
+<br>
+
 <img src="/images/music2.jpg" style="width:85%">
 
 <figure>  
@@ -98,4 +102,3 @@ e.g. SYF goes online and internal performance e.g. National Day Concert and Chin
 <figcaption> Yasunaga Ryusei Lois, 4IN, performing on the Violin during our Artistes Spotlight @ Recess
  </figcaption>  
 </figure>
-
