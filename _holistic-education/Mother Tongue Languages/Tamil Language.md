@@ -16,14 +16,53 @@ Keeping the objective of stimulating and sustaining our students’ interest in 
 
 Our line-up of programmes include:
 
-| Programmes |  Levels |
-|---|---|
-|  1. Reading Programme |  All |
-|  2. Pongal Celebration in School  |  All  |
-|  3. Mother Tongue Fortnight Activities<br> - Traditional Indian Food<br> - Traditional Indian Accessories <br> - Traditional Indian Attire<br> - Traditional Games - Kabadi  |   <br> P1 & P2 <br> P3 <br> P4 <br> P5 & P6 |
-|  4. Tamil Cultural Camp |  P4 |
-|  5. Deepavali Activities during recess |  All |
-|
+<table>
+<thead>
+  <tr>
+    <th>Programmes</th>
+    <th> Levels</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 1. Reading Programme</td>
+    <td> All</td>
+  </tr>
+  <tr>
+    <td> 2. Pongal Celebration in School </td>
+    <td> All </td>
+  </tr>
+  <tr>
+    <td> 3. Mother Tongue Fortnight Activities<br> - Traditional Indian Food<br> - Traditional Indian Accessories <br> - Traditional Indian Attire<br> - Traditional Games - Kabadi </td>
+    <td>  <br> P1 &amp; P2 <br> P3 <br> P4 <br> P5 &amp; P6</td>
+  </tr>
+  <tr>
+    <td> 4. Tamil Cultural Camp</td>
+    <td> P4</td>
+  </tr>
+  <tr>
+    <td> 5. Deepavali Activities during recess</td>
+    <td> All</td>
+  </tr>
+  <tr>
+    <td> 6. SLS Portal </td>
+    <td> P1 to P6</td>
+  </tr>
+  <tr>
+    <td> 7. Pazhahuthamil Portal</td>
+    <td> P1 to P6</td>
+  </tr>
+  <tr>
+    <td> 8. Remedial Programme</td>
+    <td> P4 to P5</td>
+  </tr>
+  <tr>
+    <td> 9. Supplementary Programme</td>
+    <td> P6</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### **Mother Tongue Fortnight Activities**
 
