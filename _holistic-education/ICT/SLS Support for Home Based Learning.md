@@ -11,9 +11,15 @@ third_nav_title: ICT
 ##### **Non-School Operating Hours**
 Students can only contact the SLS Helpdesk outside the school operating hours.
 
-**SLS Helpdesk: 6702 6513<br>
-Mondays - Fridays: 4:00 pm - 9:00 pm<br>
-Saturdays: 9:00 am - 9:00 pm**<br>
+**SLS Helpdesk**<br>
+**Tel: (65) 6702 6513 (Operating Hours)**
+
+**Operating Hours and Contact Details**<br>
+Mondays ― Fridays:  
+4:00 pm ― 9:00 pm (School Days)  
+9:00 am ― 9:00 pm (School Holidays)  
+Saturdays:  
+9:00 am ― 3:00 pm  
 *Closed on Sundays & Public Holidays
 
 ##### **Need assistance for login and technical issues**
