@@ -30,13 +30,13 @@ Our art teachers strive to train students in artful thinking routines through th
 
 #### **Department Programmes**
 
-| S/N | Programme | Level |
-|---|---|---|
-| 1 | InnoMakerz Joy via Art | P1 & P2 |
-| 2 | Museum-based Learning @ The Traveling Museum – Shadow Play Theatre and Artefacts Exhibition  | P2 |
-| 3 |  Museum-based Learning @ Singapore  Philatelic Museum – Draw My Stamp Story Art Competition   | P3  |
-| 4 | Place-based Learning @ SAM | P4 |
-|
+| S/N  | Programme                                                                                  | Level       |
+|------|--------------------------------------------------------------------------------------------|-------------|
+|   1  | InnoMakerz Joy via Art                                                                     | P2          |
+|   2  | Museum-based Learning @ Mobile Museums – The World of Shadow Puppets                       | P2          |
+|   3  | Museum-based Learning @ Singapore Philatelic  Museum – Draw My Stamp Story Art Competition | P3          |
+|   4  | Place-based Learning @ Singapore Art Museum                                                | P4 & P6     |
+|   5  |                      InnoMakerz @ Recess – Tinkering STEAM Activities                      | All Levels  |
 
 
 
