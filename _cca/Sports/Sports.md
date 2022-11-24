@@ -10,8 +10,10 @@ third_nav_title: Sports
 <img style="width:49%" src="/images/sports1.jpg" align=left>
 </a></p>
 
+
+
 <p><a href="https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/sports/track-and-field/">
-<img style="width:49%" src="/images/sports2.jpg" align=right>
+<img style="width:49%" src="/images/TrackandField.png" align=right>
 </a></p>
 
 <br clear="left">
@@ -29,4 +31,3 @@ third_nav_title: Sports
 <p><a href="https://staging.dumgjq4ikmf5k.amplifyapp.com/holistic-education/cca/sports/tchoukball/">
 <img style="width:49%" src="/images/sports5.jpg" align=left>
 </a></p>
-
