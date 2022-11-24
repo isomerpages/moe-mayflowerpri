@@ -32,11 +32,12 @@ third_nav_title: Student Achievements
 
 #### **Our 2021 National School Games Taekwondo Championship Senior Team**
 
-<img src="/images/student%20achievement%204.jpg" 
+<img src="/images/student%20achievement%205.jpg" 
      style="width:75%">
 
 #### **2020 Awards**
-<img src="/images/student%20achievement%205.jpg" 
+
+<img src="/images/Award1.png" 
      style="width:75%">
 
 | SMTU Education Award 2019 (PSLE) |  |
