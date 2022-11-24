@@ -7,7 +7,9 @@ description: ""
 
 **Click on the issue to download.**
 
-*   [2022 1st issue June  (new)](https://mayflowerpri.moe.edu.sg/qql/slot/u517/others/Perfect%20TEN%20Newsletter/MayflowerPriNewsletter_Jun2022_v4.pdf)  **file more than 5mb**
+* [2022 1st issue Nov (new)](https://drive.google.com/file/d/1zt2KIJUtRh5VwREAHT1_uWd0Ov5Xr2_L/view?usp=sharing)
+
+*   [2022 1st issue June](https://mayflowerpri.moe.edu.sg/qql/slot/u517/others/Perfect%20TEN%20Newsletter/MayflowerPriNewsletter_Jun2022_v4.pdf)  **file more than 5mb**
 *   [2021 2nd issue Nov](https://mayflowerpri.moe.edu.sg/qql/slot/u517/others/Perfect%20TEN%20Newsletter/MFPS-Newsletter_Nov2021_19%20Nov.pdf) **file more than 5mb**
 *   [2021 1st issue June](/files/perfect3.pdf)
 *   [2020 2nd issue Nov](https://mayflowerpri.moe.edu.sg/qql/slot/u517/others/Perfect%20TEN%20Newsletter/2020_2nd_issue_newsletter.pdf) **file more than 5mb**
