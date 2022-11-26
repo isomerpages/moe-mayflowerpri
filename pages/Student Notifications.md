@@ -5,6 +5,7 @@ description: ""
 ---
 ### **Student Notifications**
 
+*   [School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [SLS Support for Home-based Learning](https://staging.dumgjq4ikmf5k.amplifyapp.com/hbl/)
 *   [How to upload Audio or Video files in SLS](/files/SLS_How_to_Upload_Audio-Video_Files.pdf)
@@ -16,4 +17,3 @@ description: ""
 *   [Introducing Google Classroom 3 ways to join Google classroom](/files/Introduction_Google_Classroom.pdf) 
 *   [Student's Guide on how to Submit Work in Google Classroom](/files/google%20classroom.pdf)
 *   [Parent Guide on how to clear Browsers cache & cookies](/files/ways%20to%20clear%20your%20web%20browsers.pdf)
-*   [School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
