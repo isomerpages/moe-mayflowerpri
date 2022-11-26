@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Announcements**
 
-##### **Mayflower Primary 1 Orientation 2022 Intake**
+##### **Mayflower Primary 1 Orientation 2023 Intake**
 
 <p><a href="https://sites.google.com/moe.edu.sg/mfpsp1/home">
 <img style="width:45%" src="/images/announcement1.png">
