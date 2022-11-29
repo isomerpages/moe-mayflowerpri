@@ -5,7 +5,6 @@ description: ""
 ---
 ### **Notifications to Parents 2022**
 
-* [Racial\_Harmony\_Day\_Commemoration\_2022.pdf](/files/ntp0.pdf)
 * [001 Principal Welcome Letter 2022](/files/ntp1.pdf)
 * [Annex C - Amended School Calendar](/files/ntp1a.pdf)
 * [002 Form Teachers' Sharing cum Interaction Session for P2 to P6](/files/ntp2.pdf)
@@ -72,3 +71,19 @@ description: ""
 * [048 P5 Outdoor Experience Camp](/files/ntp48.pdf)
 * [049 P3 SA2 Oral Examination](/files/ntp49.pdf)
 * [050 P4-SA2 Oral Examination](/files/ntp50.pdf)
+* [051 Construction Work at Gate D](/files/Construction_Work_Gate-D.pdf)  
+* [052 P6 Heritage Trail Learning Journey to Chinatown](/files/P6_Heritage_Trail_Learning_Journey_Chinatown.pdf)
+* [053 P1 LJ to AMK Library](/files/P1_LJ_to_AMK_Library.pdf)  
+* [054 2022 MOE Financial Assistance Scheme (FAS) 2023](/files/2022_MOE_Financial_Assistance_Scheme_FAS2023.pdf)
+* - [MOE FAS 2023 Application Form](/files/MOE_FAS_Application_Form-Sep_2022.pdf)
+* [056 MIMS Login to Student Learning Space (SLS)-Student and Parent Information Sharing](/files/MIMS_Login_SLS-Student_Parent_Information_Sharing.pdf)
+* - [Simplified Login to SLS-Student and Parent Information Sharing](/files/Simplified_Login_SLS-Student_Parent_Information_Sharing.pdf) 
+* [058 P6 MBL LJ at National Library Board](/files/P6-MBL_LJ_at_NLB.pdf)
+* [059 Post PSLE Sports Activities](/files/Post_PSLE_Sports_Activities.pdf)
+* [060 Updates on Login to Student Learning Space (SLS)](/files/Updates_Login_to_SLS.pdf)
+
+
+
+
+
+
