@@ -18,4 +18,4 @@ MOE’s latest issue of Parent Kit (attached) provides tips on how you can help 
 
 
 #### **More Information**
-[Parent Kit - View the various parent kits available](https://www.moe.gov.sg/parentkit#3)
+[Parent Kit - View the Various Parent Kits Available](https://www.moe.gov.sg/parentkit#3)
