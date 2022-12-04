@@ -14,7 +14,7 @@ MOE’s latest issue of Parent Kit (attached) provides tips on how you can help 
 MOE’s latest issue of Parent Kit (attached) provides tips on how you can help your child make friends, develop resilience, set goals and work towards them.
 
 
-[Supporting_Your_Child_Through_the_Primary-1_Journey.pdf](/files/Supporting_Your_Child_Through_the_Primary-1_Journey)
+[Supporting_Your_Child_Through_the_Primary-1_Journey.pdf](/files/Supporting_Your_Child_Through_the_Primary-1_Journey.pdf)
 
 
 #### **More Information**
