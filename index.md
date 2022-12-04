@@ -24,7 +24,6 @@ sections:
       title: Mayflower Primary
   - infobar:
       title: Parent Kit - MOE Latest Issue
-      subtitle: Mayflower Primary School
       button: click here for more info
       url: /hbl/
   - infopic:
