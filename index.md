@@ -20,6 +20,7 @@ sections:
         - title: Student Notifcations
           description: ""
           url: /student-notifications/
+      background: /images/Cover_Banner.png
   - infobar:
       title: Parent Kit - MOE Latest Issue 2022
       subtitle: Mayflower primary school
