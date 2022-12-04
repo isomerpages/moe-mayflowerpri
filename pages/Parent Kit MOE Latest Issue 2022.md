@@ -3,7 +3,7 @@ title: Parent Kit MOE Latest Issue 2022
 permalink: /hbl/
 description: ""
 ---
-### **Parent Kit - MOE Latest Issue 2022**
+### **Parent Kit - MOE Issue 2022**
 #### **Parent Kit - Starting your Primary 1 Journey**
 MOE’s latest issue of Parent Kit (attached) provides tips on how you can help your child adapt to a new environment, build new relationships and learn new things.
 
