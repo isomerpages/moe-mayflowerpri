@@ -17,5 +17,5 @@ MOE’s latest issue of Parent Kit (attached) provides tips on how you can help 
 [Resource Kit - Parent Kit - Transitioning Back to School]
 
 
-#### **More information**
+#### **More Information**
 [Parent Kit - View the various parent kits available](https://www.moe.gov.sg/parentkit#3)
