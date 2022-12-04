@@ -28,7 +28,7 @@ sections:
       button: click here for more info
       url: /hbl/
   - infopic:
-      title: Primary One Matters
+      title: Primary 1 Matters
       subtitle: Mayflower Primary School
       description: Getting Ready for School in 2023
       button: Click here
