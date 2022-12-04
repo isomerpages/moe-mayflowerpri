@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /student-notifications/
       background: /images/Cover_Banner.png
-      title: Mayflower Primary
+      title: Mayflower Primary School
   - infobar:
       title: Parent Kit - MOE Latest Issue
       button: click here for more info
