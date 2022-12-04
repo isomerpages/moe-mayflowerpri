@@ -26,6 +26,7 @@ sections:
       title: Parent Kit - MOE Latest Issue
       button: click here for more info
       url: /hbl/
+      subtitle: MAYFLOWER PRIMARY SCHOOL
   - infopic:
       title: Primary 1 Matters
       subtitle: Mayflower Primary School
