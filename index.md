@@ -29,8 +29,8 @@ sections:
       url: /hbl/
   - infopic:
       title: Primary One Matters
-      subtitle: Mayflower primary school
-      description: Getting Ready for School
+      subtitle: Mayflower Primary School
+      description: Getting Ready for School in 2023
       button: Click here
       url: https://sites.google.com/moe.edu.sg/mfpsp1/home
       image: /images/P1-Orientation.jpg
