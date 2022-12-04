@@ -23,7 +23,7 @@ sections:
       background: /images/Cover_Banner.png
       title: Mayflower Primary
   - infobar:
-      title: Parent Kit - MOE Latest Issue 2023
+      title: Parent Kit - MOE Latest Issue
       subtitle: Mayflower Primary School
       button: click here for more info
       url: /hbl/
