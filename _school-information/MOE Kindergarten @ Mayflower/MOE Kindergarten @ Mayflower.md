@@ -41,6 +41,12 @@ The Kindergarten Care (KCare) programme will also continue to be held at this lo
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/JuBtWJDdcpI" title="e-Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+```
+<iframe src="https://www.google.com/maps/embed?pb=!4v1670823807038!6m8!1m7!1sCAoSLEFGMVFpcE5mNE1QeklFbWFKOGttbldFNVpwVGlPOGFDU1JuUHhVcEF5VVNp!2m2!1d1.37670808!2d103.843096!3f317.23!4f-0.12000000000000455!5f0.7820865974627469" width="450" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+```
+
+
 #### **For more information**
 Please visit the MOE website at [https://www.moe.gov.sg/preschool/moe-kindergarten  
 ](https://www.moe.gov.sg/preschool/moe-kindergarten)
