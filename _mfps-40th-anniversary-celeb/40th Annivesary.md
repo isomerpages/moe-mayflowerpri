@@ -3,9 +3,6 @@ title: 40th Annivesary
 permalink: /events/40th-anniversary/
 description: ""
 ---
-
-
-
 ### **40th Annivesary**
 
 <img src="/images/anniversary2.jpg" style="width:45%;margin-right:15px;" align = "left">
@@ -13,7 +10,7 @@ Fondly remembering and appreciating the school's history and heritage; rejoicing
 
 The 40th anniversary organising committee led by our teachers launched the school’s 40th anniversary celebrations during school assembly in February. A pop quiz was conducted to pique the curiosity of students and staff with the aim of motivating them to conduct their own research to find out more about the school’s heritage and history. 
 
-Thereafter, our current principal, Mrs. Lim-Chua Siow Ling, was invited on stage to unveil and share with the school the 40th anniversary logo created by our  very own resident artist, Mr. Lee Qin Yi, and the tagline **Reminiscing the Past, Celebrating our Present, Embracing our Future.** Students and staff also viewed a montage of various photographs of the school over the past forty years. These photographs, spanning a period of four decades, showed how certain unique traits still remain the same in our school.
+Thereafter, our former principal, Mrs. Lim-Chua Siow Ling, was invited on stage to unveil and share with the school the 40th anniversary logo created by our  very own resident artist, Mr. Lee Qin Yi, and the tagline **Reminiscing the Past, Celebrating our Present, Embracing our Future.** Students and staff also viewed a montage of various photographs of the school over the past forty years. These photographs, spanning a period of four decades, showed how certain unique traits still remain the same in our school.
 
 The following is a summary of the key celebratory activities planned by the organizing committee.
 
@@ -25,4 +22,4 @@ The following is a summary of the key celebratory activities planned by the orga
 |  Term 4 | School Carnival. Click [here](https://staging.dumgjq4ikmf5k.amplifyapp.com/events/40th-anniversary/school-carnival/) for more details. |
 |
 
-Click [here](https://mayflowerpri.moe.edu.sg/others/40th-anniversary-celebrations/40th-anniversary-celebrations) **website unavailable** to view some photos of the past and present.
+Click [here](https://mayflowerpri.moe.edu.sg/others/40th-anniversary/40th-anniversary-celebrations) to view some photos of the past and present.
