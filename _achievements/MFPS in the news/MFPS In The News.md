@@ -70,7 +70,6 @@ third_nav_title: MFPS in the news
 
 *   Mr Heng Swee Keat, Minister for Education, at the MOE ExCEL Fest 2014, experiencing our Teaching Though the Arts Project (TTAP), in partnership with the National Arts Council  _**(Source:  [Mr Heng Swee Keat's Facebook](https://www.facebook.com/hengsweekeat/photos/a.202086256496574.46462.195137123858154/690606627644532/)  , April 12 2014)**_
 
-*   Mr Heng Swee Keat, Minister for Education, sharing the success story of Ms Yeo Jing Ying (MFPS Class of 2011) in the video, The HeART of Teaching (at 1’50”) at the 2014 MOE Workplan Seminar  _**(Source:  [Ministry of Education Singapore](http://www.moe.gov.sg/media/speeches/2014/09/23/keynote-address-by-mr-heng-swee-keat-at-the-ministry-of-education-work-plan-seminar-2014.php)  , September 23 2014)** **website unavailable**_
 
 *   Mr Heng Swee Keat, Minister for Education, commending our MFPS Alumni, including Ms Yeo Jing Ying, on their service to their alma mater  _**(Source:  [Mr Heng Swee Keat's Facebook](https://www.facebook.com/hengsweekeat/posts/683806384991223)  , March 27 2014)**_
 
