@@ -21,6 +21,7 @@ third_nav_title: Our People
 |---|---|
 |  **English** |  Miss Wong Shilei Charmaine [HOD EL (Internal)] <br> Email: [wong_shilei_charmaine@moe.edu.sg](mailto:wong_shilei_charmaine@moe.edu.sg) |
 |  **Mathematics** |  Mdm Ang Chieh Sin Jaselin<br> Email: [ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.sg) |
+|  **Science** |  Mr Mr Martin Lee Tze Chuen <br> Email: [martin_lee_tze_chuen@moe.edu.sg](mailto:martin_lee_tze_chuen@moe.edu.sg) |
 |  **Mother Tongue  Languages** |  Ms Ng Yein Leng<br> Email: [ng_yein_leng@moe.edu.sg](mailto:ng_yein_leng@moe.edu.sg) |
 |  **PAM and CCA** |  Mr Sebastian Lau Kian Yong<br> Email: [sebastian_lau_kian_yong@moe.edu.sg](mailto:sebastian_lau_kian_yong@moe.edu.sg) |
 |  **Character & Citizenship Education (CCE)** |  Mdm Chua Yulin Eileen<br> Email: [chua_yulin_eileen@moe.edu.sg](mailto:chua_yulin_eileen@moe.edu.sg) |
@@ -33,7 +34,7 @@ third_nav_title: Our People
 |---|---|
 | **P1 to P2** |  Mdm Lim Wen Chye Joey<br> Email: [lim_wen_chye@moe.edu.sg](mailto:lim_wen_chye@moe.edu.sg)<br><br>  Mdm Vinlee Toh (Assistant Year Head)-Internal<br>Email: [vinlee_toh@moe.edu.sg](mailto:vinlee_toh@moe.edu.sg) |
 |   **P3 to P4** |  Mr Leong Wai Phang<br> Email: [leong_wai_phang@moe.edu.sg](mailto:leong_wai_phang@moe.edu.sg)<br><br> Mdm Chua Sok Huang (Assistant Year Head) <br> Email: [chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg)<br> |
-|   **P5 to P6** |  Mdm Au Yard Wah <br> Email: [au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br><br> Mdm Ashini Prasad (Assistant Year Head) - Internal<br> Email: [ashini_prasad@moe.edu.sg](mailto:ashini_prasad@moe.edu.sg)  |
+|   **P5 to P6** |  Mdm Au Yard Wah <br> Email: [au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br> |
 |
 
 #### **Subject Head & Level Heads**
@@ -43,7 +44,7 @@ third_nav_title: Our People
 |  Mdm Peh Kai Le (LH /English)<br> Email: [peh_kai_le@moe.edu.sg](mailto:peh_kai_le@moe.edu.sg)  |
 |  Mrs Wong Puay Leng (LH /Mathematics) <br> Email: [ang_puay_leng@moe.edu.sg](mailto:ang_puay_leng@moe.edu.sg)  |
 |  Mr Tang Kong Gin Benedict (SH /Mathematics) <br> Email: [tang_kong_gin_benedict@moe.edu.sg](mailto:tang_kong_gin_benedict@moe.edu.sg) |
-|  Mr Cher Kiat Min Kelvin (LH /Science) -Internal<br> Email: [cher_kiat_min_kelvin@moe.edu.sg](mailto:cher_kiat_min_kelvin@moe.edu.sg) |
+|  Mr Cher Kiat Min Kelvin (LH /Science) <br> Email: [cher_kiat_min_kelvin@moe.edu.sg](mailto:cher_kiat_min_kelvin@moe.edu.sg) |
 |  Mdm Noor Aidah Bte Adam (SH /ML & TL)<br> Email: [noor_aidah_adam@moe.edu.sg](mailto:noor_aidah_adam@moe.edu.sg) |
 |  Ms Nurhuda Housman (SH /CCE)<br> Email: [nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg)  |
 |  Mrs Seah -Amy Chua Jia Xi (SH /Student Management)<br> Email: [amy_chua_jia_xi@moe.edu.sg](mailto:amy_chua_jia_xi@moe.edu.sg) |
