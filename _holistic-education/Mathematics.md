@@ -45,7 +45,7 @@ The following are also some other websites to aid in the learning of Mathematics
 | **Time** | [http://www.softschools.com](http://www.softschools.com) <br><br>(go to Telling Time – What Time is it?)<br>[http://www.teachingtime.co.uk](http://www.teachingtime.co.uk) |
 | **Shapes and Patterns** | [http://nlvm.usu.edu/](http://nlvm.usu.edu/) <br><br>(click Tangram Challenge)<br>[http://www.primarygames.com](http://www.primarygames.com) |
 | **Model Drawing** | [http://www.mathplayground.com/thinkingblocks.html](http://www.mathplayground.com/thinkingblocks.html) |
-| **MOE Math Syllabus** | [http://www.moe.gov.sg/education/syllabuses/sciences/](http://www.moe.gov.sg/education/syllabuses/sciences/) |
+| **MOE Math Syllabus** | [https://www.moe.gov.sg/primary/curriculum/syllabus](http://www.moe.gov.sg/education/syllabuses/sciences/) |
 |
 
 #### **Teaching Through the Arts (Primary 3 Fractions)**
