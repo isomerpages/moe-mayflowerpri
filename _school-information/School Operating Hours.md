@@ -30,7 +30,7 @@ Start Time: 7.30 am
 
   
 
-Only opens on 28th Nov 2022 to 2nd Dec 2022
+Only opens on 28 Nov 2022 to 2 Dec 2022
 
   
 
