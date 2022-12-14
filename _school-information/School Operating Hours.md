@@ -6,12 +6,12 @@ description: ""
 ### **School Operating Hours**
 #### **School Hours**
 Start Time: 7.30 am
-* Dismissal: 1.20 pm (Primary 1)
-* Dismissal: 1.25 pm (Primary 2)
+* Dismissal: 1.30 pm (Primary 1)
+* Dismissal: 1.30 pm (Primary 2)
 * Dismissal: 1.30 pm (Primary 3)
-* Dismissal: 1.40 pm (Primary 4)
+* Dismissal: 1.30 pm (Primary 4)
 * Dismissal: 1.30 pm (Primary 5)
-* Dismissal: 1.40 pm (Primary 6)
+* Dismissal: 1.30 pm (Primary 6)
 
 #### **Gates Opening Time**
 (Excluding School Holidays, Weekdays and Public Holidays)
