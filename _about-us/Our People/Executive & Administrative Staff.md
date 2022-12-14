@@ -15,7 +15,6 @@ third_nav_title: Our People
 |  ICT Manager |  Mr Adrian Tan <br>Email: [Tan_Buck_Khoon_Adrian@moe.edu.sg](mailto:Tan_Buck_Khoon_Adrian@moe.edu.sg) |
 |  Desktop Engineer |  Ms Amalia Bte Meswan |
 |  Desktop Engineer | Mr Malvin Raj A/L Kumrun |
-|  Front-Line-Officer (Admin) |  Mdm Maria Siron Many |
 |  Corporate Support Officer |  Mdm Tan Ling Ling |
 |  Corporate Support Officer |  Mdm Sally Loo Seok Kheng |
 |  Librarian |  Mdm Melati Binte Mohamad |
