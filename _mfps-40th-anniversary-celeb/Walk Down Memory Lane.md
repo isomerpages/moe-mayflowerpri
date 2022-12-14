@@ -30,9 +30,7 @@ A showcase of teaching and learning resources used in the last 4 decades are dis
 <img src="/images/wdml4.jpg" style="width:85%">
 </figure>
 
-Click the album below to view more.
 
-**missing album**
 
 If you have any item to contribute, e.g. your MFPS Report Book, textbooks, artwork of many years ago as an MFPS student, you may [email the school](mailto:mayflower_ps@moe.edu.sg) to make arrangements for us to loan your artefacts.
 
