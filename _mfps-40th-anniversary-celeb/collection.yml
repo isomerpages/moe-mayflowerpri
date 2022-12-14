@@ -2,6 +2,7 @@ collections:
   mfps-40th-anniversary-celeb:
     output: true
     order:
+      - Example Title.md
       - 40th Annivesary.md
       - Infohunt.md
       - Walk Down Memory Lane.md
