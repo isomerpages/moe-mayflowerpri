@@ -17,7 +17,7 @@ Email: [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)
 2.00 pm – 3.00 pm
 
 Please refer to this [link](/files/mayflower%20booklist%202023.pdf) to download the Mayflower Primary Booklist 2023
-<!--<img style="width:75%" src="/images/Booklist2023.png"> -->
+<!--<img style="width:75%" src="/images/Booklist2023.png"> --><br>
 [Mayflower Booklist 2023 Primary 1](/files/mayflower%20booklist%202023.pdf)
 <br>
 [Mayflower Booklist 2023 Primary 2](/files/Mayflower%20Booklist%202023%20Primary%202.pdf)<br>
