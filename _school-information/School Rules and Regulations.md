@@ -10,7 +10,7 @@ description: ""
 
 #### **(II) Attendance and Punctuality**
 *   Students are to attend school on a daily basis. They are only allowed to miss school when they are ill and their absence must be covered with a medical certificate and produced immediately upon return to school.
-*   All students must be in classrooms on normal school days by 7.30 a.m. daily for Pledge-taking and the singing of the National Anthem.
+*   All students must be in school on normal school days by 7.30 a.m. daily for Pledge-taking and the singing of the National Anthem.
 *   Each student must have a book to read during pre-assembly. Students are required to bring a Mother Tongue storybook on Mondays and Tuesdays and an English storybook from Wednesdays to Fridays.
 *   All students are to be punctual for all lessons and school activities. They are not allowed to leave the classroom and school premises during school hours without the teacher’s permission.
 
