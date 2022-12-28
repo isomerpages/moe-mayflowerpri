@@ -33,7 +33,7 @@ third_nav_title: Our People
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
 | 3 Excellence | Ms Noor Dinah bte Mohd Amin<br> [noor_dinah_mohd_amin@moe.edu.sg](mailto:noor_dinah_mohd_amin@moe.edu.sg) | Mrs Alagathal Ramathas<br>[alagathal_arumugam@moe.edu.sg](mailto:alagathal_arumugam@moe.edu.sg) |
-| 3 Integrity |  Mdm Catherine Low Yoke Peng (Mrs Catherine Koh) <br>[catherine_koh@moe.edu.sg](mailtoL)| Mdm Ong Siew Lian <br>ong_siew_lian@moe.edu.sg |
+| 3 Integrity |  Mdm Catherine Low Yoke Peng (Mrs Catherine Koh) <br>[catherine_koh@moe.edu.sg](mailtoL)| Mdm Ong Siew Lian <br><br>ong_siew_lian@moe.edu.sg |
 | 3 Resilience | Ms R Sudhisha Pillay<br>[r_sudhisha_pillay@moe.edu.sg](mailto:r_sudhisha_pillay@moe.edu.sg) | Mr Joshua Chin<br>[joshua_chin_jia_jin@moe.edu.sg](mailto:joshua_chin_jia_jin@moe.edu.sg)<br><br>Mr Leong Wai Phang<br>[leong_wai_phang@moe.edu.sg](mailto:>leong_wai_phang@moe.edu.sg) |
 | 3 Respect  | Mr Mohammad Shaifudin<br>[mohammad_shaifudin@moe.edu.sg](mailto:mohammad_shaifudin@moe.edu.sg) | Mdm Alagammal Madasamy<br>(Mrs Anand)<br>[alagammal_madasamy@moe.edu.sg](mailto:alagammal_madasamy@moe.edu.sg) |
 | 3 Service | Mr Fong Kheng Leong<br>[fong_kheng_leong@moe.edu.sg](mailto:fong_kheng_leong@moe.edu.sg)<br> | Mdm Mardiana Bte Mosnee <br>[mardiana_mosnee@moe.edu.sg](mailto:mardiana_mosnee@moe.edu.sg) |
