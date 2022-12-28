@@ -46,7 +46,7 @@ third_nav_title: Our People
 | 4 Integrity  | Ms Tan Woei Yng <br>[tan_woei_yng@moe.edu.sg](mailto:tan_woei_yng@moe.edu.sg) | Mdm Chua Sok Huang [chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg)<br><br>Mr Fan Wen Qi<br>[fan_wen_qi@moe.edu.sg](mailto:fan_wen_qi@moe.edu.sg) |
 | 4 Resilience  | Ms Nurhuda Bte Housman<br>[nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg) | Ms Cheong Wing Fong Dorcas<br> [cheong_wing_fong_dorcas@moe.edu.sg](mailto:cheong_wing_fong_dorcas@moe.edu.sg) |
 | 4 Respect | Mdm Yip Jee Cheng (Mrs Jessie Ching)<br>[yip_jee_cheng@moe.edu.sg](mailto:yip_jee_cheng@moe.edu.sg) | Mdm Nurliyana Bte Ismail <br><br>[nurliyana_ismail@moe.edu.sg](mailto:nurliyana_ismail@moe.edu.sg)  |
-| 4 Service  | Mdm Sivakami d/o Sellakumaran (Mrs Raj)<br>[sivakami_sellakumaran@moe.edu.sg](mailto:sivakami_sellakumaran@moe.edu.sg)| Mdm Annamary d/o Segaran <br><br>[annamary_segaran@moe.edu.sg](mailto:annamary_segaran@moe.edu.sg) |
+| 4 Service  | Mdm Sivakami d/o Sellakumaran (Mrs Raj)<br>[sivakami_sellakumaran@moe.edu.sg](mailto:sivakami_sellakumaran@moe.edu.sg)| Mdm Annamary d/o Segaran <br>[annamary_segaran@moe.edu.sg](mailto:annamary_segaran@moe.edu.sg) |
 
 #### **Primary 5 Teachers 2023**
 
