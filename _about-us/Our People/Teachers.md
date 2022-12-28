@@ -62,7 +62,7 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
-| 5 Excellence | Mdm Szetoh Wei Wei<br> [szetoh_wei_wei@moe.edu.sg](mailto:szetoh_wei_wei@moe.edu.sg) | Ms Kok Nyok [Lankok_nyok_lan@moe.edu.sg](mailto:Lankok_nyok_lan@moe.edu.sg) |
+| 5 Excellence | Mdm Szetoh Wei Wei<br> [szetoh_wei_wei@moe.edu.sg](mailto:szetoh_wei_wei@moe.edu.sg) | Ms Kok Nyok <br>[Lankok_nyok_lan@moe.edu.sg](mailto:Lankok_nyok_lan@moe.edu.sg) |
 | 5 Integrity | Mdm Noor Aidah Adam<br>[noor_aidah_adam@moe.edu.sg](mailto:noor_aidah_adam@moe.edu.sg) | Mdm Ang Chieh Sin Jaselin<br>[ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.s)|
 | 5 Resilience | Ms Ho Wai Wai Angela<br>[ho_wai_wai_angela@moe.edu.sg](mailto:ho_wai_wai_angela@moe.edu.sg) | Mdm Xiao Junjie<br>[xiao_junjie@moe.edu.sg](mailto:xiao_junjie@moe.edu.sg) |
 | 5 Respect | Mdm Loy Shunyu Angeline<br>(Mrs Angeline LeeLoy)<br>[loy_shunyu_angeline@moe.edu.sg](mailto:loy_shunyu_angeline@moe.edu.sg) | Mr Martin Lee Tze Chuen<br>[martin_lee_tze_chuen@moe.edu.sg](mailto:martin_lee_tze_chuen@moe.edu.sg)|
