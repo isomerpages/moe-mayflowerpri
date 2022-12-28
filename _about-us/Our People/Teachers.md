@@ -63,7 +63,7 @@ third_nav_title: Our People
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
 | 6 Excellence | Ms Wong Shilei Charmaine<br> [wong_shilei_charmaine@moe.edu.sg](mailto:wong_shilei_charmaine@moe.edu.sg) | Mr Tang Kong Gin (Mr Benedict Tang)<br>[tang_kong_gin_benedict@moe.edu.sg](mailto:tang_kong_gin_benedict@moe.edu.sg) |
-| 6 Integrity | Mdm Idma Hanita Bte Mohamed<br>[idma_hanita_mohamed@moe.edu.sg](mailto:idma_hanita_mohamed@moe.edu.sg) |Mdm Au Yard Wah<br>[au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)|
+| 6 Integrity | Mdm Idma Hanita Bte Mohamed<br>[idma_hanita_mohamed@moe.edu.sg](mailto:idma_hanita_mohamed@moe.edu.sg) |Mdm Au Yard Wah<br>[au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br><br>Mdm Ong Wee Hun Lynne<br>[ong_wee_hun_lynne@moe.edu.sg](mailto:ong_wee_hun_lynne@moe.edu.sg)|
 | 6 Resilience | Ms Ho Wai Wai Angela<br>[ho_wai_wai_angela@moe.edu.sg](mailto:ho_wai_wai_angela@moe.edu.sg) | Mdm Xiao Junjie<br>[xiao_junjie@moe.edu.sg](mailto:xiao_junjie@moe.edu.sg) |
 | 6 Respect | Mdm Loy Shunyu Angeline<br>(Mrs Angeline LeeLoy)<br>[loy_shunyu_angeline@moe.edu.sg](mailto:loy_shunyu_angeline@moe.edu.sg) | Mr Martin Lee Tze Chuen<br>[martin_lee_tze_chuen@moe.edu.sg](mailto:martin_lee_tze_chuen@moe.edu.sg)|
 |  6 Service | Mdm Zaharinah Bte Amzah<br>[zaharinah_amzah@moe.edu.sg](mailto:zaharinah_amzah@moe.edu.sg) | Mr Phua Jianping Matthew<br>[phua_jian_ping_matthew@moe.edu.sg](mailto:phua_jian_ping_matthew@moe.edu.sg)<br><br>Mr Muhammad Razee Bin Abdul Razak<br>[muhd_razee@moe.edu.sg](mailto:muhd_razee@moe.edu.s)|
