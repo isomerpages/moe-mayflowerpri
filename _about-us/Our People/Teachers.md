@@ -56,7 +56,7 @@ third_nav_title: Our People
 | 5 Integrity | Mdm Noor Aidah Adam<br>[noor_aidah_adam@moe.edu.sg](mailto:noor_aidah_adam@moe.edu.sg) | Mdm Ang Chieh Sin Jaselin<br>[ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.sg) |
 | 5 Resilience | Ms Ho Wai Wai Angela<br>[ho_wai_wai_angela@moe.edu.sg](mailto:ho_wai_wai_angela@moe.edu.sg ) | Ms Kok Nyok Lan<br>[kok_nyok_lan@moe.edu.sg](mailto:kok_nyok_lan@moe.edu.sg) |
 | 5 Respect | Mdm Loy Shunyu Angeline<br>(Mrs Angeline LeeLoy)<br>[loy_shunyu_angeline@moe.edu.sg](mailto:loy_shunyu_angeline@moe.edu.sg) | Mr Martin Lee Tze Chuen<br><br>[martin_lee_tze_chuen@moe.edu.sg](mailto:martin_lee_tze_chuen@moe.edu.sg) |
-|  5 Service | Mdm Zaharinah Bte Amzah<br>[zaharinah_amzah@moe.edu.sg](mailto:zaharinah_amzah@moe.edu.sg)| Mr Phua Jianping Matthew<br>[phua_jian_ping_matthew@moe.edu.sg](mailto:phua_jian_ping_matthew@moe.edu.sg)<br><br>Mr Muhammad Razee Bin Abdul Razak<br>[muhd_razee@moe.edu.sg](mailto:muhd_razee@moe.edu.sg) |
+|  5 Service | Mdm Zaharinah Bte Amzah<br>[zaharinah_amzah@moe.edu.sg](mailto:zaharinah_amzah@moe.edu.sg)| Mr Phua Jianping Matthew<br>[phua_jian_ping_matthew@moe.edu.sg](mailto:phua_jian_ping_matthew@moe.edu.sg)<br><br>Mr Muhammad Razee Bin Abdul Razak<br>[muhammad_razee_abdul_Razak@moe.edu.sg](mailto:muhammad_razee_abdul_Razak@moe.edu.sg) |
 
 #### **Primary 6 Teachers 2023**
 
