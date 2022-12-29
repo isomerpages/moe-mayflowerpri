@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 
 
 #### Singapore Primary Science Olympiad (SPSO) 2022
-[Science Olympiad Awards and Participants](/files/Science_Olympiad_Awards.pdf) (Organised by NUS High School) 
+* [Science Olympiad Awards and Participants](/files/Science_Olympiad_Awards.pdf) (Organised by NUS High School) 
 
 #### Achievements for Math Department 2022
 
