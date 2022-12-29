@@ -9,11 +9,10 @@ No. 2 Sims Close #03-08<br>
 Gemini@Sims<br>
 Singapore 387298
 
-Tel. No: 6743 6645 / 6744 7084
-
+Tel. No: 6743 6645 / 6744 7084<br>
 Website: [www.beauvoix.com](http://www.beauvoix.com/)
 <br>Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
-<br>Opening from Tuesday 03 January 2023 <br><br>
+<br><br>
 **Operating Hours:** **(Accessibility through Gate C):**<br>
 **Monday - Friday**<br>
 9.30 am – 12.00 pm<br>
