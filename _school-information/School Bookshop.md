@@ -8,7 +8,7 @@ description: ""
 Blk 1013 Geylang East Ave 3 #02-154 Singapore 389728<br>
 Tel: 6247 8482<br>
 Fax: 6844 1779
-<br>Starting from Tuesday 03 January 2023<br>
+<br>
 Email: [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)
 
 **Operating Hours (Accessibility through Gate C):**<br>
