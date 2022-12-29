@@ -17,7 +17,8 @@ The students who have attained better than Participation for SMOPS and NMOS have
 
  *   [Math Olympiad Programme Let us Celebrate Term 4 2022](/files/Math_Olympiad_Programme_Term4_2022.pdf) (Organised by NUS High School)
 
-#### 2022 Awards and Participants
+#### Awards and Participants <br>
+#### SMOPS – Singapore Mathematical Olympiad for Primary Schools 2022<br>
 
 | No | Name | Class | SMOPS |
 |---|---|---|---|
@@ -67,10 +68,6 @@ The students who have attained better than Participation for SMOPS and NMOS have
 | 18 | OLIVIA HONG YI-AN | 6IN | Participation |
 | 19 | SANJITH | 6IN | Participation |
 | 20 | CAO THI MINH HA | 6IN | Participation |
-
-
-
-**RIPMWC** – Raffles Institution Primary Mathematics World Contest 2022 
 
 
 
