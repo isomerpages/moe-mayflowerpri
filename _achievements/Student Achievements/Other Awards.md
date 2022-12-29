@@ -25,80 +25,43 @@ third_nav_title: Student Achievements
 ### 2019
 
 
-##### SMTU Education Award 2019 (PSLE)           
+| SMTU Education Award 2019 (PSLE) |  |
+|---|---|
+| The Singapore Malay Teachers’ Union (SMTU) awarded the following students from our school with SMTU Education Award (PSLE) for 2019 |  |
+| NUR YASMIN HUDA BINTE SAMRI | P6-EC |
+| NUR YUSRINA AIN BINTE SAMRI | P6-SV |
+|
 
-  
+| Singapore Primary School Sports Council (SPSSC) National School Games – Sportsmanship Award |  |
+|---|---|
+| MURUGANANDAM DEEPTHI | P5-RT |
+| KIMAYA VIJAY WARRIER | P6-EC |
+|
 
-The Singapore Malay Teachers’ Union (SMTU) awarded the following students from our school with SMTU Education Award (PSLE) for 2019
+| National Story Writing Competition 2019 |  |
+|---|---|
+| PRIMARY SCHOOL GROUP ( 1st ) |  |
+| CHEN TIANYNG | P6-SV |
+|  |  |
 
-  
+| 25th National Primary School On-The-Spot Chinese Creative Essay Writing Competition |  |
+|---|---|
+| GROUP A ( Consolation ) |  |
+| FENG YILIN | P6-EC |
+| LIM JUN MING | P6-EC |
+| NON-CHINESE GROUP ( 3rd ) |  |
+| KENNETH RENALD GUNAWAN | P4-RT |
+|
 
-NUR YASMIN HUDA BINTE SAMRI                    P6-EC
-
-NUR YUSRINA AIN BINTE SAMRI                      P6-SV  
-
-  
-
-**Singapore Primary School Sports Council (SPSSC) National School Games – Sportsmanship Award**  
-
-  
-
-MURUGANANDAM DEEPTHI                           P5-RT
-
-KIMAYA VIJAY WARRIER                                  P6-EC  
-
-  
-
-  
-
-National Story Writing Competition 2019
-
-  
-
-**PRIMARY SCHOOL GROUP ( 1st )**
-
-  
-
-CHEN TIANYNG                                               P6-SV
-
-  
-
-  
-
-25th National Primary School On-The-Spot Chinese Creative Essay Writing Competition
-
-  
-
-**GROUP A ( Consolation )**
-
-  
-
-FENG YILIN                                                        P6-EC
-
-LIM JUN MING                                                   P6-EC  
-
-  
-
-**NON-CHINESE GROUP ( 3rd )**  
-
-KENNETH RENALD GUNAWAN                      P4-RT           
-
-  
-
-##### National Malay Writing Competition 2019
-
-RIN ARDINI BTE JOHAN                             P6-IN  (Gold)
-
-NUR YASMIN HUDA BTE SAMRI                P6-EC (Gold-Finalist)  
-
-MUHAMMAD Dizvan Bin Roslan                  P2-CT (Bronze)  
-
-KEJORA BINTE MOKHZANI                        P2-RS (Bronze)  
-
-SABRI BOULEFKHAD                                  P3-IN (Bronze)  
-
-NAYLI ATHILAH BINTE MD SALLIHIN         P3-IN (Bronze)  
-
-ALYSHA NADYA BINTE MUHAMMAD         P6-IN (Bronze)
+| National Malay Writing Competition 2019 |  |  |
+|---|---|---|
+| RIN ARDINI BTE JOHAN | P6-IN | (Gold) |
+| NUR YASMIN HUDA BTE SAMRI | P6-EC (Gold-Finalist) |  |
+| MUHAMMAD Dizvan Bin Roslan | P2-CT (Bronze) |  |
+| KEJORA BINTE MOKHZANI | P2-RS (Bronze) |  |
+| SABRI BOULEFKHAD | P3-IN (Bronze) |  |
+| NAYLI ATHILAH BINTE MD SALLIHIN | P3-IN (Bronze) |  |
+| ALYSHA NADYA BINTE MUHAMMAD | P6-IN (Bronze) |  |
+|
 
 * [Other Students Award 2019](/files/2019%20awards.pdf)
