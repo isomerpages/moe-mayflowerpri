@@ -43,6 +43,8 @@ The students who have attained better than Participation for SMOPS and NMOS have
 
 **SMOPS** – Singapore Mathematical Olympiad for Primary Schools 2022<br><br>
 
+#### RIPMWC – Raffles Institution Primary Mathematics World Contest 2022 <br>
+
 | No | Name | Class | RIPMWC |
 |---|---|---|---|
 | 1 | LAN XINGXIAN | 6EC | Merit |
