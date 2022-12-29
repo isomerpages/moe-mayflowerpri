@@ -42,7 +42,6 @@ The students who have attained better than Participation for SMOPS and NMOS have
 | 18 | SANJITH | 6IN | Participation |
 | 19 | CAO THI MINH HA | 6IN | Participation |
 
-<br><br>
 
 ##### RIPMWC – Raffles Institution Primary Mathematics World Contest 2022 <br>
 
