@@ -8,13 +8,15 @@ description: ""
 Blk 1013 Geylang East Ave 3 #02-154 Singapore 389728<br>
 Tel: 6247 8482<br>
 Fax: 6844 1779
-
+<br>Starting from Tuesday 03 January 2023<br>
 Email: [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg)
 
 **Operating Hours (Accessibility through Gate C):**<br>
 **Monday - Friday**<br>
 9.30 am – 12.00 pm<br>
 2.00 pm – 3.00 pm
+
+
 
 Please refer to this [link](/files/mayflower%20booklist%202023.pdf) to download the Mayflower Primary Booklist 2023
 <!--<img style="width:75%" src="/images/Booklist2023.png"> -->
