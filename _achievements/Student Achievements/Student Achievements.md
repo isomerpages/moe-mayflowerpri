@@ -41,7 +41,7 @@ The students who have attained better than Participation for SMOPS and NMOS have
 | 18 | SANJITH | 6IN | Participation |
 | 19 | CAO THI MINH HA | 6IN | Participation |
 
-<br>
+**SMOPS** – Singapore Mathematical Olympiad for Primary Schools 2022<br><br>
 
 | No | Name | Class | RIPMWC |
 |---|---|---|---|
@@ -68,9 +68,8 @@ The students who have attained better than Participation for SMOPS and NMOS have
 
 
 
-1\.  **RIPMWC** – Raffles Institution Primary Mathematics World Contest 2022 
+**RIPMWC** – Raffles Institution Primary Mathematics World Contest 2022 
 
-2\.  **SMOPS** – Singapore Mathematical Olympiad for Primary Schools 2022
 
 
 #### NMOS – National Mathematical Olympiad of Singapore 2022
