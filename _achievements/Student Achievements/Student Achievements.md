@@ -4,8 +4,7 @@ permalink: /achievements/Student-Achievements/Student-Achievements/
 description: ""
 third_nav_title: Student Achievements
 ---
-
-### Student Achievement
+## Student Achievements
 
 [Science Olympiad Awards and Participants](/files/Science_Olympiad_Awards.pdf) (Organised by NUS High School) 
 
