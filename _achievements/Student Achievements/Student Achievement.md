@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 [Science Olympiad Awards and Participants](/files/Science_Olympiad_Awards.pdf) (Organised by NUS High School) 
 
 
-### Achievements for Math Department 2022
+#### Achievements for Math Department 2022
 
 The students who have attained better than Participation for SMOPS and NMOS have their individual photo embedded in the link below. 
 
@@ -17,7 +17,7 @@ The students who have attained better than Participation for SMOPS and NMOS have
 
  *   [Math Olympiad Programme Let us Celebrate Term 4 2022](/files/Math_Olympiad_Programme_Term4_2022.pdf) (Organised by NUS High School)
 
-### 2022 Awards and Participants
+#### 2022 Awards and Participants
 
 | No | Name | Class | SMOPS |
 |---|---|---|---|
@@ -73,7 +73,7 @@ The students who have attained better than Participation for SMOPS and NMOS have
 2\.  **SMOPS** – Singapore Mathematical Olympiad for Primary Schools 2022
 
 
-### NMOS – National Mathematical Olympiad of Singapore 2022
+#### NMOS – National Mathematical Olympiad of Singapore 2022
 
 | No | Name | Class | NMOS Achievement |
 |---|---|---|---|
@@ -100,5 +100,3 @@ The students who have attained better than Participation for SMOPS and NMOS have
 | 21 | JAYDON SEAH SAY HONG | 4EC | Participation |
 | 22 | GANESH ABHAY | 4RT | Participation |
 | 23 | JACOB YEO GUAN CHONG | 4RT | Participation |
-
-
