@@ -17,7 +17,7 @@ The students who have attained better than Participation for SMOPS and NMOS have
 
  *   [Math Olympiad Programme Let us Celebrate Term 4 2022](/files/Math_Olympiad_Programme_Term4_2022.pdf) (Organised by NUS High School)
 
-#### Awards and Participants <br>
+#### Awards and Participants 
 ##### SMOPS – Singapore Mathematical Olympiad for Primary Schools 2022<br>
 
 | No | Name | Class | SMOPS |
