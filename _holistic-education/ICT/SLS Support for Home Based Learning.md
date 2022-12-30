@@ -5,8 +5,10 @@ description: ""
 third_nav_title: ICT
 ---
 ### **SLS Support for Home-based Learning**
-##### **Coming 1 December 2022** (New)
+##### **December 2022 updates**
 [Simplified login to SLS-Student and Parent Information Sharing](/files/slsppt.pdf)
+[Updates_Login_to_SLS](/files/ntp60.pdf)<br>
+[Consent Form MOE Centalized ICT_Systems](/files/Consent_Form_MOE_Centalized_ICT_Systems.pdf)
 
 ##### **Non-School Operating Hours**
 Students can only contact the SLS Helpdesk outside the school operating hours.
