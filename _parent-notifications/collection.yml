@@ -1,5 +1,5 @@
 collections:
-  notifications-to-parents-2023:
+  parent-notifications:
     output: true
     order:
       - Parent Notification.md
