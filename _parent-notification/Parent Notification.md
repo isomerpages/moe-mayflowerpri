@@ -3,7 +3,6 @@ title: Parent Notification
 permalink: /parent-notification/
 description: ""
 ---
-
 ### **Parent Notification**
 
 *   [Notifications to Parents](https://staging.dumgjq4ikmf5k.amplifyapp.com/parent-notification/notifications-to-parents/)
