@@ -1,5 +1,5 @@
 collections:
-  parent-notifications:
+  parent-notification:
     output: true
     order:
       - Parent Notification.md
