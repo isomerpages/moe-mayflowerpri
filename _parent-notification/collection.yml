@@ -1,5 +1,4 @@
 collections:
   parent-notification:
     output: true
-    order:
-      - Parent Notification.md
+    order: []
