@@ -23,7 +23,7 @@ third_nav_title: Character & Citizenship Edu
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-#### **Overview of Mayflower Priamry Schoo's Sexuality Education Programme for 2022**
+#### **Overview of Mayflower Priamry Schoo's Sexuality Education Programme for 2023**
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:<br>
@@ -37,7 +37,7 @@ c. Character and Citizenship Education (CCE)
 
 7\. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
-##### **At Mayflower Primary School, the following Sexuality Education lessons will be taught in 2022:**
+##### **At Mayflower Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 ##### **Primary 5**
 
@@ -71,7 +71,7 @@ c. Character and Citizenship Education (CCE)
 
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Opt-out_Form.pdf). The completed opt-out form is to be submitted by **Thursday, 27 January 2022.**
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/2023mfpsgy). The completed opt-out form is to be submitted by **Thursday, 05 January 2023.**
 
 10\. Parents can contact the school at **6452 0849** or [mayflower\_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
