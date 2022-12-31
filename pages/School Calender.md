@@ -51,10 +51,9 @@ The following tables outline the school terms and term breaks. These dates can a
 | Term IV | Deepavali<br>Day after Deepavali<br>Christmas Day | Sun 12 Nov<br>Mon 13 Nov<br>Mon 25 December |
 |
 
-Monday, 3 January, will be a school holiday.<br>
-Monday, 2 May, will be a public holiday.<br>
-Monday, 16 May, will be a public holiday.<br>
-Monday, 11 July, will be a public holiday.<br>
-Monday, 26 December, will be a public holiday.
 
-Following the announcement by the Majlis Ugama Islam Singapura (Muis) on 21 October 2021 on the revised dates for Hari Raya Puasa and Hari Raya Haji in 2022, the Ministry of Manpower (MOM) has gazetted 3 May 2022 and 10 July 2022 as the new public holidays for Hari Raya Puasa and Hari Raya Haji respectively.
+
+Monday, 2 Jan will be a public holiday.<br>
+Tuesday, 24 Jan will be a public holiday.<br>
+Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>
+Monday, 13 Nov will be a public holiday.
