@@ -35,10 +35,10 @@ The following tables outline the school terms and term breaks. These dates can a
 
 | | |
 |---|---|
-| Youth Day | Sun 3 July (The following Monday, 4 July will be a scheduled school holiday.) |
-| Day after National Day | Wed 10 August |
-| Teachers’ Day | Fri 2 September |
-| Children’s Day (for primary schools and primary sections of full schools only) | Fri 7 October |
+| Youth Day | Sun 2 July (The following Monday, 3 July will be a scheduled school holiday.) |
+| Day after National Day | Thurs 10 August |
+| Teachers’ Day | Fri 1 September |
+| Children’s Day (for primary schools and primary sections of full schools only) | Fri 6 October |
 |
 
 #### **Public Holidays 2023**
