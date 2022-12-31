@@ -18,11 +18,11 @@ description: ""
 | TERM BREAKS |  |
 |:---:|:---:|
 | **SEMESTER 1** |  |
-| Between Term 1 and 2 |  (Sat) 12 March to (Sun) 20 March |
-| Between Semesters 1 and 2 |  (Sat) 28 May to (Sun) 26 June |
+| Between Term 1 and 2 |  (Sat) 11 March 2023 to (Sun) 19 March 2023 |
+| Between Semesters 1 and 2 |  (Sat) 27 May 2023 to (Sun) 25 June 2023 |
 | **SEMESTER 2** |  |
-| Between Term 3 and 4 |  (Sat) 3 September to (Sun) 11 September |
-| At End of School Year |  (Sat) 19 November to (Sat) 31 December |
+| Between Term 3 and 4 |  (Sat) 2 September 2023 to (Sun) 10 September 2023 |
+| At End of School Year |  (Sat) 18 November 2023 to (Sun) 31 December 2023 |
 |
 
 #### **Events and Activities**
