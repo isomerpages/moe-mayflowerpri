@@ -31,7 +31,7 @@ The following tables outline the school terms and term breaks. These dates can a
 
 [Events & Activities for Semester 1](/files/events%20and%20activities.pdf)
 
-#### **Scheduled School Holidays 2022**
+#### **Scheduled School Holidays 2023**
 
 | | |
 |---|---|
@@ -41,7 +41,7 @@ The following tables outline the school terms and term breaks. These dates can a
 | Children’s Day (for primary schools and primary sections of full schools only) | Fri 7 October |
 |
 
-#### **Public Holidays 2022**
+#### **Public Holidays 2023**
 
 |  |  |  |
 |---|---|---|
