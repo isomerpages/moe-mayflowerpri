@@ -29,7 +29,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 5\. The subjects that incorporate topics on sexuality include:<br>
 a. Science<br>
-b. Character and Citizenship Education (CCE) <br>
+b. Character and Citizenship Education (CCE)<br>
 
 
 #### **Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
