@@ -76,4 +76,4 @@ b. Character and Citizenship Education (CCE)<br>
 
 10\. Parents can contact the school at **6452 0849** or [mayflower\_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-11\. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+ 
