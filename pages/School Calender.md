@@ -27,9 +27,9 @@ description: ""
 
 #### **Events and Activities**
 
-The following tables outline the school terms and term breaks. These dates can also be found in the Student’s Handbook and the Ministry of Education website. There will be no school activities during term breaks, public and school holidays to allow students to take a break and spend quality time with their families.
+The following tables outline the school terms and term breaks. These dates can also be found in the Student’s Handbook and the Ministry of Education [website](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023). There will be no school activities during term breaks, public and school holidays to allow students to take a break and spend quality time with their families.
 
-[Events & Activities for Semester 1](/files/events%20and%20activities.pdf)
+<!--[Events & Activities for Semester 1](/files/events%20and%20activities.pdf) -->
 
 #### **Scheduled School Holidays 2023**
 
