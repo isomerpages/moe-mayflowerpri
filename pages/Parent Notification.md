@@ -3,10 +3,6 @@ title: Parent Notification
 permalink: /parent-notification/
 description: ""
 ---
-
-
-
-
 ### **Parent Notification**
 
 *   [Notifications to Parents](https://staging.dumgjq4ikmf5k.amplifyapp.com/parent-notification/notifications-to-parents/)
@@ -17,5 +13,5 @@ description: ""
 *   [Student Care Centre](https://staging.dumgjq4ikmf5k.amplifyapp.com/about-us/our-partners/big-heart-student-care/)
 *   [MOE Kindergarten @Mayflower](https://staging.dumgjq4ikmf5k.amplifyapp.com/school-information/moe-kindergarten/)
 
-*   [School Calendar 2022](https://staging.dumgjq4ikmf5k.amplifyapp.com/parent-notification/school-calender/)
+*   [School Calendar 2023](https://staging.dumgjq4ikmf5k.amplifyapp.com/parent-notification/school-calender/)
 *   [Parents Gateway Guide](https://staging.dumgjq4ikmf5k.amplifyapp.com/student-notifications/parent-gateway/)
