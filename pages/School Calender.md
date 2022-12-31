@@ -52,7 +52,7 @@ The following tables outline the school terms and term breaks. These dates can a
 |
 
 
-**Note:**<br>
+**Note:**
 * Monday, 2 Jan will be a public holiday.<br>
 * Tuesday, 24 Jan will be a public holiday.<br>
 * Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>
