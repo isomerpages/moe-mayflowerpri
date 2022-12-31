@@ -47,8 +47,8 @@ The following tables outline the school terms and term breaks. These dates can a
 |---|---|---|
 | Term I | New Year’s Day<br>Day after New Year's Day<br>Chinese New Year<br> Day after Chinese New Year | Sun 1 January <br>Mon 2 January<br>Sun 22 & Mon 23 January <br>Tue 24 January |
 | Term II | Good Friday<br>Hari Raya Puasa<br>Labour Day<br>Vesak Day | Fri 7 April <br>Sat 22 April<br> Mon 1 May <br>Fri 2 Jun|
-| Term III | Hari Raya Haji<br>National Day | Sun 10 July1<br>Tue 9 August |
-| Term IV | Deepavali<br>Christmas Day | Mon 24 October<br>Sun 25 December |
+| Term III | Hari Raya Haji<br>National Day | Thur 29 July<br>Wed 9 August |
+| Term IV | Deepavali<br>Day after Deepavali<br>Christmas Day | Sun 12 Nov<br>Mon 13 Nov<br>Mon 25 December |
 |
 
 Monday, 3 January, will be a school holiday.<br>
