@@ -75,5 +75,3 @@ b. Character and Citizenship Education (CCE)<br>
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/2023mfpsgy). The completed opt-out form is to be submitted by **Thursday, 05 January 2023.**
 
 10\. Parents can contact the school at **6452 0849** or [mayflower\_ps@moe.edu.sg](mailto:mayflower_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
- 
