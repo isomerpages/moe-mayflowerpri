@@ -8,11 +8,11 @@ description: ""
 | SCHOOL TERM |  |
 |:---:|:---:|
 | **SEMESTER 1** |  |
-| Term 1 | (Tue) 4 January to (Fri) 11 March |
-| Term 2 | (Mon) 21 March to (Fri) 27 May |
+| Term 1 | (Tue) 3 January 2023 to (Fri) 10 March 2023 |
+| Term 2 | (Mon) 20 March 2023 to (Fri) 26 May 2023 |
 | **SEMESTER 2** |  |
-| Term 3 | (Mon) 27 June to (Fri) 2 September |
-| Term 4 | (Mon) 12 September to (Fri) 18 November |
+| Term 3 | (Mon) 26 June 2023 to (Fri) 1 September 2023 |
+| Term 4 | (Mon) 11 September 2023 to (Fri) 17 November 2023 |
 |
 
 | TERM BREAKS |  |
