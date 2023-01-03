@@ -44,7 +44,7 @@ b. Character and Citizenship Education (CCE)<br>
 
 | UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: |
 |:---:|:---:|---|
-| Gosh! I Am Changing<br>(Term 1) | What Is Happening To Me?<br>(30 min) | - know what puberty is<br>- identify the physical changes during puberty |
+| Puberty | The Changes in Me<br>(1 hour) | - know what puberty is<br>- identify the physical changes during puberty |
 |  | What Can I Do? (Part 1)<br> (30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |
 |  | What Can I Do? (Part 2)<br> (30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |
 |  | Main Task<br>(30 min) | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. |
