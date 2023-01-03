@@ -44,7 +44,9 @@ b. Character and Citizenship Education (CCE)<br>
 
 | UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: |
 |:---:|:---:|---|
-| Puberty | The Changes in Me<br>(1 hour) | - know what puberty is<br>- identify the physical changes during puberty |
+| Puberty | The Changes in Me<br>(1 hour) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |
 |  | What Can I Do? (Part 1)<br> (30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |
 |  | What Can I Do? (Part 2)<br> (30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |
 |  | Main Task<br>(30 min) | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. |
