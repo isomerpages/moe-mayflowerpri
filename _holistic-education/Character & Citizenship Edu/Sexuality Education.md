@@ -54,7 +54,7 @@ Sexual Abuse | Keeping Myself Safe<br>**(1 hour**)|In this lesson, students will
 
 | UNIT | LESSONS / DURATION | Lesson Objectives<br><br>At the end of the lesson, students will be able to: |
 |:---:|:---:|---|
-| <br>Are We More Than Friends?<br>(Term 1)| Who Are My Friends?<br>(30 min) | - identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship |
+| Pornography | Did You Know?<br>(1 hour) | - identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship |
 |  | Am I A Good Friend?<br>(30 min) | - identify the qualities that they have as a friend<br>·   recognise the importance of developing in oneself the qualities of a good friend |
 | Are We More Than Friends?<br>(Term 4) | What is Love?<br>(30 min) | - identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation |
 |  | Am I Falling In Love?<br>(30 min) | - manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers |
