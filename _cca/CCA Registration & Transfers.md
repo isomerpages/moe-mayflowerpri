@@ -15,7 +15,7 @@ Towards the end of every year, P2 students will have to make a selection of 3 CC
 
 While we encourage all students to continue in their chosen CCA from Primary 4 onwards, we understand that there may be circumstances that cause students to be unable to continue in a CCA. Should that situation arise, please click/scan the QR code below to request for a change in CCA. We will update your child/ward on the transfer outcome via the All-Ears platform or through a hardcopy notification. If the form is closed, it means that no transfers will be accepted in this point of time.
 
-<p><a href="https://form.gov.sg/6346c8a7283e4d001134ff52">  
+<p><a href="https://forms.moe.edu.sg/forms/v3zZze">  
 <img style="width:35%" src="/images/ccatransfer.png">  
 </a></p>
 
