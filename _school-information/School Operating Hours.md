@@ -44,10 +44,10 @@ Only opens on 28 Nov 2022 to 2 Dec 2022
 
   
 
-*   Mon-Thurs : 8 am - 5:30 pm
-*   Friday        : 8 am - 5:00 pm
-*   Lunch        : 12:30 pm - 1:30 pm (CLOSED)
+*   Mon-Thurs : 8am - 5:30pm
+*   Friday        : 8am - 5:00pm
+*   Lunch        : 1:00 pm - 2:00pm (CLOSED)
 
-  
+	![](/images/Dental-Jan_2023.png)
 
 We apologize for any inconvenience caused.  Thank you.
