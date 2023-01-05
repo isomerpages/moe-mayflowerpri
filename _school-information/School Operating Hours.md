@@ -28,9 +28,7 @@ Start Time: 7.30 am
 
 **Mayflower Primary Dental Clinic Opening Dates**
 
-  
-
-Only opens on 28 Nov 2022 to 2 Dec 2022
+![](/images/Dental-Jan_2023.png)
 
   
 
@@ -44,10 +42,10 @@ Only opens on 28 Nov 2022 to 2 Dec 2022
 
   
 
-*   Mon-Thurs : 8am - 5:30pm
+*   Monday to Thursday : 8am - 5:30pm
 *   Friday        : 8am - 5:00pm
 *   Lunch        : 1:00 pm - 2:00pm (CLOSED)
 
-	![](/images/Dental-Jan_2023.png)
+
 
 We apologize for any inconvenience caused.  Thank you.
