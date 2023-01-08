@@ -47,7 +47,7 @@ Alternatively, students can email our school-based SLS Helpdesk < [mayflower\_p
 
 **Method 3:**  Call School-based Helpline: 6452 0849. Your Date of Birth (DOB) will be used for verification purposes.
 <img src="/images/Self-help_login.png" style="width:100%">
-![]()
+
 ##### **Q2 : I have forgotten my username. What should I do?**
 The format of your user name is a combination of the **first 5 characters of your Name, the last 4 digits and the letter** of your NRIC/FIN/BC, **e.g. (RACHE1234Z).**
 
