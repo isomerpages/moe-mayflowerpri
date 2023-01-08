@@ -39,7 +39,7 @@ Alternatively, students can email our school-based SLS Helpdesk < [mayflower\_p
 
 #### **FREQUENTLY ASKED QUESTIONS**
 ##### **Q1 : I have forgotten my password. What should I do?**
-<img src="/images/sls.png" style="width:75%">
+<img src="/images/SLS.png" style="width:75%">
 
 **Method 1:** You can perform a password reset if you have set up a password reset email. Alternatively, you have to answer 2 security questions correctly. Click ‘Forgot Password’ on the SLS login page for a password reset.
 
