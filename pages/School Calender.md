@@ -6,7 +6,7 @@ description: ""
 ### **School Calender**
 
 | SCHOOL TERM |  |
-|:---:|:---:|
+|:---|:---:|
 | **SEMESTER 1** |  |
 | Term 1 | (Tue) 3 January 2023 to (Fri) 10 March 2023 |
 | Term 2 | (Mon) 20 March 2023 to (Fri) 26 May 2023 |
@@ -16,7 +16,7 @@ description: ""
 |
 
 | TERM BREAKS |  |
-|:---:|:---:|
+|:---|:---:|
 | **SEMESTER 1** |  |
 | Between Term 1 and 2 |  (Sat) 11 March 2023 to (Sun) 19 March 2023 |
 | Between Semesters 1 and 2 |  (Sat) 27 May 2023 to (Sun) 25 June 2023 |
